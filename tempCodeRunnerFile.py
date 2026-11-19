@@ -1,1 +1,3 @@
-24_mobile_app_usage.csv
+
+print(df.dtypes, "\n")
+print(df.head(), "\n")
