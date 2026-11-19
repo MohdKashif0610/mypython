@@ -10,4 +10,5 @@ if(per>80):
 elif(60<per<80):
     print("grade B")
 else:
-    print("you have to workhard")        
+    print("you have to workhard")
+            
