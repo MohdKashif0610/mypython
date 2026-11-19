@@ -1,0 +1,1521 @@
+Shipment_ID,Order_Date,Delivery_Date,Delivery_Partner,Shipping_Method,Shipping_Cost,Order_Status,Customer_City
+SHP2167,2026-02-12,2026-02-19,BlueDart,Economy,39.45,Returned,Hyderabad
+SHP1881,2026-09-01,2026-09-13,Ecom Express,Economy,33.79,Delivered,Mumbai
+SHP2078,2026-03-10,2026-03-14,XpressBees,Standard,65.59,Returned,Bengaluru
+SHP1465,2026-06-01,2026-06-05,BlueDart,Express,118.58,Delivered,Bengaluru
+SHP2386,2026-09-03,,DTDC,Standard,59.14,Delivered,Jaipur
+SHP1694,2026-07-14,2026-07-21,BlueDart,Economy,36.48,Delivered,Jaipur
+SHP1603,2026-07-28,2026-07-30,BlueDart,Express,,Delivered,Mumbai
+SHP1875,2026-10-18,2026-10-19,BlueDart,Two-Day,90.57,Delivered,Mumbai
+SHP1167,2026-04-11,2026-04-14,BlueDart,Express,115.27,Delivered,Kolkata
+SHP1370,2026-09-06,2026-09-16,BlueDart,Economy,39.79,Delivered,Mumbai
+SHP1716,2026-09-10,2026-09-15,Delhivery,Express,,Delivered,Bengaluru
+SHP1975,2026-02-02,2026-02-04,BlueDart,Express,150.13,Delivered,Delhi
+SHP1354,2026-04-10,2026-04-14,Delhivery,Two-Day,112.23,Delivered,Mumbai
+SHP2141,2026-05-21,2026-05-24,Delhivery,Express,123.46,Returned,Mumbai
+SHP1263,2026-08-14,2026-08-23,Delhivery,Economy,23.99,Delivered,Delhi
+SHP2413,2026-02-21,,XpressBees,Express,167.64,Cancelled,Hyderabad
+SHP1095,2026-06-12,2026-06-18,BlueDart,Standard,39.77,Delivered,Pune
+SHP1611,2026-06-14,2026-06-20,Delhivery,Standard,42.94,Delivered,Jaipur
+SHP1071,2026-10-20,2026-10-24,DTDC,Express,127.99,Delivered,Mumbai
+SHP1677,2026-06-16,2026-06-23,Delhivery,Standard,64.89,Returned,Jaipur
+SHP1757,2026-05-20,,BlueDart,Standard,57.32,Cancelled,Pune
+SHP1718,2026-05-06,2026-05-10,DTDC,Express,151.13,Delivered,Chennai
+SHP1374,2026-03-23,2026-03-25,BlueDart,Express,98.38,Delivered,Chennai
+SHP1344,2026-10-25,2026-11-01,BlueDart,Standard,49.6,Delivered,Hyderabad
+SHP1513,2026-09-18,,XpressBees,Express,123.64,Delivered,Pune
+SHP1517,2026-07-27,2026-07-30,BlueDart,Express,126.81,Delivered,Chennai
+SHP1206,2026-01-08,2026-01-17,BlueDart,Economy,29.68,Delivered,Hyderabad
+SHP2186,2026-05-05,2026-05-10,Ecom Express,Standard,55.25,Returned,Kolkata
+SHP1116,2026-02-03,2026-02-04,BlueDart,Express,95.51,Delivered,Hyderabad
+SHP1835,2026-02-12,2026-02-22,XpressBees,Economy,37.04,Delivered,Jaipur
+SHP1602,2026-03-02,2026-03-08,BlueDart,Standard,66.75,Delivered,Jaipur
+SHP1286,2026-06-14,2026-06-23,Ecom Express,Standard,56.9,Delivered,Hyderabad
+SHP1043,2026-09-26,,Delhivery,Standard,39.06,Cancelled,Delhi
+SHP2089,2026-04-16,2026-04-22,Delhivery,Economy,21.93,Delivered,Hyderabad
+SHP1712,2026-08-25,2026-08-27,BlueDart,Express,159.41,Delivered,Pune
+SHP1863,2026-09-18,2026-09-26,DTDC,Standard,64.45,Delivered,Kolkata
+SHP2202,2026-03-31,2026-04-10,Ecom Express,Standard,53.87,Delivered,Chennai
+SHP1287,2026-05-08,,Ecom Express,Standard,44.28,In Transit,Bengaluru
+SHP1186,2026-09-25,,XpressBees,Express,138.0,Cancelled,Bengaluru
+SHP1407,2026-07-28,,DTDC,Economy,36.48,In Transit,Hyderabad
+SHP1117,2026-03-26,2026-03-31,XpressBees,Express,98.56,Delivered,Pune
+SHP1397,2026-04-04,2026-04-10,XpressBees,Standard,77.22,Delivered,Pune
+SHP1060,2026-05-13,2026-05-20,Delhivery,Standard,43.05,Delivered,Chennai
+SHP1736,2026-01-04,,DTDC,Express,111.44,In Transit,Hyderabad
+SHP2244,2026-07-24,2026-07-31,Delhivery,Standard,60.91,Delivered,Chennai
+SHP1146,2026-10-13,2026-10-17,BlueDart,Express,134.15,Delivered,Jaipur
+SHP2011,2026-04-08,2026-04-29,BlueDart,Economy,22.83,Delivered,Hyderabad
+SHP1172,2026-02-05,2026-02-17,BlueDart,Economy,39.19,Delivered,Jaipur
+SHP1127,2026-01-11,2026-01-15,DTDC,Express,127.47,Delivered,Pune
+SHP1656,2026-07-08,2026-07-10,BlueDart,Two-Day,87.84,Delivered,Chennai
+SHP2194,2026-04-11,2026-04-19,BlueDart,Standard,,Delivered,Kolkata
+SHP2077,2026-01-28,2026-02-05,DTDC,Economy,26.57,Delivered,Hyderabad
+SHP2053,2026-01-22,2026-02-01,Ecom Express,Economy,32.85,Delivered,Hyderabad
+SHP2447,2026-10-20,,Ecom Express,Standard,56.19,Cancelled,Hyderabad
+SHP1101,2026-07-11,2026-07-13,XpressBees,Two-Day,58.85,Delivered,Bengaluru
+SHP2246,2026-02-25,2026-03-03,Ecom Express,Standard,,Delivered,Kolkata
+SHP2293,2026-01-06,2026-01-16,BlueDart,Economy,33.5,Delivered,Hyderabad
+SHP1111,2026-05-15,2026-05-22,BlueDart,Standard,59.84,Delivered,Mumbai
+SHP1501,2026-03-13,2026-03-22,DTDC,Standard,37.87,Delivered,Chennai
+SHP2020,2026-02-06,2026-02-12,DTDC,Standard,78.86,Delivered,Chennai
+SHP2433,2026-03-02,2026-03-14,Delhivery,Economy,28.77,Delivered,Hyderabad
+SHP1888,2026-07-06,2026-07-11,Delhivery,Standard,73.74,Delivered,Kolkata
+SHP1340,2026-09-24,2026-09-26,BlueDart,Two-Day,126.2,Delivered,Hyderabad
+SHP1740,2026-08-21,2026-08-29,XpressBees,Standard,39.02,Delivered,Mumbai
+SHP1907,2026-04-05,2026-04-11,BlueDart,Standard,,Delivered,Bengaluru
+SHP1704,2026-07-10,2026-07-14,XpressBees,Express,116.69,Delivered,Kolkata
+SHP2457,2026-03-14,2026-03-16,BlueDart,Two-Day,95.48,Delivered,Delhi
+SHP2281,2026-07-23,2026-07-27,DTDC,Express,111.55,Delivered,Kolkata
+SHP1492,2026-02-09,2026-02-12,BlueDart,Express,104.52,Delivered,Hyderabad
+SHP1928,2026-04-23,2026-04-26,Ecom Express,Two-Day,92.34,Delivered,Kolkata
+SHP1063,2026-10-01,2026-10-10,BlueDart,Express,72.17,Delivered,Delhi
+SHP1981,2026-10-01,2026-10-13,Ecom Express,Standard,63.38,Delivered,Mumbai
+SHP2451,2026-02-10,,DTDC,Standard,58.63,Cancelled,Bengaluru
+SHP1058,2026-08-04,,BlueDart,Two-Day,86.31,In Transit,Delhi
+SHP1658,2026-01-18,2026-01-24,Ecom Express,Standard,83.4,Delivered,Chennai
+SHP1284,2026-09-15,2026-09-24,Ecom Express,Standard,49.44,Delivered,Mumbai
+SHP2127,2026-04-27,2026-05-05,DTDC,Economy,39.56,Delivered,Bengaluru
+SHP1674,2026-03-27,2026-03-31,BlueDart,Express,77.49,Delivered,Delhi
+SHP1977,2026-02-17,,XpressBees,Standard,46.63,In Transit,Delhi
+SHP1416,2026-02-24,2026-03-04,Ecom Express,Standard,38.72,Delivered,Bengaluru
+SHP1666,2026-02-20,,Delhivery,Standard,69.19,In Transit,Jaipur
+SHP1598,2026-07-15,2026-07-16,BlueDart,Two-Day,123.31,Delivered,Kolkata
+SHP1200,2026-06-18,,XpressBees,Standard,35.83,In Transit,Mumbai
+SHP2378,2026-03-28,2026-04-03,BlueDart,Standard,68.22,Delivered,Jaipur
+SHP2408,2026-06-29,2026-07-10,Ecom Express,Economy,43.06,Delivered,Mumbai
+SHP2074,2026-10-21,2026-10-29,XpressBees,Standard,60.01,Delivered,Delhi
+SHP2199,2026-01-06,2026-01-11,Delhivery,Standard,56.55,Delivered,Jaipur
+SHP2229,2026-06-13,2026-06-15,BlueDart,Express,119.42,Delivered,Chennai
+SHP1430,2026-03-07,2026-03-12,Delhivery,Standard,69.91,Delivered,Kolkata
+SHP1027,2026-03-09,2026-03-20,Ecom Express,Economy,32.12,Delivered,Jaipur
+SHP1708,2026-06-15,2026-06-25,DTDC,Economy,43.7,Delivered,Pune
+SHP1009,2026-06-19,2026-06-25,XpressBees,Standard,68.53,Delivered,Pune
+SHP1410,2026-01-10,2026-01-19,DTDC,Economy,39.12,Delivered,Delhi
+SHP1997,2026-01-11,2026-01-22,XpressBees,Economy,49.52,Delivered,Bengaluru
+SHP1204,2026-05-25,2026-06-03,DTDC,Economy,43.63,Delivered,Jaipur
+SHP1713,2026-04-15,,Delhivery,Two-Day,96.53,In Transit,Delhi
+SHP2307,2026-10-12,2026-10-16,Ecom Express,Two-Day,81.51,Delivered,Pune
+SHP1325,2026-06-01,2026-06-02,BlueDart,Two-Day,93.51,Delivered,Hyderabad
+SHP2058,2026-08-06,,XpressBees,Economy,26.36,In Transit,Hyderabad
+SHP1691,2026-01-15,2026-01-21,XpressBees,Standard,48.45,Delivered,Kolkata
+SHP1140,2026-03-17,2026-03-19,BlueDart,Express,99.3,Delivered,Hyderabad
+SHP1259,2026-04-28,2026-04-30,XpressBees,Two-Day,77.47,Returned,Bengaluru
+SHP1278,2026-06-04,2026-06-05,DTDC,Express,149.11,Delivered,Jaipur
+SHP1262,2026-03-08,2026-03-11,DTDC,Express,104.65,Delivered,Chennai
+SHP2283,2026-03-29,2026-04-01,Delhivery,Express,140.08,Delivered,Pune
+SHP1878,2026-09-07,2026-09-16,Ecom Express,Standard,65.35,Delivered,Hyderabad
+SHP1432,2026-08-25,2026-08-28,BlueDart,Express,104.13,Delivered,Bengaluru
+SHP1396,2026-07-04,2026-07-06,DTDC,Express,117.4,Delivered,Jaipur
+SHP1960,2026-08-05,,Delhivery,Express,170.25,In Transit,Delhi
+SHP1751,2026-09-21,,BlueDart,Standard,54.35,In Transit,Hyderabad
+SHP1781,2026-05-24,2026-05-29,Delhivery,Express,97.59,Delivered,Bengaluru
+SHP1684,2026-01-02,2026-01-07,XpressBees,Express,92.11,Delivered,Bengaluru
+SHP2313,2026-02-25,2026-02-28,BlueDart,Express,117.9,Delivered,Hyderabad
+SHP1901,2026-03-29,2026-04-13,Delhivery,Economy,28.62,Delivered,Hyderabad
+SHP1017,2026-05-19,2026-05-23,DTDC,Express,120.52,Delivered,Pune
+SHP1358,2026-08-09,2026-08-16,BlueDart,Economy,48.55,Delivered,Mumbai
+SHP2232,2026-04-04,2026-04-11,Delhivery,Standard,55.36,Delivered,Delhi
+SHP2005,2026-01-29,2026-02-17,DTDC,Standard,62.47,Delivered,Delhi
+SHP2082,2026-06-21,2026-06-25,XpressBees,Standard,62.46,Delivered,Jaipur
+SHP2226,2026-09-23,2026-10-04,DTDC,Economy,23.15,Delivered,Chennai
+SHP2002,2026-01-05,2026-01-07,Ecom Express,Two-Day,87.44,Delivered,Jaipur
+SHP1903,2026-06-29,2026-07-05,Delhivery,Standard,64.92,Delivered,Mumbai
+SHP1738,2026-03-02,2026-03-05,BlueDart,Economy,29.53,Delivered,Mumbai
+SHP1717,2026-09-28,2026-10-05,DTDC,Standard,68.91,Delivered,Delhi
+SHP1118,2026-10-03,2026-10-07,Delhivery,Standard,73.63,Returned,Hyderabad
+SHP1484,2026-09-05,2026-09-11,Delhivery,Standard,69.35,Delivered,Mumbai
+SHP1571,2026-06-03,2026-06-06,Ecom Express,Express,78.37,Delivered,Chennai
+SHP1635,2026-08-01,2026-08-02,Delhivery,Two-Day,80.82,Delivered,Bengaluru
+SHP2429,2026-01-12,2026-01-22,XpressBees,Economy,43.97,Delivered,Pune
+SHP1141,2026-09-08,2026-09-14,Delhivery,Standard,52.53,Delivered,Chennai
+SHP2084,2026-09-26,2026-10-06,DTDC,Economy,31.07,Delivered,Pune
+SHP1905,2026-02-20,2026-02-24,BlueDart,Standard,66.87,Delivered,Delhi
+SHP2197,2026-05-26,2026-06-01,XpressBees,Standard,85.71,Delivered,Hyderabad
+SHP1510,2026-01-12,2026-01-16,XpressBees,Express,110.41,Delivered,Jaipur
+SHP1800,2026-06-05,2026-06-13,DTDC,Standard,57.82,Delivered,Mumbai
+SHP1653,2026-07-01,2026-07-04,XpressBees,Two-Day,113.0,Delivered,Kolkata
+SHP1210,2026-01-11,2026-01-16,Delhivery,Standard,63.92,Returned,Mumbai
+SHP2217,2026-08-19,,Ecom Express,Two-Day,79.61,Cancelled,Chennai
+SHP1023,2026-02-02,2026-02-07,Delhivery,Standard,81.22,Delivered,Jaipur
+SHP1228,2026-07-18,2026-07-27,DTDC,Standard,65.52,Delivered,Hyderabad
+SHP1530,2026-06-18,2026-06-29,XpressBees,Economy,46.7,Delivered,Pune
+SHP2018,2026-03-08,,DTDC,Economy,42.46,In Transit,Chennai
+SHP2105,2026-04-17,2026-04-28,DTDC,Economy,37.36,Delivered,Kolkata
+SHP1845,2026-07-18,2026-07-21,Delhivery,Express,,Delivered,Bengaluru
+SHP2390,2026-05-11,2026-05-19,BlueDart,Standard,36.05,Delivered,Pune
+SHP2144,2026-09-12,2026-09-16,Ecom Express,Two-Day,102.11,Delivered,Bengaluru
+SHP1650,2026-06-02,,Ecom Express,Economy,31.42,In Transit,Jaipur
+SHP2335,2026-03-13,2026-03-17,XpressBees,Express,142.62,Delivered,Jaipur
+SHP2206,2026-05-04,2026-05-06,Ecom Express,Express,114.78,Returned,Kolkata
+SHP1693,2026-07-22,2026-07-26,DTDC,Express,87.74,Delivered,Chennai
+SHP2200,2026-09-11,2026-09-15,BlueDart,Standard,66.04,Delivered,Delhi
+SHP1700,2026-01-04,2026-01-07,BlueDart,Standard,62.89,Returned,Chennai
+SHP1471,2026-07-05,2026-07-10,BlueDart,Standard,49.91,Delivered,Bengaluru
+SHP2346,2026-06-06,2026-06-15,XpressBees,Economy,40.37,Delivered,Jaipur
+SHP1013,2026-09-28,2026-10-02,DTDC,Express,117.64,Delivered,Kolkata
+SHP1108,2026-06-18,2026-06-22,BlueDart,Express,,Returned,Jaipur
+SHP2280,2026-06-12,2026-06-14,BlueDart,Express,95.2,Returned,Chennai
+SHP1810,2026-04-14,,XpressBees,Express,91.48,Cancelled,Mumbai
+SHP1732,2026-07-24,2026-07-30,Delhivery,Standard,58.87,Delivered,Mumbai
+SHP1414,2026-05-04,2026-05-11,Ecom Express,Standard,61.43,Delivered,Mumbai
+SHP1034,2026-07-10,,BlueDart,Standard,90.21,Delivered,Mumbai
+SHP1392,2026-09-15,2026-09-21,XpressBees,Standard,68.19,Delivered,Bengaluru
+SHP1098,2026-07-23,,Delhivery,Standard,76.35,In Transit,Bengaluru
+SHP1241,2026-09-04,2026-09-10,DTDC,Standard,66.61,Delivered,Kolkata
+SHP1705,2026-05-15,2026-05-18,BlueDart,Standard,51.55,Delivered,Pune
+SHP1816,2026-08-27,2026-08-29,BlueDart,Express,138.93,Delivered,Jaipur
+SHP1518,2026-09-02,2026-09-11,XpressBees,Economy,21.8,Delivered,Pune
+SHP2081,2026-07-05,2026-07-15,Ecom Express,Standard,72.55,Delivered,Chennai
+SHP1870,2026-03-09,2026-03-15,BlueDart,Economy,31.05,Delivered,Jaipur
+SHP2026,2026-01-05,2026-01-06,BlueDart,Two-Day,116.77,Delivered,Mumbai
+SHP1275,2026-08-14,2026-08-18,Ecom Express,Express,97.97,Delivered,Chennai
+SHP1252,2026-05-01,2026-05-06,DTDC,Two-Day,76.32,Delivered,Delhi
+SHP1829,2026-08-09,2026-08-24,XpressBees,Standard,84.27,Delivered,Jaipur
+SHP1731,2026-10-18,2026-10-27,DTDC,Economy,37.05,Delivered,Hyderabad
+SHP1024,2026-07-04,2026-07-20,Ecom Express,Express,171.08,Delivered,Bengaluru
+SHP1110,2026-06-04,2026-06-12,Delhivery,Standard,59.32,Delivered,Pune
+SHP1015,2026-05-18,,XpressBees,Standard,48.8,Delivered,Bengaluru
+SHP1179,2026-03-04,2026-03-09,Ecom Express,Express,110.78,Delivered,Mumbai
+SHP2069,2026-06-07,2026-06-10,Delhivery,Express,150.54,Returned,Delhi
+SHP2435,2026-04-26,2026-04-30,DTDC,Express,171.96,Delivered,Hyderabad
+SHP2193,2026-02-13,2026-02-22,DTDC,Economy,29.23,Returned,Bengaluru
+SHP1147,2026-09-20,2026-09-28,Delhivery,Standard,65.89,Delivered,Delhi
+SHP1698,2026-01-22,,Ecom Express,Economy,30.51,In Transit,Kolkata
+SHP1967,2026-10-01,2026-10-07,DTDC,Standard,66.65,Delivered,Pune
+SHP1665,2026-08-03,2026-08-07,DTDC,Express,89.49,Delivered,Chennai
+SHP1861,2026-02-09,,BlueDart,Economy,33.41,Delivered,Mumbai
+SHP1699,2026-08-07,2026-08-14,XpressBees,Standard,49.16,Returned,Mumbai
+SHP2448,2026-09-23,2026-09-24,BlueDart,Two-Day,67.15,Delivered,Kolkata
+SHP1185,2026-07-22,,Ecom Express,Standard,64.38,In Transit,Mumbai
+SHP2476,2026-07-30,2026-08-06,Delhivery,Standard,55.81,Delivered,Jaipur
+SHP2431,2026-10-19,2026-10-27,DTDC,Standard,62.44,Delivered,Chennai
+SHP1857,2026-05-07,2026-05-08,XpressBees,Express,121.78,Delivered,Delhi
+SHP1426,2026-05-28,2026-05-29,BlueDart,Two-Day,58.03,Delivered,Hyderabad
+SHP1099,2026-06-07,2026-06-22,Delhivery,Economy,32.83,Delivered,Bengaluru
+SHP1004,2026-01-14,2026-01-22,DTDC,Standard,55.12,Delivered,Chennai
+SHP2102,2026-04-23,2026-04-30,Ecom Express,Express,120.64,Delivered,Pune
+SHP1046,2026-03-21,2026-03-26,Delhivery,Standard,80.73,Delivered,Bengaluru
+SHP1454,2026-03-14,2026-03-19,Ecom Express,Express,89.45,Delivered,Kolkata
+SHP1409,2026-04-27,,DTDC,Two-Day,102.38,In Transit,Chennai
+SHP1193,2026-10-14,2026-10-17,DTDC,Two-Day,100.27,Delivered,Chennai
+SHP2314,2026-07-25,,Delhivery,Standard,56.36,Cancelled,Mumbai
+SHP1328,2026-08-29,2026-09-06,Ecom Express,Economy,37.73,Delivered,Kolkata
+SHP1189,2026-04-13,,BlueDart,Standard,51.44,In Transit,Bengaluru
+SHP1249,2026-07-15,2026-07-22,XpressBees,Standard,,Delivered,Chennai
+SHP2363,2026-06-27,2026-07-01,Delhivery,Express,126.74,Delivered,Chennai
+SHP1883,2026-07-01,2026-07-08,Ecom Express,Standard,52.24,Delivered,Jaipur
+SHP1982,2026-01-03,2026-01-11,Ecom Express,Standard,77.83,Delivered,Hyderabad
+SHP2338,2026-01-20,,Ecom Express,Standard,,In Transit,Mumbai
+SHP1294,2026-03-16,2026-03-23,DTDC,Standard,72.29,Delivered,Kolkata
+SHP2228,2026-01-11,,XpressBees,Standard,58.01,In Transit,Kolkata
+SHP1783,2026-05-26,2026-06-05,Ecom Express,Economy,21.8,Delivered,Jaipur
+SHP2146,2026-01-18,2026-01-23,XpressBees,Express,95.21,Delivered,Delhi
+SHP2262,2026-08-20,2026-08-27,DTDC,Economy,33.62,Delivered,Jaipur
+SHP1383,2026-10-26,2026-10-31,Delhivery,Standard,60.19,Delivered,Mumbai
+SHP1113,2026-05-21,2026-05-31,DTDC,Economy,24.52,Delivered,Pune
+SHP2347,2026-06-20,2026-06-24,DTDC,Express,155.92,Delivered,Jaipur
+SHP1051,2026-10-15,2026-10-18,XpressBees,Express,103.23,Delivered,Jaipur
+SHP1464,2026-01-30,2026-02-08,DTDC,Economy,31.87,Delivered,Mumbai
+SHP2016,2026-04-07,2026-04-13,Delhivery,Standard,61.29,Delivered,Bengaluru
+SHP1683,2026-02-03,2026-02-13,BlueDart,Economy,39.28,Delivered,Mumbai
+SHP1350,2026-10-24,2026-11-01,BlueDart,Economy,42.24,Delivered,Jaipur
+SHP1782,2026-01-12,2026-01-17,XpressBees,Standard,47.48,Delivered,Kolkata
+SHP2360,2026-09-18,2026-09-19,BlueDart,Express,122.18,Delivered,Delhi
+SHP1734,2026-05-04,2026-05-12,XpressBees,Economy,37.99,Delivered,Pune
+SHP1313,2026-02-15,2026-02-22,Delhivery,Standard,79.08,Delivered,Jaipur
+SHP2159,2026-08-22,,Ecom Express,Two-Day,93.72,In Transit,Delhi
+SHP1955,2026-03-08,2026-03-21,BlueDart,Standard,69.38,Delivered,Delhi
+SHP1447,2026-10-02,2026-10-05,Delhivery,Express,107.11,Delivered,Mumbai
+SHP1367,2026-09-30,2026-10-06,XpressBees,Standard,77.76,Delivered,Jaipur
+SHP1389,2026-03-18,2026-03-24,BlueDart,Standard,78.26,Delivered,Chennai
+SHP1164,2026-10-14,2026-10-15,Delhivery,Two-Day,86.33,Delivered,Jaipur
+SHP1450,2026-01-04,2026-01-07,DTDC,Express,143.49,Delivered,Delhi
+SHP2061,2026-03-10,2026-03-15,BlueDart,Standard,64.61,Delivered,Kolkata
+SHP1207,2026-08-26,2026-09-03,Ecom Express,Standard,40.93,Delivered,Kolkata
+SHP2201,2026-10-12,2026-10-21,DTDC,Two-Day,104.72,Delivered,Bengaluru
+SHP2027,2026-08-17,2026-08-21,Delhivery,Express,131.75,Delivered,Delhi
+SHP2263,2026-02-01,,DTDC,Standard,74.58,Cancelled,Hyderabad
+SHP1525,2026-07-27,2026-08-09,BlueDart,Economy,33.05,Returned,Delhi
+SHP2462,2026-09-05,2026-09-08,DTDC,Express,115.45,Delivered,Jaipur
+SHP1346,2026-06-27,2026-07-17,Ecom Express,Economy,39.05,Delivered,Mumbai
+SHP1020,2026-06-27,2026-07-04,Ecom Express,Standard,,Delivered,Delhi
+SHP2142,2026-09-27,2026-09-29,BlueDart,Express,124.24,Delivered,Chennai
+SHP1452,2026-02-08,2026-02-16,Delhivery,Standard,66.53,Delivered,Hyderabad
+SHP2137,2026-08-11,2026-08-17,DTDC,Standard,41.26,Delivered,Delhi
+SHP1451,2026-04-12,2026-04-17,Delhivery,Standard,53.55,Delivered,Bengaluru
+SHP2469,2026-05-14,2026-05-16,Delhivery,Two-Day,,Delivered,Hyderabad
+SHP1876,2026-03-09,2026-03-16,BlueDart,Standard,74.75,Delivered,Mumbai
+SHP1643,2026-02-15,2026-02-21,DTDC,Standard,50.8,Delivered,Jaipur
+SHP1961,2026-04-08,2026-04-13,Ecom Express,Express,121.74,Delivered,Pune
+SHP1026,2026-02-19,2026-02-20,BlueDart,Two-Day,93.11,Returned,Delhi
+SHP1755,2026-06-21,,BlueDart,Standard,70.83,Delivered,Kolkata
+SHP2245,2026-07-26,2026-08-04,Ecom Express,Standard,80.76,Delivered,Hyderabad
+SHP1412,2026-10-19,2026-10-23,XpressBees,Standard,75.44,Delivered,Jaipur
+SHP1922,2026-02-10,,XpressBees,Express,123.31,In Transit,Jaipur
+SHP1715,2026-06-07,2026-06-14,Delhivery,Standard,39.52,Delivered,Jaipur
+SHP1540,2026-03-15,2026-03-20,XpressBees,Express,112.72,Delivered,Pune
+SHP1308,2026-01-05,2026-01-10,DTDC,Express,106.55,Delivered,Delhi
+SHP2039,2026-10-22,2026-11-08,XpressBees,Standard,55.16,Delivered,Hyderabad
+SHP1445,2026-02-20,2026-02-25,Ecom Express,Express,93.93,Delivered,Kolkata
+SHP1128,2026-07-24,2026-07-30,BlueDart,Standard,77.25,Delivered,Jaipur
+SHP2498,2026-07-30,2026-07-31,XpressBees,Two-Day,105.05,Delivered,Kolkata
+SHP1546,2026-08-12,2026-08-19,Delhivery,Standard,66.13,Delivered,Pune
+SHP1874,2026-04-03,2026-04-15,Ecom Express,Economy,,Delivered,Jaipur
+SHP2172,2026-01-25,2026-01-28,Delhivery,Express,100.77,Delivered,Chennai
+SHP1348,2026-09-24,,DTDC,Express,149.51,Delivered,Mumbai
+SHP1151,2026-08-15,2026-08-19,DTDC,Standard,71.09,Delivered,Delhi
+SHP1972,2026-07-17,,Delhivery,Economy,32.91,In Transit,Mumbai
+SHP2305,2026-09-30,,Ecom Express,Standard,85.0,In Transit,Pune
+SHP1637,2026-10-03,2026-10-11,DTDC,Standard,50.82,Delivered,Jaipur
+SHP2385,2026-06-23,2026-06-26,Delhivery,Standard,47.6,Delivered,Bengaluru
+SHP2368,2026-09-17,2026-09-24,DTDC,Standard,76.88,Delivered,Pune
+SHP1597,2026-10-04,2026-10-09,Delhivery,Standard,66.94,Delivered,Delhi
+SHP1558,2026-04-11,2026-04-15,DTDC,Express,95.43,Delivered,Mumbai
+SHP1415,2026-09-27,2026-10-04,Delhivery,Economy,31.75,Delivered,Delhi
+SHP2278,2026-02-02,2026-02-09,Delhivery,Standard,45.44,Delivered,Bengaluru
+SHP2471,2026-09-26,2026-10-01,XpressBees,Express,92.16,Delivered,Pune
+SHP1285,2026-03-14,2026-03-18,Delhivery,Standard,60.69,Delivered,Jaipur
+SHP2233,2026-05-19,2026-05-22,DTDC,Express,114.82,Delivered,Pune
+SHP1797,2026-06-19,2026-06-26,Ecom Express,Standard,62.05,Delivered,Jaipur
+SHP1378,2026-09-02,2026-09-08,BlueDart,Standard,,Delivered,Mumbai
+SHP1926,2026-06-21,2026-06-22,BlueDart,Express,53.31,Delivered,Delhi
+SHP1324,2026-04-09,2026-04-23,Delhivery,Standard,72.27,Delivered,Mumbai
+SHP1585,2026-01-22,2026-01-29,Ecom Express,Standard,38.56,Delivered,Kolkata
+SHP1055,2026-03-04,2026-03-16,DTDC,Economy,36.89,Delivered,Hyderabad
+SHP1568,2026-05-15,2026-05-18,XpressBees,Two-Day,90.93,Returned,Kolkata
+SHP2496,2026-05-13,2026-05-16,BlueDart,Express,121.35,Delivered,Hyderabad
+SHP2485,2026-07-12,2026-07-17,BlueDart,Standard,61.21,Delivered,Delhi
+SHP1976,2026-07-14,2026-07-29,DTDC,Express,144.18,Delivered,Pune
+SHP2428,2026-07-09,2026-07-15,BlueDart,Standard,47.01,Delivered,Chennai
+SHP1887,2026-03-16,2026-03-23,Ecom Express,Standard,67.91,Delivered,Pune
+SHP1170,2026-05-16,2026-05-20,XpressBees,Standard,52.85,Delivered,Delhi
+SHP1586,2026-05-08,2026-05-15,DTDC,Standard,74.04,Delivered,Bengaluru
+SHP2467,2026-02-12,2026-02-20,BlueDart,Standard,53.59,Delivered,Delhi
+SHP2359,2026-03-22,2026-03-27,Delhivery,Standard,66.87,Delivered,Kolkata
+SHP1902,2026-09-03,2026-09-08,DTDC,Express,147.0,Delivered,Hyderabad
+SHP1264,2026-08-12,2026-08-21,Delhivery,Economy,31.74,Delivered,Pune
+SHP1851,2026-01-03,,DTDC,Standard,65.83,Cancelled,Mumbai
+SHP2042,2026-06-02,2026-06-07,XpressBees,Economy,34.04,Delivered,Jaipur
+SHP1500,2026-05-07,2026-05-11,BlueDart,Standard,44.2,Delivered,Hyderabad
+SHP1739,2026-07-26,2026-08-01,XpressBees,Standard,59.06,Delivered,Hyderabad
+SHP2279,2026-06-25,2026-07-02,DTDC,Standard,66.74,Delivered,Kolkata
+SHP1351,2026-06-06,,Ecom Express,Standard,31.47,In Transit,Pune
+SHP1489,2026-03-18,2026-03-26,BlueDart,Economy,37.61,Delivered,Bengaluru
+SHP2437,2026-05-24,2026-05-26,XpressBees,Express,109.37,Delivered,Delhi
+SHP1754,2026-09-15,2026-09-17,DTDC,Express,129.69,Delivered,Hyderabad
+SHP2352,2026-04-30,2026-05-06,BlueDart,Standard,67.26,Delivered,Delhi
+SHP1414,2026-05-04,2026-05-11,Ecom Express,Standard,61.43,Delivered,Mumbai
+SHP1503,2026-03-03,,BlueDart,Express,108.37,Cancelled,Delhi
+SHP1213,2026-02-21,2026-02-26,DTDC,Express,92.95,Delivered,Jaipur
+SHP1825,2026-05-27,2026-06-14,XpressBees,Standard,50.8,Delivered,Jaipur
+SHP2480,2026-03-25,2026-03-26,BlueDart,Two-Day,82.46,Delivered,Hyderabad
+SHP2484,2026-10-09,2026-10-16,Ecom Express,Standard,63.74,Returned,Delhi
+SHP1330,2026-10-03,2026-10-13,Delhivery,Economy,35.47,Delivered,Chennai
+SHP2414,2026-08-16,2026-08-21,Ecom Express,Express,130.28,Delivered,Hyderabad
+SHP2297,2026-06-20,,Delhivery,Standard,67.54,In Transit,Bengaluru
+SHP1199,2026-09-12,2026-09-14,BlueDart,Two-Day,79.2,Delivered,Chennai
+SHP1506,2026-05-02,2026-05-14,XpressBees,Economy,41.76,Delivered,Chennai
+SHP1363,2026-01-15,2026-01-18,BlueDart,Express,145.19,Delivered,Delhi
+SHP1630,2026-02-21,2026-03-02,XpressBees,Economy,35.43,Delivered,Pune
+SHP1361,2026-04-09,2026-04-18,DTDC,Standard,66.2,Delivered,Pune
+SHP1326,2026-02-20,2026-03-02,XpressBees,Economy,29.37,Delivered,Chennai
+SHP1216,2026-05-25,2026-06-04,Ecom Express,Economy,35.66,Delivered,Delhi
+SHP1649,2026-09-03,2026-09-08,DTDC,Standard,72.74,Delivered,Kolkata
+SHP1253,2026-05-11,,BlueDart,Standard,31.87,In Transit,Pune
+SHP1152,2026-02-15,,DTDC,Express,96.01,Cancelled,Chennai
+SHP1194,2026-01-31,2026-02-05,XpressBees,Express,107.26,Delivered,Chennai
+SHP1820,2026-03-28,2026-04-01,BlueDart,Standard,35.96,Returned,Jaipur
+SHP2051,2026-08-22,2026-08-28,XpressBees,Standard,68.11,Delivered,Kolkata
+SHP1882,2026-01-31,2026-02-09,BlueDart,Economy,33.15,Delivered,Hyderabad
+SHP1068,2026-02-21,2026-03-01,DTDC,Economy,30.42,Returned,Kolkata
+SHP1130,2026-08-11,2026-08-12,BlueDart,Standard,46.47,Delivered,Pune
+SHP1872,2026-02-15,,XpressBees,Standard,56.0,In Transit,Bengaluru
+SHP2479,2026-03-15,2026-03-21,Delhivery,Standard,90.89,Delivered,Chennai
+SHP1300,2026-06-13,2026-06-19,DTDC,Standard,68.79,Delivered,Bengaluru
+SHP1995,2026-01-16,2026-01-31,Ecom Express,Economy,31.85,Delivered,Delhi
+SHP2264,2026-10-11,2026-11-04,Delhivery,Economy,30.54,Delivered,Pune
+SHP2073,2026-01-30,2026-02-03,BlueDart,Express,115.17,Delivered,Jaipur
+SHP1488,2026-01-29,2026-02-03,XpressBees,Express,167.33,Delivered,Hyderabad
+SHP1806,2026-04-06,2026-04-11,XpressBees,Express,104.02,Delivered,Bengaluru
+SHP1240,2026-09-12,,BlueDart,Economy,40.88,In Transit,Mumbai
+SHP2472,2026-09-12,2026-09-16,BlueDart,Standard,45.84,Delivered,Chennai
+SHP1593,2026-05-01,2026-05-06,BlueDart,Standard,56.34,Delivered,Pune
+SHP1187,2026-05-20,2026-05-24,Delhivery,Standard,44.13,Delivered,Mumbai
+SHP1921,2026-08-03,2026-08-10,Delhivery,Standard,62.44,Delivered,Chennai
+SHP2117,2026-01-25,2026-01-31,DTDC,Express,126.04,Delivered,Jaipur
+SHP2190,2026-03-30,2026-04-06,Ecom Express,Standard,50.02,Delivered,Jaipur
+SHP2381,2026-04-21,2026-05-01,Ecom Express,Economy,45.29,Delivered,Jaipur
+SHP2211,2026-02-10,2026-02-17,DTDC,Standard,62.68,Delivered,Bengaluru
+SHP1302,2026-08-24,2026-08-31,Delhivery,Economy,26.4,Delivered,Mumbai
+SHP1283,2026-07-24,2026-07-29,Delhivery,Standard,65.81,Returned,Bengaluru
+SHP1906,2026-05-18,2026-05-24,DTDC,Standard,65.26,Delivered,Delhi
+SHP1619,2026-07-28,2026-08-03,Ecom Express,Standard,56.95,Delivered,Kolkata
+SHP2115,2026-01-08,2026-01-11,XpressBees,Two-Day,86.2,Delivered,Chennai
+SHP2054,2026-08-14,2026-08-21,Ecom Express,Standard,50.42,Delivered,Mumbai
+SHP1467,2026-01-21,,BlueDart,Two-Day,81.67,Cancelled,Pune
+SHP1109,2026-10-09,2026-10-12,DTDC,Express,96.87,Delivered,Jaipur
+SHP2319,2026-06-30,2026-07-10,Ecom Express,Standard,84.12,Delivered,Jaipur
+SHP1122,2026-08-27,2026-09-09,Ecom Express,Express,163.14,Delivered,Kolkata
+SHP1893,2026-09-05,2026-09-07,Delhivery,Standard,60.51,Delivered,Kolkata
+SHP1280,2026-08-09,2026-08-18,DTDC,Economy,31.06,Delivered,Jaipur
+SHP2131,2026-07-29,2026-08-01,BlueDart,Standard,65.12,Returned,Chennai
+SHP1673,2026-07-04,2026-07-11,DTDC,Express,84.1,Delivered,Kolkata
+SHP1507,2026-01-24,2026-01-29,Delhivery,Express,122.58,Delivered,Mumbai
+SHP1744,2026-10-27,2026-11-07,Ecom Express,Standard,57.16,Delivered,Hyderabad
+SHP1498,2026-07-31,2026-08-08,DTDC,Economy,42.73,Delivered,Jaipur
+SHP1369,2026-02-15,,Ecom Express,Express,121.02,Delivered,Jaipur
+SHP1954,2026-04-21,2026-04-26,Ecom Express,Standard,54.76,Delivered,Pune
+SHP2047,2026-03-09,2026-03-27,BlueDart,Standard,78.0,Delivered,Bengaluru
+SHP2252,2026-09-07,,XpressBees,Standard,42.41,In Transit,Kolkata
+SHP2017,2026-07-14,,DTDC,Economy,21.51,In Transit,Delhi
+SHP1838,2026-02-17,2026-02-25,DTDC,Economy,45.69,Delivered,Kolkata
+SHP2139,2026-05-15,2026-05-20,DTDC,Standard,57.06,Delivered,Kolkata
+SHP1067,2026-08-13,2026-08-17,Ecom Express,Two-Day,87.64,Delivered,Kolkata
+SHP1640,2026-01-09,2026-01-15,BlueDart,Standard,52.29,Delivered,Hyderabad
+SHP1564,2026-07-18,2026-07-21,BlueDart,Express,145.25,Delivered,Bengaluru
+SHP2455,2026-03-14,2026-03-17,XpressBees,Express,136.96,Returned,Hyderabad
+SHP1915,2026-10-19,2026-10-29,XpressBees,Economy,42.77,Delivered,Hyderabad
+SHP1895,2026-03-26,2026-04-06,XpressBees,Economy,22.27,Delivered,Bengaluru
+SHP1595,2026-06-03,2026-06-14,BlueDart,Economy,33.52,Delivered,Mumbai
+SHP1742,2026-03-08,2026-03-15,Ecom Express,Standard,63.61,Delivered,Jaipur
+SHP1372,2026-06-11,2026-06-15,Ecom Express,Express,115.6,Delivered,Pune
+SHP1671,2026-04-22,2026-04-29,XpressBees,Standard,31.46,Delivered,Jaipur
+SHP2064,2026-07-08,2026-07-12,XpressBees,Standard,53.52,Delivered,Jaipur
+SHP1318,2026-08-04,,Delhivery,Standard,67.93,In Transit,Bengaluru
+SHP1946,2026-07-09,2026-07-19,Ecom Express,Standard,68.63,Delivered,Kolkata
+SHP2362,2026-03-26,2026-04-01,XpressBees,Standard,75.73,Delivered,Jaipur
+SHP2090,2026-08-31,2026-09-10,XpressBees,Standard,53.29,Returned,Mumbai
+SHP2483,2026-01-15,2026-01-20,XpressBees,Standard,59.88,Delivered,Bengaluru
+SHP1132,2026-04-24,2026-04-28,XpressBees,Two-Day,96.58,Delivered,Bengaluru
+SHP2370,2026-09-05,,XpressBees,Standard,46.18,Delivered,Delhi
+SHP1463,2026-03-05,,DTDC,Economy,51.1,Cancelled,Jaipur
+SHP1918,2026-04-21,2026-04-27,DTDC,Express,148.49,Delivered,Bengaluru
+SHP1547,2026-01-14,,Delhivery,Express,128.56,In Transit,Mumbai
+SHP2298,2026-03-30,,DTDC,Standard,52.71,Cancelled,Jaipur
+SHP2343,2026-08-25,2026-08-27,BlueDart,Express,93.53,Delivered,Bengaluru
+SHP1748,2026-09-02,2026-09-09,BlueDart,Standard,,Delivered,Hyderabad
+SHP2329,2026-02-28,2026-03-03,Delhivery,Express,142.24,Delivered,Bengaluru
+SHP1125,2026-09-12,2026-09-16,DTDC,Express,128.27,Delivered,Pune
+SHP2071,2026-06-30,2026-07-05,XpressBees,Express,119.74,Delivered,Mumbai
+SHP2138,2026-08-23,2026-08-28,XpressBees,Express,162.62,Delivered,Pune
+SHP1737,2026-03-23,2026-03-27,Delhivery,Standard,58.13,Delivered,Chennai
+SHP2028,2026-07-27,2026-08-02,BlueDart,Standard,55.61,Delivered,Chennai
+SHP1511,2026-02-22,2026-03-03,DTDC,Standard,43.69,Delivered,Hyderabad
+SHP1386,2026-01-04,2026-01-10,Delhivery,Standard,76.53,Delivered,Pune
+SHP1289,2026-01-20,2026-01-28,Ecom Express,Standard,72.52,Delivered,Delhi
+SHP1898,2026-01-19,2026-02-09,XpressBees,Standard,79.82,Delivered,Mumbai
+SHP1866,2026-01-26,2026-01-31,XpressBees,Standard,64.94,Delivered,Delhi
+SHP1970,2026-07-30,2026-08-04,BlueDart,Standard,71.93,Returned,Pune
+SHP1053,2026-05-23,2026-05-30,DTDC,Standard,,Delivered,Chennai
+SHP2225,2026-05-09,2026-05-18,Ecom Express,Economy,39.04,Delivered,Delhi
+SHP1609,2026-09-13,2026-09-24,XpressBees,Standard,33.16,Delivered,Pune
+SHP1817,2026-04-05,2026-04-14,BlueDart,Economy,42.38,Delivered,Delhi
+SHP2326,2026-05-20,2026-05-24,DTDC,Express,114.14,Delivered,Bengaluru
+SHP1040,2026-01-07,2026-01-11,DTDC,Express,131.32,Delivered,Kolkata
+SHP1339,2026-01-21,2026-02-02,Ecom Express,Economy,36.64,Delivered,Chennai
+SHP1720,2026-07-11,2026-07-15,XpressBees,Standard,46.73,Delivered,Mumbai
+SHP2216,2026-05-05,,XpressBees,Two-Day,81.8,In Transit,Jaipur
+SHP2133,2026-10-26,,BlueDart,Standard,60.87,Cancelled,Delhi
+SHP1668,2026-08-05,2026-08-08,XpressBees,Express,129.93,Delivered,Mumbai
+SHP1083,2026-10-03,2026-10-08,DTDC,Standard,41.21,Delivered,Mumbai
+SHP1115,2026-07-01,2026-07-05,Ecom Express,Express,138.67,Delivered,Delhi
+SHP2170,2026-03-03,2026-03-04,Delhivery,Two-Day,117.16,Delivered,Jaipur
+SHP2180,2026-07-17,2026-07-26,DTDC,Economy,37.74,Delivered,Jaipur
+SHP1620,2026-01-30,2026-02-03,DTDC,Express,100.66,Delivered,Delhi
+SHP2087,2026-05-19,2026-05-25,DTDC,Standard,57.35,Delivered,Hyderabad
+SHP2120,2026-01-12,2026-01-14,BlueDart,Express,130.67,Delivered,Jaipur
+SHP1270,2026-07-11,,Delhivery,Economy,41.4,Delivered,Mumbai
+SHP1945,2026-04-27,,BlueDart,Standard,61.87,In Transit,Chennai
+SHP2267,2026-03-31,2026-04-08,XpressBees,Economy,31.72,Delivered,Bengaluru
+SHP1587,2026-02-13,2026-02-24,Delhivery,Economy,37.94,Delivered,Chennai
+SHP1840,2026-03-06,,DTDC,Express,130.5,Cancelled,Chennai
+SHP1377,2026-02-18,2026-02-20,BlueDart,Express,83.47,Delivered,Bengaluru
+SHP2237,2026-02-08,2026-02-20,XpressBees,Economy,,Delivered,Bengaluru
+SHP1096,2026-02-02,2026-02-05,Delhivery,Express,100.64,Delivered,Hyderabad
+SHP1541,2026-08-28,2026-08-31,BlueDart,Standard,57.33,Delivered,Kolkata
+SHP1833,2026-07-24,2026-07-27,XpressBees,Express,143.79,Delivered,Hyderabad
+SHP2384,2026-08-11,2026-08-16,BlueDart,Standard,53.75,Delivered,Jaipur
+SHP1572,2026-01-04,2026-01-11,Delhivery,Standard,83.68,Delivered,Jaipur
+SHP1048,2026-05-25,,XpressBees,Two-Day,97.9,In Transit,Mumbai
+SHP1791,2026-03-19,2026-03-27,XpressBees,Standard,52.34,Delivered,Hyderabad
+SHP2291,2026-05-31,2026-06-06,BlueDart,Standard,55.89,Delivered,Pune
+SHP2067,2026-08-13,2026-08-20,DTDC,Economy,37.43,Delivered,Chennai
+SHP1153,2026-04-01,2026-04-06,Ecom Express,Standard,41.63,Returned,Hyderabad
+SHP1237,2026-07-08,2026-07-11,XpressBees,Standard,57.19,Delivered,Hyderabad
+SHP1054,2026-10-07,2026-10-14,BlueDart,Standard,64.42,Delivered,Hyderabad
+SHP1394,2026-07-15,2026-07-28,Ecom Express,Economy,39.3,Delivered,Jaipur
+SHP1123,2026-06-21,2026-06-25,DTDC,Express,116.37,Delivered,Jaipur
+SHP1355,2026-09-06,2026-09-12,Delhivery,Standard,68.37,Delivered,Pune
+SHP1431,2026-08-16,2026-08-25,DTDC,Economy,53.44,Delivered,Hyderabad
+SHP1134,2026-04-29,2026-05-05,Delhivery,Standard,36.76,Delivered,Delhi
+SHP1268,2026-02-20,2026-02-24,XpressBees,Standard,52.05,Delivered,Delhi
+SHP1385,2026-06-04,2026-06-11,Ecom Express,Standard,62.61,Delivered,Hyderabad
+SHP1097,2026-04-25,,Ecom Express,Economy,35.22,In Transit,Delhi
+SHP1220,2026-06-11,2026-06-13,Delhivery,Two-Day,130.14,Delivered,Hyderabad
+SHP1041,2026-09-06,,Ecom Express,Standard,63.8,In Transit,Bengaluru
+SHP1219,2026-06-18,2026-06-21,XpressBees,Express,136.67,Delivered,Delhi
+SHP1531,2026-03-30,2026-04-05,Delhivery,Standard,61.55,Delivered,Kolkata
+SHP2487,2026-07-05,2026-07-13,XpressBees,Economy,36.63,Delivered,Mumbai
+SHP1642,2026-04-12,2026-04-16,BlueDart,Standard,58.94,Delivered,Delhi
+SHP2389,2026-04-04,2026-04-10,Delhivery,Standard,41.68,Delivered,Pune
+SHP1553,2026-05-05,2026-05-11,Ecom Express,Standard,39.55,Delivered,Bengaluru
+SHP2076,2026-01-19,2026-01-24,BlueDart,Standard,55.51,Delivered,Bengaluru
+SHP1012,2026-05-06,2026-05-24,Ecom Express,Standard,,Delivered,Hyderabad
+SHP1474,2026-07-21,2026-07-26,Ecom Express,Express,132.55,Delivered,Pune
+SHP2208,2026-02-28,2026-03-11,BlueDart,Economy,38.93,Delivered,Pune
+SHP1617,2026-09-06,2026-09-16,Ecom Express,Standard,57.13,Returned,Chennai
+SHP1621,2026-04-21,2026-04-27,BlueDart,Standard,63.4,Delivered,Jaipur
+SHP2474,2026-09-08,2026-09-13,DTDC,Standard,66.37,Returned,Pune
+SHP1798,2026-01-14,2026-01-20,DTDC,Standard,76.48,Delivered,Kolkata
+SHP1681,2026-05-29,2026-06-01,XpressBees,Express,141.02,Delivered,Chennai
+SHP2259,2026-08-16,2026-08-20,Ecom Express,Express,127.89,Delivered,Chennai
+SHP2466,2026-04-20,2026-04-23,Delhivery,Two-Day,136.23,Delivered,Bengaluru
+SHP1669,2026-06-14,2026-06-24,Ecom Express,Standard,56.86,Delivered,Chennai
+SHP2423,2026-01-15,2026-01-21,BlueDart,Standard,64.77,Delivered,Kolkata
+SHP1899,2026-07-10,2026-07-23,DTDC,Economy,42.77,Delivered,Kolkata
+SHP2345,2026-04-26,2026-05-04,BlueDart,Economy,35.4,Delivered,Kolkata
+SHP1181,2026-09-20,2026-09-28,BlueDart,Standard,45.76,Delivered,Chennai
+SHP2374,2026-01-10,,Ecom Express,Standard,55.79,In Transit,Mumbai
+SHP1562,2026-08-25,2026-08-29,Ecom Express,Express,,Delivered,Kolkata
+SHP1606,2026-03-04,2026-03-07,DTDC,Standard,40.82,Delivered,Mumbai
+SHP1224,2026-05-30,2026-06-03,DTDC,Express,49.07,Delivered,Delhi
+SHP1336,2026-04-11,2026-04-16,Delhivery,Standard,75.61,Delivered,Hyderabad
+SHP1232,2026-02-22,2026-03-05,XpressBees,Economy,36.25,Delivered,Mumbai
+SHP2387,2026-09-04,2026-09-09,Delhivery,Express,162.2,Delivered,Kolkata
+SHP1565,2026-10-25,2026-11-03,XpressBees,Economy,39.42,Delivered,Chennai
+SHP1856,2026-04-13,2026-04-19,BlueDart,Standard,68.68,Delivered,Hyderabad
+SHP1468,2026-07-02,2026-07-07,BlueDart,Standard,55.76,Delivered,Bengaluru
+SHP2023,2026-05-02,2026-05-11,XpressBees,Economy,34.12,Delivered,Pune
+SHP1756,2026-06-22,,BlueDart,Standard,38.86,In Transit,Hyderabad
+SHP2299,2026-02-01,2026-02-02,BlueDart,Standard,68.36,Returned,Bengaluru
+SHP1297,2026-10-13,2026-10-16,DTDC,Two-Day,97.84,Returned,Mumbai
+SHP1879,2026-01-12,2026-01-16,Delhivery,Express,136.6,Delivered,Chennai
+SHP2116,2026-08-08,2026-08-11,XpressBees,Two-Day,82.0,Delivered,Hyderabad
+SHP1473,2026-07-24,2026-07-29,XpressBees,Standard,58.57,Delivered,Bengaluru
+SHP1702,2026-01-23,2026-01-28,XpressBees,Standard,57.97,Delivered,Hyderabad
+SHP1205,2026-02-08,2026-02-15,Delhivery,Standard,66.79,Delivered,Delhi
+SHP1003,2026-07-30,2026-08-13,Ecom Express,Economy,32.54,Delivered,Bengaluru
+SHP1837,2026-02-21,2026-02-27,XpressBees,Standard,56.2,Delivered,Chennai
+SHP2348,2026-01-06,2026-01-12,BlueDart,Standard,63.01,Delivered,Mumbai
+SHP2393,2026-01-11,2026-01-16,DTDC,Standard,54.21,Delivered,Delhi
+SHP2294,2026-08-19,2026-08-22,XpressBees,Two-Day,78.29,Delivered,Delhi
+SHP1746,2026-02-23,2026-03-01,XpressBees,Standard,60.14,Delivered,Kolkata
+SHP1692,2026-03-03,2026-03-04,Delhivery,Two-Day,97.64,Delivered,Bengaluru
+SHP2273,2026-08-01,2026-08-03,BlueDart,Express,128.39,Delivered,Jaipur
+SHP1951,2026-01-28,,DTDC,Express,118.94,Delivered,Mumbai
+SHP2021,2026-04-13,2026-04-15,XpressBees,Express,82.6,Delivered,Chennai
+SHP1758,2026-08-28,2026-09-04,Delhivery,Standard,49.21,Delivered,Mumbai
+SHP1912,2026-07-26,2026-07-29,DTDC,Express,119.49,Delivered,Pune
+SHP1728,2026-09-18,2026-09-20,XpressBees,Two-Day,81.97,Delivered,Chennai
+SHP1335,2026-07-18,,BlueDart,Standard,67.21,In Transit,Bengaluru
+SHP1986,2026-06-22,2026-06-28,XpressBees,Standard,83.38,Delivered,Delhi
+SHP1504,2026-07-04,2026-07-13,Ecom Express,Standard,73.36,Delivered,Delhi
+SHP1581,2026-01-24,2026-01-31,Delhivery,Standard,60.85,Delivered,Bengaluru
+SHP1672,2026-03-19,2026-04-01,Ecom Express,Express,134.71,Delivered,Delhi
+SHP1701,2026-04-07,2026-04-16,Ecom Express,Standard,51.59,Delivered,Mumbai
+SHP2010,2026-01-19,2026-01-27,Ecom Express,Standard,61.75,Delivered,Chennai
+SHP1157,2026-05-01,2026-05-07,DTDC,Standard,64.08,Delivered,Bengaluru
+SHP1462,2026-02-25,,Delhivery,Express,122.86,Cancelled,Chennai
+SHP1160,2026-10-02,2026-10-09,Delhivery,Standard,55.63,Delivered,Jaipur
+SHP1305,2026-10-13,,XpressBees,Standard,52.31,In Transit,Bengaluru
+SHP1395,2026-05-11,2026-05-13,XpressBees,Two-Day,81.23,Delivered,Chennai
+SHP1399,2026-08-03,2026-08-07,DTDC,Standard,67.68,Delivered,Kolkata
+SHP2162,2026-02-20,2026-02-23,DTDC,Express,117.37,Delivered,Jaipur
+SHP1610,2026-03-14,,BlueDart,Express,112.41,Cancelled,Kolkata
+SHP2461,2026-02-17,2026-02-24,DTDC,Express,81.6,Delivered,Hyderabad
+SHP2268,2026-09-19,2026-09-20,BlueDart,Two-Day,106.6,Delivered,Jaipur
+SHP2416,2026-05-27,2026-05-30,BlueDart,Express,,Delivered,Mumbai
+SHP1769,2026-06-14,2026-06-21,BlueDart,Economy,39.9,Delivered,Bengaluru
+SHP2130,2026-03-03,2026-03-13,DTDC,Economy,42.69,Delivered,Kolkata
+SHP1556,2026-06-12,2026-06-19,Delhivery,Standard,59.13,Delivered,Mumbai
+SHP1457,2026-04-29,2026-05-03,Ecom Express,Express,120.59,Delivered,Pune
+SHP1802,2026-06-28,2026-07-11,XpressBees,Economy,44.48,Delivered,Pune
+SHP1478,2026-01-20,2026-01-22,BlueDart,Two-Day,103.87,Delivered,Mumbai
+SHP2122,2026-09-05,2026-09-12,Delhivery,Economy,30.99,Delivered,Chennai
+SHP2402,2026-03-19,2026-03-23,Ecom Express,Standard,75.41,Delivered,Bengaluru
+SHP2145,2026-05-24,,BlueDart,Standard,83.67,Delivered,Hyderabad
+SHP2075,2026-09-25,2026-10-06,Delhivery,Economy,36.14,Delivered,Mumbai
+SHP2240,2026-08-31,2026-09-11,XpressBees,Economy,34.0,Delivered,Bengaluru
+SHP1347,2026-05-27,2026-05-31,XpressBees,Standard,48.92,Delivered,Chennai
+SHP1446,2026-03-04,2026-03-14,DTDC,Standard,37.88,Delivered,Hyderabad
+SHP2355,2026-08-01,2026-08-03,DTDC,Express,136.7,Delivered,Delhi
+SHP1379,2026-10-17,2026-10-21,DTDC,Express,137.75,Delivered,Jaipur
+SHP2364,2026-08-24,2026-08-31,XpressBees,Economy,31.1,Delivered,Chennai
+SHP2072,2026-08-10,2026-08-13,XpressBees,Express,105.94,Delivered,Chennai
+SHP2312,2026-07-18,2026-07-20,DTDC,Two-Day,92.64,Delivered,Pune
+SHP1231,2026-03-26,,XpressBees,Express,127.92,In Transit,Mumbai
+SHP1382,2026-02-05,2026-02-08,XpressBees,Standard,58.14,Delivered,Delhi
+SHP1687,2026-02-06,2026-02-19,XpressBees,Economy,29.74,Delivered,Kolkata
+SHP1072,2026-05-04,2026-05-09,XpressBees,Standard,46.59,Delivered,Jaipur
+SHP1070,2026-07-14,2026-07-22,Delhivery,Standard,64.19,Delivered,Jaipur
+SHP2357,2026-09-19,2026-09-24,Delhivery,Standard,69.74,Delivered,Mumbai
+SHP2158,2026-01-11,2026-01-15,DTDC,Standard,56.47,Delivered,Jaipur
+SHP1171,2026-07-25,2026-07-31,Delhivery,Standard,59.2,Returned,Delhi
+SHP1168,2026-05-16,2026-05-20,BlueDart,Standard,93.71,Delivered,Jaipur
+SHP1493,2026-08-02,2026-08-07,XpressBees,Standard,68.26,Delivered,Jaipur
+SHP1680,2026-10-27,2026-11-03,BlueDart,Standard,58.35,Delivered,Jaipur
+SHP2331,2026-04-19,2026-04-24,XpressBees,Express,179.41,Delivered,Jaipur
+SHP1272,2026-07-25,2026-07-30,XpressBees,Standard,,Delivered,Pune
+SHP2189,2026-08-30,2026-09-02,Ecom Express,Express,139.97,Delivered,Kolkata
+SHP1420,2026-01-31,,Ecom Express,Two-Day,93.8,Cancelled,Delhi
+SHP1094,2026-10-23,2026-10-30,XpressBees,Standard,53.07,Delivered,Hyderabad
+SHP2126,2026-03-09,2026-03-20,DTDC,Express,82.47,Delivered,Mumbai
+SHP2205,2026-04-24,2026-04-28,XpressBees,Express,88.64,Delivered,Kolkata
+SHP1042,2026-03-13,2026-03-18,XpressBees,Express,101.69,Delivered,Delhi
+SHP1056,2026-04-05,,DTDC,Standard,47.3,Cancelled,Hyderabad
+SHP2220,2026-08-29,2026-08-31,Delhivery,Express,104.9,Delivered,Pune
+SHP2242,2026-10-22,2026-10-28,DTDC,Standard,64.02,Delivered,Mumbai
+SHP1038,2026-09-02,2026-09-19,XpressBees,Economy,37.39,Delivered,Mumbai
+SHP1306,2026-02-26,2026-03-01,BlueDart,Express,109.67,Delivered,Hyderabad
+SHP2085,2026-03-29,2026-04-03,Delhivery,Express,138.4,Returned,Jaipur
+SHP1964,2026-05-12,2026-05-15,DTDC,Express,93.96,Delivered,Pune
+SHP1408,2026-03-27,2026-04-06,Ecom Express,Standard,59.49,Delivered,Chennai
+SHP1166,2026-04-19,,Delhivery,Standard,52.27,In Transit,Chennai
+SHP1534,2026-03-25,2026-04-04,DTDC,Standard,76.84,Returned,Chennai
+SHP1885,2026-06-07,2026-06-17,DTDC,Economy,48.27,Delivered,Bengaluru
+SHP2440,2026-06-18,2026-06-20,BlueDart,Express,92.4,Delivered,Chennai
+SHP2079,2026-09-22,2026-10-01,XpressBees,Economy,39.41,Delivered,Mumbai
+SHP2430,2026-03-07,2026-03-16,XpressBees,Standard,65.63,Delivered,Pune
+SHP2171,2026-01-08,2026-01-17,Ecom Express,Economy,20.0,Delivered,Chennai
+SHP1638,2026-05-04,,DTDC,Express,114.73,Delivered,Hyderabad
+SHP1316,2026-06-09,2026-06-17,Delhivery,Standard,55.24,Delivered,Chennai
+SHP1933,2026-10-12,2026-10-13,Delhivery,Express,108.45,Delivered,Kolkata
+SHP2302,2026-02-13,2026-02-25,XpressBees,Express,156.08,Delivered,Pune
+SHP1516,2026-07-29,,Delhivery,Express,138.57,Cancelled,Hyderabad
+SHP1651,2026-05-02,2026-05-04,DTDC,Express,121.9,Delivered,Jaipur
+SHP1533,2026-07-03,2026-07-08,DTDC,Express,129.01,Delivered,Hyderabad
+SHP2459,2026-09-04,2026-09-08,BlueDart,Standard,55.41,Delivered,Hyderabad
+SHP2093,2026-04-18,2026-04-24,XpressBees,Standard,49.31,Returned,Kolkata
+SHP2270,2026-02-27,2026-03-05,Delhivery,Standard,67.74,Delivered,Bengaluru
+SHP1548,2026-03-21,,DTDC,Standard,60.48,Cancelled,Mumbai
+SHP1453,2026-07-03,2026-07-08,Ecom Express,Economy,46.03,Delivered,Jaipur
+SHP2236,2026-02-27,2026-03-07,Delhivery,Economy,39.08,Delivered,Kolkata
+SHP1664,2026-07-17,2026-07-25,XpressBees,Standard,70.41,Delivered,Pune
+SHP1570,2026-02-03,2026-02-07,DTDC,Express,109.69,Delivered,Hyderabad
+SHP1935,2026-08-14,2026-08-19,DTDC,Express,125.4,Delivered,Mumbai
+SHP1061,2026-07-25,2026-08-04,XpressBees,Economy,30.36,Returned,Bengaluru
+SHP2046,2026-05-24,2026-05-29,DTDC,Express,88.2,Delivered,Hyderabad
+SHP1536,2026-02-02,2026-02-11,XpressBees,Economy,42.74,Delivered,Jaipur
+SHP1075,2026-10-16,,Ecom Express,Standard,59.32,Cancelled,Kolkata
+SHP2034,2026-08-16,2026-08-24,Ecom Express,Economy,,Delivered,Hyderabad
+SHP1244,2026-09-02,2026-09-07,XpressBees,Standard,61.94,Returned,Delhi
+SHP1025,2026-10-16,2026-10-28,XpressBees,Economy,34.71,Delivered,Bengaluru
+SHP1222,2026-08-20,2026-08-26,Delhivery,Standard,62.18,Delivered,Mumbai
+SHP2196,2026-10-03,2026-10-08,Delhivery,Standard,49.56,Delivered,Bengaluru
+SHP1105,2026-10-23,2026-10-31,XpressBees,Standard,44.2,Delivered,Hyderabad
+SHP2482,2026-03-21,2026-03-24,Delhivery,Standard,82.21,Delivered,Pune
+SHP1509,2026-09-06,2026-09-15,DTDC,Standard,55.47,Delivered,Pune
+SHP1131,2026-09-16,2026-09-24,XpressBees,Economy,32.65,Delivered,Pune
+SHP1444,2026-01-11,2026-01-18,XpressBees,Economy,35.88,Delivered,Delhi
+SHP1660,2026-01-06,2026-01-09,Delhivery,Express,120.75,Delivered,Delhi
+SHP1508,2026-06-06,2026-06-15,XpressBees,Standard,27.01,Delivered,Hyderabad
+SHP2126,2026-03-09,2026-03-20,DTDC,Express,82.47,Delivered,Mumbai
+SHP1075,2026-10-16,,Ecom Express,Standard,59.32,Cancelled,Kolkata
+SHP1036,2026-08-28,2026-09-01,Delhivery,Economy,31.29,Delivered,Delhi
+SHP2337,2026-06-19,2026-06-21,BlueDart,Two-Day,92.23,Returned,Chennai
+SHP1057,2026-02-22,2026-03-01,Delhivery,Economy,35.08,Delivered,Kolkata
+SHP1196,2026-05-19,2026-05-26,Delhivery,Standard,69.29,Delivered,Delhi
+SHP2317,2026-04-28,2026-05-11,Ecom Express,Standard,68.99,Returned,Bengaluru
+SHP2400,2026-05-09,2026-05-12,DTDC,Express,118.31,Returned,Mumbai
+SHP1858,2026-02-24,2026-03-01,Ecom Express,Express,120.3,Delivered,Kolkata
+SHP1777,2026-03-28,2026-04-01,XpressBees,Express,82.55,Delivered,Pune
+SHP1477,2026-06-18,2026-06-28,Ecom Express,Economy,38.05,Delivered,Delhi
+SHP1086,2026-04-12,2026-04-19,XpressBees,Standard,84.42,Delivered,Bengaluru
+SHP1561,2026-04-15,2026-04-17,DTDC,Express,139.35,Delivered,Mumbai
+SHP1334,2026-03-20,2026-03-27,DTDC,Economy,35.89,Delivered,Delhi
+SHP2094,2026-09-10,2026-09-17,Delhivery,Standard,55.99,Delivered,Chennai
+SHP2169,2026-02-22,2026-02-24,Delhivery,Two-Day,86.22,Delivered,Bengaluru
+SHP1925,2026-07-31,,XpressBees,Standard,69.17,In Transit,Hyderabad
+SHP2174,2026-01-10,2026-01-16,DTDC,Standard,28.34,Delivered,Chennai
+SHP2179,2026-08-10,2026-08-18,DTDC,Standard,61.61,Delivered,Pune
+SHP1538,2026-07-02,2026-07-10,Ecom Express,Economy,,Delivered,Mumbai
+SHP2173,2026-09-07,2026-09-16,Ecom Express,Standard,61.9,Delivered,Jaipur
+SHP1648,2026-06-18,2026-06-19,BlueDart,Express,114.59,Returned,Chennai
+SHP1418,2026-01-10,2026-01-19,XpressBees,Standard,47.62,Delivered,Kolkata
+SHP1971,2026-04-19,2026-04-22,Delhivery,Express,103.36,Delivered,Bengaluru
+SHP2418,2026-10-08,2026-10-13,Ecom Express,Express,79.1,Delivered,Delhi
+SHP2013,2026-07-08,2026-07-11,Ecom Express,Two-Day,76.18,Delivered,Hyderabad
+SHP1573,2026-01-18,2026-01-21,XpressBees,Express,133.48,Delivered,Bengaluru
+SHP1652,2026-08-23,,Delhivery,Standard,51.27,Cancelled,Mumbai
+SHP2285,2026-06-19,2026-07-06,Ecom Express,Express,117.66,Delivered,Chennai
+SHP1332,2026-01-03,2026-01-05,Delhivery,Two-Day,94.48,Delivered,Pune
+SHP1913,2026-01-19,2026-02-01,DTDC,Economy,31.73,Delivered,Pune
+SHP1574,2026-04-22,2026-04-26,Ecom Express,Two-Day,,Delivered,Jaipur
+SHP2300,2026-01-12,2026-01-19,BlueDart,Economy,33.47,Delivered,Pune
+SHP2109,2026-05-23,2026-06-01,Ecom Express,Standard,58.35,Delivered,Hyderabad
+SHP2104,2026-09-21,2026-09-23,BlueDart,Two-Day,83.41,Delivered,Kolkata
+SHP2382,2026-10-03,2026-10-10,DTDC,Economy,25.08,Delivered,Bengaluru
+SHP2224,2026-01-05,2026-01-14,XpressBees,Standard,60.13,Delivered,Kolkata
+SHP1957,2026-02-28,2026-03-08,BlueDart,Economy,34.04,Delivered,Kolkata
+SHP2187,2026-06-12,2026-06-19,Ecom Express,Economy,31.2,Delivered,Pune
+SHP1008,2026-06-16,,Ecom Express,Economy,28.94,Delivered,Chennai
+SHP1947,2026-05-11,2026-05-14,DTDC,Express,126.96,Delivered,Kolkata
+SHP2303,2026-09-16,2026-09-21,Delhivery,Standard,40.76,Delivered,Hyderabad
+SHP1813,2026-06-24,2026-07-06,Ecom Express,Economy,44.48,Delivered,Mumbai
+SHP1304,2026-02-12,2026-02-17,DTDC,Economy,27.83,Delivered,Bengaluru
+SHP2143,2026-06-20,2026-06-25,BlueDart,Standard,29.28,Delivered,Hyderabad
+SHP1771,2026-04-27,,Ecom Express,Standard,50.04,Delivered,Bengaluru
+SHP1074,2026-07-15,2026-07-23,DTDC,Standard,46.3,Delivered,Kolkata
+SHP1871,2026-09-24,2026-09-28,Ecom Express,Express,142.43,Delivered,Chennai
+SHP1522,2026-02-23,,XpressBees,Standard,53.71,Delivered,Kolkata
+SHP1335,2026-07-18,,BlueDart,Standard,67.21,In Transit,Bengaluru
+SHP1569,2026-08-27,2026-09-07,XpressBees,Economy,37.44,Delivered,Pune
+SHP1590,2026-01-01,2026-01-22,Delhivery,Standard,55.5,Delivered,Chennai
+SHP1088,2026-04-30,2026-05-03,BlueDart,Express,141.6,Delivered,Bengaluru
+SHP1747,2026-05-17,2026-05-18,BlueDart,Standard,73.7,Delivered,Mumbai
+SHP1217,2026-06-20,2026-06-22,BlueDart,Express,106.98,Delivered,Pune
+SHP2038,2026-05-31,2026-06-04,Ecom Express,Express,80.14,Delivered,Delhi
+SHP1173,2026-04-17,2026-04-26,Ecom Express,Standard,75.64,Delivered,Chennai
+SHP2396,2026-10-19,2026-10-27,BlueDart,Standard,33.26,Delivered,Bengaluru
+SHP1221,2026-02-08,2026-02-10,XpressBees,Two-Day,107.48,Delivered,Bengaluru
+SHP1319,2026-05-09,2026-05-12,Delhivery,Two-Day,141.43,Delivered,Bengaluru
+SHP2321,2026-09-14,2026-09-17,XpressBees,Two-Day,65.82,Delivered,Delhi
+SHP2358,2026-03-13,2026-03-16,Ecom Express,Two-Day,65.01,Delivered,Pune
+SHP2292,2026-02-16,2026-02-23,DTDC,Express,112.63,Delivered,Bengaluru
+SHP1266,2026-05-23,2026-05-28,BlueDart,Standard,58.03,Delivered,Pune
+SHP1006,2026-05-12,2026-05-19,XpressBees,Standard,61.4,Delivered,Jaipur
+SHP1799,2026-03-19,,Delhivery,Express,87.19,In Transit,Bengaluru
+SHP1138,2026-09-28,2026-10-11,Ecom Express,Economy,27.35,Returned,Chennai
+SHP1163,2026-04-07,2026-04-18,Delhivery,Economy,29.66,Delivered,Pune
+SHP2249,2026-02-04,2026-02-14,BlueDart,Economy,43.65,Delivered,Chennai
+SHP1594,2026-02-01,,Ecom Express,Standard,62.2,In Transit,Bengaluru
+SHP2432,2026-03-13,,Delhivery,Economy,32.44,In Transit,Mumbai
+SHP2340,2026-05-08,,Ecom Express,Standard,67.2,In Transit,Bengaluru
+SHP2369,2026-02-27,2026-03-01,BlueDart,Express,143.03,Delivered,Jaipur
+SHP2442,2026-07-20,2026-07-29,DTDC,Economy,39.3,Delivered,Pune
+SHP1523,2026-04-07,2026-04-14,DTDC,Standard,48.86,Delivered,Delhi
+SHP1868,2026-07-19,2026-07-30,BlueDart,Economy,39.35,Delivered,Kolkata
+SHP1828,2026-09-01,2026-09-05,Delhivery,Express,126.08,Returned,Mumbai
+SHP1578,2026-08-22,2026-08-30,DTDC,Standard,,Delivered,Delhi
+SHP1779,2026-07-06,2026-07-13,Ecom Express,Standard,65.14,Delivered,Kolkata
+SHP1019,2026-07-23,,Delhivery,Express,110.64,Cancelled,Delhi
+SHP1707,2026-03-23,2026-03-25,Delhivery,Express,,Delivered,Pune
+SHP1633,2026-05-16,2026-05-20,Ecom Express,Express,100.22,Delivered,Bengaluru
+SHP2376,2026-09-30,2026-10-04,Ecom Express,Two-Day,88.41,Delivered,Delhi
+SHP1618,2026-08-11,2026-08-13,XpressBees,Two-Day,93.95,Delivered,Hyderabad
+SHP1788,2026-06-15,2026-06-22,DTDC,Standard,48.28,Delivered,Chennai
+SHP1655,2026-10-27,2026-11-15,BlueDart,Economy,42.85,Delivered,Mumbai
+SHP1830,2026-07-04,2026-07-06,BlueDart,Two-Day,120.38,Delivered,Kolkata
+SHP1760,2026-10-03,2026-10-08,DTDC,Express,93.63,Delivered,Mumbai
+SHP1137,2026-07-22,2026-07-25,XpressBees,Standard,58.76,Delivered,Chennai
+SHP1557,2026-03-05,2026-03-08,Delhivery,Express,87.9,Delivered,Bengaluru
+SHP1697,2026-01-23,,DTDC,Standard,69.1,In Transit,Hyderabad
+SHP2264,2026-10-11,2026-11-04,Delhivery,Economy,30.54,Delivered,Pune
+SHP1735,2026-01-30,2026-02-04,XpressBees,Standard,55.7,Delivered,Bengaluru
+SHP2453,2026-10-07,2026-10-11,DTDC,Express,114.22,Delivered,Kolkata
+SHP2044,2026-01-08,2026-01-13,DTDC,Express,163.7,Delivered,Bengaluru
+SHP1368,2026-06-08,2026-06-10,XpressBees,Express,114.28,Delivered,Pune
+SHP2427,2026-08-23,2026-08-31,Ecom Express,Standard,55.0,Delivered,Jaipur
+SHP2452,2026-04-02,2026-04-08,Delhivery,Standard,58.45,Delivered,Pune
+SHP1327,2026-10-26,2026-10-30,XpressBees,Express,138.52,Delivered,Hyderabad
+SHP1317,2026-08-03,2026-08-07,Delhivery,Express,142.14,Delivered,Hyderabad
+SHP2153,2026-10-09,2026-10-18,Delhivery,Economy,33.87,Returned,Delhi
+SHP2118,2026-05-27,2026-06-02,XpressBees,Standard,,Delivered,Hyderabad
+SHP1528,2026-05-12,,XpressBees,Two-Day,73.73,Delivered,Hyderabad
+SHP1526,2026-09-28,2026-09-30,BlueDart,Two-Day,77.96,Delivered,Bengaluru
+SHP1087,2026-04-02,2026-04-04,DTDC,Two-Day,80.75,Delivered,Kolkata
+SHP1479,2026-04-12,2026-04-14,XpressBees,Express,108.81,Delivered,Delhi
+SHP1338,2026-07-24,,Delhivery,Standard,60.62,In Transit,Chennai
+SHP1768,2026-02-17,2026-03-02,XpressBees,Economy,28.62,Delivered,Pune
+SHP1657,2026-09-02,2026-09-07,Ecom Express,Two-Day,99.77,Delivered,Pune
+SHP1148,2026-05-01,2026-05-07,XpressBees,Standard,64.59,Returned,Pune
+SHP2227,2026-07-27,,DTDC,Standard,72.33,Cancelled,Pune
+SHP2401,2026-08-22,2026-08-31,XpressBees,Economy,30.82,Delivered,Kolkata
+SHP1028,2026-01-29,,XpressBees,Standard,43.58,Cancelled,Delhi
+SHP1246,2026-01-02,2026-01-08,Ecom Express,Express,148.55,Delivered,Jaipur
+SHP1365,2026-06-01,2026-06-05,Delhivery,Express,119.11,Delivered,Delhi
+SHP2124,2026-01-24,2026-01-27,BlueDart,Express,,Delivered,Kolkata
+SHP1832,2026-10-08,2026-10-10,Ecom Express,Express,91.53,Delivered,Kolkata
+SHP2140,2026-10-02,2026-10-07,Delhivery,Standard,53.34,Delivered,Chennai
+SHP1198,2026-03-19,2026-03-27,DTDC,Economy,39.15,Delivered,Jaipur
+SHP2365,2026-01-02,2026-01-05,BlueDart,Standard,34.33,Delivered,Kolkata
+SHP2128,2026-08-12,2026-08-27,Delhivery,Standard,66.47,Returned,Jaipur
+SHP1404,2026-02-01,2026-02-07,DTDC,Standard,62.46,Delivered,Kolkata
+SHP1809,2026-10-03,2026-10-06,BlueDart,Express,121.71,Delivered,Pune
+SHP1483,2026-02-08,2026-02-26,Ecom Express,Express,138.2,Delivered,Pune
+SHP1158,2026-07-16,2026-08-05,BlueDart,Standard,,Delivered,Bengaluru
+SHP1315,2026-09-22,2026-09-26,XpressBees,Standard,28.78,Delivered,Kolkata
+SHP1256,2026-09-04,2026-09-06,BlueDart,Economy,35.37,Delivered,Hyderabad
+SHP1007,2026-07-11,2026-07-25,Delhivery,Standard,67.58,Delivered,Chennai
+SHP2203,2026-07-29,2026-08-01,XpressBees,Express,92.1,Delivered,Mumbai
+SHP1384,2026-02-15,2026-02-18,DTDC,Two-Day,90.66,Delivered,Kolkata
+SHP1177,2026-09-04,2026-09-12,Delhivery,Economy,33.85,Delivered,Kolkata
+SHP1765,2026-06-27,2026-07-16,Ecom Express,Standard,64.28,Delivered,Pune
+SHP1314,2026-06-01,,Ecom Express,Standard,60.18,Cancelled,Jaipur
+SHP1357,2026-01-20,2026-02-04,BlueDart,Economy,32.86,Delivered,Jaipur
+SHP1298,2026-08-25,2026-08-26,XpressBees,Standard,52.61,Delivered,Delhi
+SHP1455,2026-02-12,2026-02-25,Ecom Express,Economy,32.82,Delivered,Bengaluru
+SHP1543,2026-09-09,2026-09-16,DTDC,Standard,45.45,Delivered,Jaipur
+SHP1662,2026-09-07,2026-09-13,DTDC,Standard,54.8,Delivered,Chennai
+SHP1596,2026-10-04,2026-10-10,Delhivery,Standard,48.39,Delivered,Kolkata
+SHP1860,2026-08-09,2026-08-14,XpressBees,Standard,50.33,Delivered,Kolkata
+SHP1920,2026-10-27,2026-11-04,XpressBees,Economy,47.03,Delivered,Bengaluru
+SHP1527,2026-08-08,2026-08-13,BlueDart,Standard,47.12,Delivered,Pune
+SHP2269,2026-05-26,2026-05-27,BlueDart,Two-Day,105.48,Delivered,Pune
+SHP1159,2026-03-16,2026-03-24,Ecom Express,Economy,32.64,Delivered,Bengaluru
+SHP2198,2026-08-14,2026-08-22,XpressBees,Economy,57.56,Delivered,Kolkata
+SHP1360,2026-10-03,2026-10-09,XpressBees,Standard,56.76,Delivered,Hyderabad
+SHP2336,2026-09-02,2026-09-07,DTDC,Express,144.23,Delivered,Bengaluru
+SHP1202,2026-02-18,2026-02-25,Ecom Express,Standard,70.15,Delivered,Delhi
+SHP1930,2026-04-21,2026-04-25,BlueDart,Express,122.9,Delivered,Mumbai
+SHP1789,2026-06-09,2026-06-14,Ecom Express,Express,103.75,Delivered,Hyderabad
+SHP1112,2026-09-16,2026-09-20,DTDC,Express,82.48,Delivered,Chennai
+SHP2366,2026-07-15,2026-07-22,Ecom Express,Standard,59.97,Delivered,Bengaluru
+SHP1307,2026-06-06,2026-06-23,DTDC,Standard,69.24,Delivered,Kolkata
+SHP2195,2026-09-20,2026-09-26,XpressBees,Standard,46.7,Delivered,Delhi
+SHP1422,2026-04-17,2026-04-27,Ecom Express,Economy,36.13,Delivered,Chennai
+SHP1804,2026-08-23,2026-08-26,Delhivery,Express,74.65,Delivered,Delhi
+SHP2121,2026-03-22,2026-03-31,Delhivery,Economy,36.77,Delivered,Mumbai
+SHP1963,2026-07-02,2026-07-05,XpressBees,Express,125.86,Delivered,Kolkata
+SHP1459,2026-06-24,2026-06-27,XpressBees,Express,95.57,Delivered,Bengaluru
+SHP1999,2026-03-10,2026-03-20,Ecom Express,Economy,27.8,Delivered,Kolkata
+SHP2449,2026-05-05,2026-05-08,BlueDart,Two-Day,71.37,Delivered,Mumbai
+SHP1762,2026-09-02,2026-09-15,Ecom Express,Economy,27.29,Delivered,Chennai
+SHP2123,2026-05-30,2026-06-01,XpressBees,Two-Day,79.73,Delivered,Bengaluru
+SHP2183,2026-03-18,2026-03-21,Ecom Express,Two-Day,114.2,Delivered,Delhi
+SHP1449,2026-01-29,2026-02-01,XpressBees,Express,100.38,Delivered,Pune
+SHP2334,2026-08-26,2026-09-08,XpressBees,Economy,50.27,Delivered,Kolkata
+SHP1679,2026-05-05,2026-05-12,Ecom Express,Standard,64.07,Delivered,Kolkata
+SHP1692,2026-03-03,2026-03-04,Delhivery,Two-Day,97.64,Delivered,Bengaluru
+SHP2165,2026-03-18,2026-03-24,BlueDart,Standard,50.41,Delivered,Hyderabad
+SHP1080,2026-07-31,2026-08-05,BlueDart,Standard,69.49,Delivered,Pune
+SHP2325,2026-08-24,2026-09-15,BlueDart,Economy,30.32,Delivered,Kolkata
+SHP2424,2026-05-07,2026-05-18,DTDC,Economy,31.1,Delivered,Pune
+SHP2022,2026-02-16,,BlueDart,Express,119.27,Delivered,Chennai
+SHP1215,2026-10-04,,XpressBees,Express,155.37,In Transit,Pune
+SHP1974,2026-08-16,2026-08-21,BlueDart,Standard,47.56,Delivered,Jaipur
+SHP1030,2026-08-22,2026-08-28,XpressBees,Standard,64.05,Delivered,Mumbai
+SHP1242,2026-02-28,,Delhivery,Express,86.98,Delivered,Delhi
+SHP2316,2026-06-02,2026-06-25,Delhivery,Economy,43.41,Delivered,Hyderabad
+SHP1641,2026-07-29,2026-08-02,Ecom Express,Express,103.05,Delivered,Delhi
+SHP1696,2026-07-31,2026-08-02,XpressBees,Express,162.85,Delivered,Bengaluru
+SHP1209,2026-03-15,2026-03-18,XpressBees,Two-Day,75.64,Delivered,Delhi
+SHP1848,2026-09-12,2026-09-22,DTDC,Economy,23.78,Delivered,Bengaluru
+SHP1770,2026-02-18,,Ecom Express,Express,116.13,Cancelled,Jaipur
+SHP1752,2026-10-23,2026-10-29,Ecom Express,Standard,54.57,Delivered,Pune
+SHP2320,2026-05-28,2026-05-31,Ecom Express,Express,127.92,Delivered,Jaipur
+SHP1435,2026-10-21,2026-10-28,Ecom Express,Standard,56.88,Delivered,Chennai
+SHP2328,2026-07-04,2026-07-10,BlueDart,Standard,59.55,Delivered,Hyderabad
+SHP2420,2026-03-10,2026-03-17,Ecom Express,Standard,65.49,Delivered,Mumbai
+SHP2106,2026-01-16,2026-01-25,Delhivery,Economy,34.39,Delivered,Pune
+SHP2383,2026-08-03,2026-08-07,Delhivery,Standard,55.42,Delivered,Hyderabad
+SHP1688,2026-08-09,,Ecom Express,Express,147.75,In Transit,Delhi
+SHP1551,2026-07-06,2026-07-09,DTDC,Two-Day,93.19,Delivered,Bengaluru
+SHP1544,2026-06-29,2026-07-08,DTDC,Standard,72.95,Delivered,Chennai
+SHP2056,2026-07-29,,Delhivery,Standard,52.41,Cancelled,Hyderabad
+SHP2063,2026-01-01,2026-01-08,BlueDart,Economy,37.45,Delivered,Hyderabad
+SHP1880,2026-02-24,2026-02-25,XpressBees,Two-Day,90.8,Delivered,Chennai
+SHP2095,2026-04-08,2026-04-14,Ecom Express,Standard,61.82,Delivered,Hyderabad
+SHP1403,2026-03-12,,XpressBees,Standard,63.44,Cancelled,Pune
+SHP2497,2026-04-13,2026-04-22,BlueDart,Two-Day,88.51,Delivered,Hyderabad
+SHP1362,2026-06-22,,XpressBees,Standard,63.13,Delivered,Mumbai
+SHP1271,2026-05-07,2026-05-11,DTDC,Express,132.16,Delivered,Pune
+SHP1466,2026-05-14,2026-05-18,BlueDart,Standard,69.83,Delivered,Bengaluru
+SHP2353,2026-01-05,,Delhivery,Economy,40.25,In Transit,Bengaluru
+SHP2113,2026-08-29,2026-09-03,DTDC,Standard,61.78,Delivered,Chennai
+SHP1956,2026-08-13,2026-08-19,BlueDart,Standard,62.04,Delivered,Chennai
+SHP1277,2026-08-05,2026-08-09,DTDC,Standard,77.55,Delivered,Jaipur
+SHP2351,2026-03-04,,Delhivery,Standard,41.25,In Transit,Delhi
+SHP2438,2026-05-13,2026-05-17,Delhivery,Express,170.24,Delivered,Pune
+SHP2015,2026-08-04,2026-08-11,XpressBees,Standard,77.39,Delivered,Hyderabad
+SHP1441,2026-06-18,2026-06-24,Delhivery,Standard,74.36,Delivered,Chennai
+SHP2008,2026-03-15,2026-03-25,XpressBees,Economy,34.85,Delivered,Delhi
+SHP1786,2026-03-31,2026-04-09,Ecom Express,Standard,72.23,Delivered,Hyderabad
+SHP2164,2026-05-27,2026-06-02,XpressBees,Standard,53.1,Delivered,Bengaluru
+SHP1442,2026-07-14,,Ecom Express,Standard,52.02,Cancelled,Kolkata
+SHP1299,2026-02-16,2026-02-20,DTDC,Standard,36.94,Delivered,Kolkata
+SHP2250,2026-04-08,2026-04-10,DTDC,Express,115.53,Delivered,Delhi
+SHP1375,2026-01-05,2026-01-10,DTDC,Express,104.83,Delivered,Hyderabad
+SHP2399,2026-05-01,2026-05-02,BlueDart,Express,111.95,Delivered,Jaipur
+SHP2132,2026-10-06,2026-10-11,XpressBees,Standard,58.79,Delivered,Jaipur
+SHP2450,2026-07-07,2026-07-12,XpressBees,Standard,40.38,Delivered,Mumbai
+SHP2454,2026-07-11,,BlueDart,Standard,31.24,Cancelled,Chennai
+SHP2097,2026-04-23,2026-05-06,BlueDart,Standard,62.36,Delivered,Jaipur
+SHP1472,2026-07-12,2026-07-22,Delhivery,Economy,42.64,Delivered,Delhi
+SHP1984,2026-02-17,2026-02-21,Ecom Express,Express,143.78,Delivered,Hyderabad
+SHP1563,2026-05-10,2026-05-13,BlueDart,Express,148.6,Delivered,Kolkata
+SHP2375,2026-03-08,2026-03-17,XpressBees,Economy,31.34,Delivered,Hyderabad
+SHP1750,2026-08-16,2026-08-23,DTDC,Standard,59.52,Delivered,Hyderabad
+SHP1388,2026-05-30,2026-06-05,Delhivery,Standard,74.78,Delivered,Jaipur
+SHP1022,2026-06-06,,DTDC,Standard,58.1,In Transit,Pune
+SHP1862,2026-10-25,2026-10-27,BlueDart,Express,92.29,Delivered,Hyderabad
+SHP1124,2026-06-28,2026-07-02,DTDC,Express,117.06,Delivered,Delhi
+SHP1423,2026-01-28,2026-02-01,BlueDart,Express,105.95,Delivered,Hyderabad
+SHP1773,2026-05-05,,Ecom Express,Express,104.41,Cancelled,Kolkata
+SHP2361,2026-07-05,2026-07-14,Delhivery,Standard,42.02,Delivered,Chennai
+SHP1470,2026-10-02,2026-10-05,BlueDart,Economy,37.81,Delivered,Bengaluru
+SHP1721,2026-07-11,2026-07-15,Delhivery,Express,107.05,Delivered,Kolkata
+SHP2041,2026-05-01,2026-05-03,Delhivery,Two-Day,,Delivered,Jaipur
+SHP1169,2026-10-22,2026-10-24,Delhivery,Two-Day,91.11,Delivered,Chennai
+SHP1142,2026-09-26,,Delhivery,Express,,In Transit,Hyderabad
+SHP1050,2026-02-09,2026-02-21,XpressBees,Economy,40.12,Delivered,Kolkata
+SHP2465,2026-10-22,2026-10-26,BlueDart,Standard,56.3,Delivered,Chennai
+SHP2288,2026-03-30,2026-04-04,DTDC,Standard,62.24,Delivered,Delhi
+SHP1623,2026-02-25,2026-03-07,DTDC,Economy,50.67,Delivered,Bengaluru
+SHP2499,2026-05-17,2026-05-23,XpressBees,Standard,73.36,Delivered,Jaipur
+SHP1081,2026-08-02,2026-08-07,DTDC,Express,98.7,Delivered,Mumbai
+SHP1703,2026-05-14,,DTDC,Standard,58.08,Cancelled,Jaipur
+SHP1482,2026-07-01,2026-07-06,XpressBees,Express,134.19,Delivered,Chennai
+SHP1321,2026-05-27,2026-05-31,Ecom Express,Two-Day,86.89,Delivered,Bengaluru
+SHP2265,2026-10-09,2026-10-20,Ecom Express,Standard,45.5,Delivered,Delhi
+SHP1505,2026-04-09,2026-04-15,BlueDart,Standard,43.8,Delivered,Delhi
+SHP2441,2026-07-23,,Delhivery,Standard,60.08,Cancelled,Kolkata
+SHP1841,2026-10-14,,BlueDart,Express,,In Transit,Pune
+SHP1066,2026-09-13,2026-09-17,BlueDart,Standard,55.7,Delivered,Delhi
+SHP2296,2026-10-03,2026-10-06,DTDC,Express,105.63,Delivered,Delhi
+SHP1936,2026-04-08,2026-04-20,Ecom Express,Economy,27.98,Delivered,Mumbai
+SHP2342,2026-10-13,2026-10-17,DTDC,Express,113.18,Delivered,Bengaluru
+SHP1801,2026-01-15,,Delhivery,Standard,79.02,Cancelled,Chennai
+SHP1869,2026-08-20,2026-08-28,DTDC,Standard,72.32,Delivered,Chennai
+SHP1031,2026-01-06,2026-01-07,Delhivery,Express,90.75,Delivered,Hyderabad
+SHP1795,2026-02-11,2026-02-17,XpressBees,Standard,55.44,Delivered,Delhi
+SHP1417,2026-03-05,,XpressBees,Express,123.39,Delivered,Pune
+SHP1632,2026-04-09,2026-04-16,Delhivery,Standard,62.94,Delivered,Chennai
+SHP2177,2026-04-30,2026-05-07,DTDC,Express,115.3,Delivered,Jaipur
+SHP2086,2026-09-13,2026-09-21,XpressBees,Standard,59.5,Delivered,Jaipur
+SHP1064,2026-03-13,2026-03-16,XpressBees,Economy,33.01,Delivered,Delhi
+SHP1139,2026-03-08,2026-03-09,BlueDart,Standard,53.31,Delivered,Kolkata
+SHP2295,2026-09-24,2026-10-02,BlueDart,Standard,67.28,Delivered,Delhi
+SHP2238,2026-10-11,,Ecom Express,Standard,,Cancelled,Kolkata
+SHP1077,2026-09-04,2026-09-12,BlueDart,Economy,41.55,Delivered,Delhi
+SHP1491,2026-04-14,2026-04-18,BlueDart,Standard,42.52,Delivered,Chennai
+SHP2315,2026-07-26,,BlueDart,Standard,62.79,Cancelled,Bengaluru
+SHP2149,2026-05-19,2026-05-25,BlueDart,Standard,68.06,Returned,Jaipur
+SHP1532,2026-08-04,,Delhivery,Economy,35.96,In Transit,Jaipur
+SHP1065,2026-09-03,2026-09-10,Ecom Express,Standard,76.24,Delivered,Pune
+SHP2277,2026-03-08,2026-03-14,Ecom Express,Standard,82.04,Delivered,Hyderabad
+SHP1927,2026-01-11,2026-01-15,Delhivery,Standard,32.72,Delivered,Hyderabad
+SHP2272,2026-04-17,2026-04-21,XpressBees,Standard,57.08,Delivered,Mumbai
+SHP1296,2026-02-11,,DTDC,Express,116.88,Cancelled,Pune
+SHP1591,2026-05-20,,XpressBees,Economy,40.87,In Transit,Chennai
+SHP1419,2026-09-29,2026-10-11,XpressBees,Economy,37.75,Delivered,Pune
+SHP1767,2026-02-22,2026-02-25,Delhivery,Express,146.94,Returned,Bengaluru
+SHP1892,2026-05-22,2026-05-29,DTDC,Standard,53.48,Delivered,Kolkata
+SHP1438,2026-01-01,2026-01-07,DTDC,Standard,69.03,Delivered,Chennai
+SHP1261,2026-03-16,2026-03-19,XpressBees,Standard,51.29,Delivered,Pune
+SHP1993,2026-10-18,2026-10-25,BlueDart,Standard,72.91,Delivered,Mumbai
+SHP1724,2026-10-02,,XpressBees,Express,118.59,Cancelled,Jaipur
+SHP2404,2026-07-07,2026-07-19,XpressBees,Economy,45.06,Delivered,Pune
+SHP1281,2026-02-28,2026-03-05,BlueDart,Standard,36.95,Delivered,Bengaluru
+SHP1626,2026-07-02,2026-07-12,XpressBees,Economy,24.2,Delivered,Kolkata
+SHP2033,2026-06-24,2026-07-01,Delhivery,Standard,73.25,Delivered,Kolkata
+SHP2493,2026-07-22,2026-07-23,Delhivery,Express,114.06,Delivered,Jaipur
+SHP2495,2026-02-23,,BlueDart,Standard,69.03,In Transit,Hyderabad
+SHP1188,2026-02-22,,DTDC,Standard,51.45,Delivered,Mumbai
+SHP2218,2026-09-02,2026-09-11,XpressBees,Standard,71.64,Delivered,Jaipur
+SHP1251,2026-06-11,2026-06-15,Ecom Express,Two-Day,91.41,Delivered,Pune
+SHP1583,2026-07-04,2026-07-15,XpressBees,Standard,70.8,Delivered,Chennai
+SHP2048,2026-07-15,,XpressBees,Express,92.49,Cancelled,Jaipur
+SHP1101,2026-07-11,2026-07-13,XpressBees,Two-Day,58.85,Delivered,Bengaluru
+SHP1985,2026-08-09,2026-08-14,XpressBees,Express,150.35,Delivered,Pune
+SHP1514,2026-05-17,,DTDC,Two-Day,99.29,In Transit,Hyderabad
+SHP1943,2026-06-10,2026-06-13,BlueDart,Express,,Delivered,Chennai
+SHP2405,2026-05-10,2026-05-13,Delhivery,Express,185.47,Returned,Delhi
+SHP2434,2026-07-18,2026-07-25,Ecom Express,Standard,36.41,Delivered,Pune
+SHP1706,2026-02-21,2026-03-02,Delhivery,Standard,64.4,Delivered,Mumbai
+SHP1487,2026-08-11,2026-08-14,XpressBees,Two-Day,78.78,Delivered,Hyderabad
+SHP1663,2026-09-15,2026-09-23,XpressBees,Standard,78.13,Delivered,Jaipur
+SHP2406,2026-02-18,2026-02-22,Ecom Express,Economy,27.8,Delivered,Chennai
+SHP2156,2026-06-30,2026-07-02,Delhivery,Express,113.45,Delivered,Jaipur
+SHP1273,2026-07-15,2026-07-20,Delhivery,Standard,67.55,Delivered,Jaipur
+SHP1685,2026-01-06,2026-01-15,DTDC,Economy,34.66,Delivered,Chennai
+SHP2192,2026-07-06,2026-07-15,DTDC,Standard,67.95,Returned,Kolkata
+SHP2261,2026-02-17,2026-02-27,Delhivery,Standard,76.96,Delivered,Pune
+SHP1877,2026-08-12,2026-08-15,Delhivery,Two-Day,124.53,Delivered,Pune
+SHP2062,2026-03-16,2026-03-23,Ecom Express,Standard,67.34,Delivered,Pune
+SHP2367,2026-07-14,2026-07-21,Ecom Express,Standard,55.85,Delivered,Bengaluru
+SHP1448,2026-03-27,2026-04-01,Ecom Express,Express,147.38,Delivered,Hyderabad
+SHP1411,2026-06-17,2026-06-30,Delhivery,Economy,31.4,Delivered,Hyderabad
+SHP1458,2026-09-24,2026-09-30,Delhivery,Standard,68.71,Delivered,Pune
+SHP1376,2026-09-17,2026-09-20,XpressBees,Standard,54.77,Delivered,Pune
+SHP2324,2026-09-17,2026-09-23,Delhivery,Economy,35.67,Delivered,Mumbai
+SHP1667,2026-03-31,,DTDC,Standard,54.44,Cancelled,Mumbai
+SHP2256,2026-08-14,2026-08-20,DTDC,Standard,48.28,Returned,Bengaluru
+SHP1149,2026-09-09,2026-09-17,Ecom Express,Standard,76.45,Delivered,Mumbai
+SHP1948,2026-09-14,2026-09-17,DTDC,Express,100.5,Delivered,Chennai
+SHP2212,2026-07-04,2026-07-12,Ecom Express,Standard,65.75,Delivered,Chennai
+SHP1733,2026-10-27,2026-11-01,Delhivery,Standard,68.7,Delivered,Kolkata
+SHP1218,2026-03-03,2026-03-08,XpressBees,Express,133.81,Delivered,Pune
+SHP1239,2026-05-16,2026-05-25,DTDC,Standard,48.49,Delivered,Kolkata
+SHP2257,2026-02-20,2026-02-22,Delhivery,Two-Day,100.0,Delivered,Kolkata
+SHP1867,2026-09-28,2026-09-30,DTDC,Express,152.19,Delivered,Pune
+SHP1725,2026-03-23,2026-03-30,Ecom Express,Standard,65.12,Delivered,Delhi
+SHP1192,2026-06-23,2026-06-25,BlueDart,Two-Day,68.69,Returned,Kolkata
+SHP1792,2026-04-11,2026-04-15,BlueDart,Express,85.53,Delivered,Jaipur
+SHP1191,2026-07-27,2026-08-08,Ecom Express,Economy,40.1,Delivered,Kolkata
+SHP1953,2026-05-25,2026-05-28,XpressBees,Express,123.5,Delivered,Chennai
+SHP2333,2026-02-21,2026-03-04,Ecom Express,Standard,70.27,Delivered,Pune
+SHP1983,2026-07-20,2026-07-24,Delhivery,Standard,61.34,Delivered,Delhi
+SHP1644,2026-08-12,2026-08-18,DTDC,Standard,47.89,Delivered,Jaipur
+SHP1359,2026-10-24,2026-10-31,XpressBees,Standard,76.43,Delivered,Delhi
+SHP1992,2026-03-03,2026-03-09,BlueDart,Economy,45.89,Delivered,Mumbai
+SHP2470,2026-01-08,2026-01-15,Delhivery,Standard,56.09,Delivered,Jaipur
+SHP1016,2026-01-29,2026-02-03,BlueDart,Standard,65.21,Delivered,Pune
+SHP1333,2026-09-03,,Delhivery,Express,184.9,Cancelled,Bengaluru
+SHP2221,2026-10-17,2026-10-21,Delhivery,Standard,60.2,Delivered,Kolkata
+SHP1582,2026-01-10,2026-01-20,DTDC,Standard,40.95,Delivered,Pune
+SHP2446,2026-08-04,2026-08-15,XpressBees,Standard,59.29,Returned,Kolkata
+SHP2083,2026-05-12,2026-05-19,DTDC,Standard,51.29,Delivered,Mumbai
+SHP1839,2026-10-22,2026-10-25,Delhivery,Express,158.51,Delivered,Hyderabad
+SHP1627,2026-05-26,,DTDC,Standard,62.36,In Transit,Chennai
+SHP2409,2026-07-17,2026-07-28,Ecom Express,Economy,35.25,Delivered,Jaipur
+SHP1323,2026-09-05,2026-09-10,Delhivery,Standard,60.65,Delivered,Delhi
+SHP1824,2026-03-31,2026-04-10,BlueDart,Economy,51.99,Delivered,Chennai
+SHP2241,2026-03-26,2026-04-01,BlueDart,Standard,42.87,Delivered,Hyderabad
+SHP1631,2026-03-18,2026-03-26,DTDC,Standard,64.51,Delivered,Jaipur
+SHP2049,2026-08-27,2026-09-03,DTDC,Standard,52.98,Delivered,Kolkata
+SHP2349,2026-08-31,2026-09-11,Ecom Express,Standard,65.99,Returned,Mumbai
+SHP1778,2026-01-25,2026-01-29,Ecom Express,Two-Day,104.05,Delivered,Delhi
+SHP2050,2026-02-16,2026-02-17,Delhivery,Express,163.95,Delivered,Kolkata
+SHP1939,2026-08-09,2026-08-14,Ecom Express,Standard,65.98,Returned,Chennai
+SHP1855,2026-01-21,2026-01-26,XpressBees,Standard,31.75,Delivered,Jaipur
+SHP1437,2026-05-10,2026-05-13,DTDC,Express,109.91,Delivered,Mumbai
+SHP1119,2026-06-14,2026-06-21,XpressBees,Standard,68.88,Delivered,Pune
+SHP2070,2026-01-31,2026-02-06,DTDC,Standard,44.49,Delivered,Jaipur
+SHP2178,2026-08-23,2026-08-27,Ecom Express,Express,127.17,Delivered,Hyderabad
+SHP1790,2026-02-05,2026-02-14,BlueDart,Standard,60.47,Delivered,Jaipur
+SHP1341,2026-03-31,2026-04-05,DTDC,Standard,62.08,Delivered,Mumbai
+SHP1815,2026-06-28,2026-07-01,Ecom Express,Two-Day,85.7,Delivered,Delhi
+SHP1002,2026-05-14,2026-05-22,DTDC,Economy,41.15,Delivered,Bengaluru
+SHP1229,2026-01-14,2026-01-18,XpressBees,Standard,61.31,Delivered,Hyderabad
+SHP2489,2026-10-07,2026-10-14,BlueDart,Economy,30.57,Delivered,Bengaluru
+SHP2460,2026-02-06,2026-02-13,Ecom Express,Standard,64.65,Delivered,Delhi
+SHP1076,2026-08-28,2026-09-04,Delhivery,Standard,67.35,Delivered,Delhi
+SHP2403,2026-05-21,2026-05-25,Delhivery,Standard,54.62,Delivered,Mumbai
+SHP1900,2026-06-15,2026-06-21,BlueDart,Standard,56.66,Delivered,Bengaluru
+SHP2223,2026-05-04,2026-05-07,BlueDart,Two-Day,99.95,Delivered,Bengaluru
+SHP1371,2026-02-27,2026-03-07,XpressBees,Standard,68.47,Returned,Hyderabad
+SHP1180,2026-01-19,2026-01-30,BlueDart,Economy,39.88,Delivered,Chennai
+SHP2088,2026-08-02,,Delhivery,Standard,88.77,In Transit,Mumbai
+SHP2490,2026-01-26,2026-02-04,DTDC,Standard,54.43,Delivered,Chennai
+SHP1941,2026-01-07,2026-01-12,Delhivery,Standard,50.31,Delivered,Delhi
+SHP1577,2026-03-08,2026-03-26,BlueDart,Standard,58.3,Delivered,Mumbai
+SHP1978,2026-07-28,2026-08-02,Delhivery,Standard,46.24,Delivered,Hyderabad
+SHP1819,2026-08-24,2026-08-28,XpressBees,Standard,66.28,Delivered,Mumbai
+SHP2444,2026-03-02,2026-03-05,XpressBees,Express,97.8,Delivered,Jaipur
+SHP2125,2026-03-03,,Delhivery,Two-Day,90.72,Delivered,Delhi
+SHP2304,2026-08-28,2026-08-31,Delhivery,Standard,70.06,Delivered,Pune
+SHP2295,2026-09-24,2026-10-02,BlueDart,Standard,67.28,Delivered,Delhi
+SHP1062,2026-01-28,,Ecom Express,Standard,62.36,Delivered,Mumbai
+SHP1589,2026-02-12,2026-02-18,Ecom Express,Standard,45.41,Delivered,Bengaluru
+SHP1886,2026-04-01,,DTDC,Standard,67.21,Delivered,Pune
+SHP1968,2026-04-09,2026-04-14,Delhivery,Standard,50.02,Delivered,Mumbai
+SHP2134,2026-08-03,2026-08-11,XpressBees,Economy,31.22,Delivered,Bengaluru
+SHP1785,2026-10-25,2026-10-29,XpressBees,Standard,64.51,Delivered,Bengaluru
+SHP2160,2026-04-25,2026-05-02,Ecom Express,Standard,76.21,Delivered,Chennai
+SHP1311,2026-07-09,2026-07-17,DTDC,Economy,30.34,Delivered,Jaipur
+SHP2215,2026-03-04,2026-03-17,BlueDart,Standard,57.18,Delivered,Pune
+SHP1301,2026-05-20,2026-05-24,Ecom Express,Express,158.5,Delivered,Hyderabad
+SHP1722,2026-06-07,2026-06-08,BlueDart,Express,91.73,Delivered,Chennai
+SHP1689,2026-08-06,2026-08-10,BlueDart,Standard,,Delivered,Hyderabad
+SHP1812,2026-08-05,2026-08-12,Ecom Express,Standard,50.61,Delivered,Hyderabad
+SHP1037,2026-02-04,2026-02-07,Delhivery,Standard,44.55,Delivered,Hyderabad
+SHP1353,2026-10-03,2026-10-11,Ecom Express,Standard,70.9,Delivered,Bengaluru
+SHP2395,2026-03-23,2026-03-29,Ecom Express,Express,59.49,Delivered,Chennai
+SHP1714,2026-05-08,2026-05-13,DTDC,Express,123.57,Delivered,Hyderabad
+SHP1980,2026-07-13,,XpressBees,Standard,71.7,In Transit,Chennai
+SHP1236,2026-05-12,2026-05-15,BlueDart,Express,,Delivered,Delhi
+SHP2266,2026-08-14,2026-08-18,Ecom Express,Standard,30.89,Delivered,Delhi
+SHP1962,2026-07-31,2026-08-07,Delhivery,Standard,59.2,Delivered,Hyderabad
+SHP2157,2026-09-01,2026-09-03,BlueDart,Economy,28.62,Delivered,Kolkata
+SHP1729,2026-08-15,2026-08-20,DTDC,Express,97.45,Delivered,Bengaluru
+SHP2251,2026-04-30,2026-05-04,Ecom Express,Standard,49.8,Returned,Mumbai
+SHP2025,2026-07-19,2026-07-26,Ecom Express,Standard,74.04,Delivered,Pune
+SHP1499,2026-05-23,2026-05-29,BlueDart,Standard,60.49,Delivered,Delhi
+SHP2253,2026-09-01,2026-09-07,Ecom Express,Standard,70.98,Delivered,Mumbai
+SHP1794,2026-05-29,2026-05-31,Delhivery,Express,158.55,Delivered,Delhi
+SHP2445,2026-08-26,2026-08-27,BlueDart,Express,121.0,Delivered,Delhi
+SHP1990,2026-01-21,2026-01-25,DTDC,Two-Day,74.81,Delivered,Bengaluru
+SHP2037,2026-07-24,2026-07-27,DTDC,Two-Day,71.21,Delivered,Chennai
+SHP1934,2026-04-09,2026-04-11,Delhivery,Standard,56.23,Delivered,Mumbai
+SHP1387,2026-09-24,2026-10-01,Delhivery,Standard,50.86,Delivered,Chennai
+SHP1390,2026-07-01,2026-07-08,Ecom Express,Standard,62.59,Delivered,Delhi
+SHP1743,2026-04-17,2026-04-22,DTDC,Standard,79.21,Delivered,Bengaluru
+SHP1352,2026-01-01,2026-01-07,BlueDart,Standard,57.43,Delivered,Mumbai
+SHP1235,2026-04-14,2026-04-16,BlueDart,Standard,61.59,Delivered,Chennai
+SHP2287,2026-04-03,,Ecom Express,Economy,36.07,In Transit,Mumbai
+SHP1480,2026-01-22,2026-01-27,BlueDart,Standard,46.06,Delivered,Delhi
+SHP1567,2026-08-28,2026-09-04,Ecom Express,Economy,34.37,Delivered,Kolkata
+SHP2271,2026-04-21,2026-05-03,Ecom Express,Economy,42.41,Delivered,Delhi
+SHP2407,2026-09-29,2026-10-07,BlueDart,Economy,30.61,Delivered,Jaipur
+SHP2260,2026-06-24,2026-07-01,XpressBees,Standard,68.5,Delivered,Jaipur
+SHP1120,2026-01-09,2026-01-22,XpressBees,Express,160.36,Delivered,Mumbai
+SHP2301,2026-03-01,2026-03-05,XpressBees,Express,173.71,Delivered,Mumbai
+SHP2024,2026-02-08,2026-02-15,BlueDart,Standard,58.01,Delivered,Mumbai
+SHP1926,2026-06-21,2026-06-22,BlueDart,Express,53.31,Delivered,Delhi
+SHP1515,2026-06-18,2026-06-21,DTDC,Express,115.82,Delivered,Hyderabad
+SHP1223,2026-08-31,,Ecom Express,Standard,48.85,Cancelled,Mumbai
+SHP2114,2026-03-26,2026-04-01,DTDC,Standard,53.3,Delivered,Pune
+SHP1613,2026-05-25,2026-06-02,Ecom Express,Standard,,Delivered,Mumbai
+SHP1843,2026-06-14,,Ecom Express,Two-Day,106.69,Delivered,Delhi
+SHP1052,2026-03-18,2026-03-19,BlueDart,Two-Day,78.26,Delivered,Mumbai
+SHP2391,2026-03-14,,XpressBees,Standard,72.74,In Transit,Jaipur
+SHP1485,2026-03-28,2026-04-07,DTDC,Express,128.01,Delivered,Kolkata
+SHP2443,2026-04-26,2026-04-28,DTDC,Two-Day,113.35,Delivered,Jaipur
+SHP1818,2026-03-31,2026-04-10,Ecom Express,Standard,,Delivered,Bengaluru
+SHP1155,2026-05-16,,Ecom Express,Two-Day,122.3,Cancelled,Kolkata
+SHP1600,2026-04-08,2026-04-10,BlueDart,Express,92.42,Delivered,Kolkata
+SHP2210,2026-03-06,2026-03-07,BlueDart,Express,151.27,Delivered,Mumbai
+SHP1248,2026-05-04,2026-05-06,DTDC,Express,102.49,Delivered,Mumbai
+SHP1761,2026-08-19,2026-08-24,Delhivery,Standard,55.81,Delivered,Hyderabad
+SHP2379,2026-08-01,2026-08-05,BlueDart,Express,123.2,Delivered,Bengaluru
+SHP1542,2026-01-23,2026-02-01,Ecom Express,Standard,70.49,Delivered,Jaipur
+SHP1793,2026-10-01,2026-10-05,Ecom Express,Two-Day,99.17,Delivered,Bengaluru
+SHP2098,2026-01-13,2026-01-18,BlueDart,Standard,55.13,Delivered,Jaipur
+SHP1628,2026-01-13,,XpressBees,Express,172.77,Cancelled,Kolkata
+SHP1150,2026-07-06,2026-07-16,Ecom Express,Economy,35.92,Delivered,Kolkata
+SHP1291,2026-02-23,2026-02-27,DTDC,Express,140.93,Delivered,Pune
+SHP1381,2026-06-29,2026-07-01,Delhivery,Express,143.9,Delivered,Jaipur
+SHP1686,2026-09-16,2026-09-22,Delhivery,Standard,62.94,Delivered,Mumbai
+SHP1897,2026-06-05,2026-06-20,Delhivery,Standard,88.93,Delivered,Pune
+SHP1854,2026-10-05,2026-10-13,Ecom Express,Standard,69.55,Delivered,Hyderabad
+SHP2285,2026-06-19,2026-07-06,Ecom Express,Express,117.66,Delivered,Chennai
+SHP2151,2026-07-09,2026-07-18,Ecom Express,Standard,43.44,Delivered,Mumbai
+SHP2276,2026-02-05,2026-02-10,Delhivery,Standard,56.08,Delivered,Bengaluru
+SHP1891,2026-03-17,2026-03-20,XpressBees,Express,123.66,Delivered,Chennai
+SHP1685,2026-01-06,2026-01-15,DTDC,Economy,34.66,Delivered,Chennai
+SHP1615,2026-08-15,2026-08-22,DTDC,Standard,59.21,Delivered,Hyderabad
+SHP1154,2026-07-23,2026-07-26,BlueDart,Express,127.94,Delivered,Hyderabad
+SHP1774,2026-05-05,2026-05-12,XpressBees,Economy,33.75,Delivered,Pune
+SHP1322,2026-01-05,2026-01-12,Delhivery,Standard,43.12,Delivered,Pune
+SHP2166,2026-05-07,2026-05-10,XpressBees,Express,138.93,Delivered,Kolkata
+SHP1082,2026-02-12,2026-02-17,Ecom Express,Two-Day,92.37,Delivered,Delhi
+SHP1512,2026-04-10,2026-04-16,Ecom Express,Standard,54.06,Delivered,Delhi
+SHP2150,2026-06-09,,DTDC,Standard,60.95,Delivered,Kolkata
+SHP1929,2026-06-14,2026-06-19,DTDC,Express,158.28,Returned,Pune
+SHP2318,2026-04-07,2026-04-13,Delhivery,Standard,77.56,Delivered,Delhi
+SHP1010,2026-04-15,,Delhivery,Express,92.8,In Transit,Chennai
+SHP1831,2026-02-03,2026-02-12,Ecom Express,Standard,73.58,Delivered,Mumbai
+SHP1032,2026-08-30,2026-09-03,XpressBees,Express,108.38,Delivered,Jaipur
+SHP1413,2026-06-07,2026-06-13,Delhivery,Standard,65.4,Delivered,Jaipur
+SHP1580,2026-06-20,2026-06-29,XpressBees,Economy,39.43,Delivered,Bengaluru
+SHP2168,2026-07-01,2026-07-04,XpressBees,Express,122.83,Delivered,Chennai
+SHP2436,2026-09-16,2026-09-18,DTDC,Two-Day,84.43,Delivered,Chennai
+SHP1614,2026-01-19,2026-01-24,DTDC,Express,151.39,Delivered,Chennai
+SHP2045,2026-09-29,2026-10-01,XpressBees,Express,93.91,Delivered,Bengaluru
+SHP2014,2026-08-25,,DTDC,Two-Day,92.12,In Transit,Pune
+SHP1089,2026-07-02,2026-07-05,BlueDart,Express,118.37,Delivered,Jaipur
+SHP2282,2026-09-22,2026-09-29,XpressBees,Economy,33.94,Delivered,Hyderabad
+SHP1601,2026-03-30,,XpressBees,Economy,26.71,Cancelled,Delhi
+SHP1133,2026-04-26,2026-05-05,Ecom Express,Standard,70.9,Delivered,Chennai
+SHP1555,2026-04-16,,Delhivery,Economy,40.02,In Transit,Jaipur
+SHP2031,2026-03-22,2026-04-02,DTDC,Economy,25.59,Delivered,Chennai
+SHP2182,2026-06-25,2026-06-28,DTDC,Two-Day,79.95,Delivered,Delhi
+SHP1320,2026-02-09,2026-02-19,Delhivery,Economy,30.78,Delivered,Chennai
+SHP2332,2026-08-15,2026-08-24,Ecom Express,Standard,61.2,Delivered,Kolkata
+SHP2309,2026-06-25,2026-07-03,BlueDart,Economy,33.51,Delivered,Bengaluru
+SHP1634,2026-01-10,2026-01-16,Delhivery,Standard,76.99,Delivered,Mumbai
+SHP1552,2026-03-04,2026-03-13,DTDC,Economy,42.34,Delivered,Hyderabad
+SHP2055,2026-06-04,2026-06-09,BlueDart,Standard,78.56,Delivered,Jaipur
+SHP2464,2026-02-24,2026-03-04,Delhivery,Standard,61.3,Delivered,Pune
+SHP1796,2026-04-09,2026-04-15,XpressBees,Standard,,Delivered,Chennai
+SHP2392,2026-07-03,2026-07-10,Delhivery,Standard,66.78,Delivered,Delhi
+SHP2289,2026-03-01,,DTDC,Two-Day,92.8,In Transit,Hyderabad
+SHP1174,2026-08-03,2026-08-09,Delhivery,Economy,35.55,Delivered,Pune
+SHP1766,2026-03-01,,Delhivery,Standard,,In Transit,Mumbai
+SHP1245,2026-07-29,2026-08-04,DTDC,Standard,42.56,Delivered,Bengaluru
+SHP2080,2026-04-09,2026-04-14,XpressBees,Express,114.31,Delivered,Jaipur
+SHP2308,2026-07-06,2026-07-12,Delhivery,Standard,54.36,Delivered,Bengaluru
+SHP1145,2026-03-26,2026-04-02,Ecom Express,Standard,60.91,Delivered,Chennai
+SHP1090,2026-07-30,2026-08-05,BlueDart,Standard,74.98,Delivered,Jaipur
+SHP1682,2026-09-23,,XpressBees,Standard,,In Transit,Hyderabad
+SHP1310,2026-08-23,2026-09-08,BlueDart,Express,,Delivered,Kolkata
+SHP1093,2026-10-19,2026-10-27,Delhivery,Economy,32.03,Delivered,Hyderabad
+SHP2188,2026-02-17,2026-02-27,DTDC,Standard,55.14,Delivered,Hyderabad
+SHP1924,2026-02-10,2026-02-18,DTDC,Standard,66.35,Delivered,Delhi
+SHP2275,2026-05-09,2026-05-17,XpressBees,Standard,59.62,Delivered,Bengaluru
+SHP2035,2026-03-01,2026-03-07,DTDC,Standard,64.07,Delivered,Kolkata
+SHP1243,2026-08-10,,Ecom Express,Express,123.36,Cancelled,Mumbai
+SHP2111,2026-02-08,2026-02-14,Delhivery,Standard,55.68,Returned,Pune
+SHP1214,2026-09-18,2026-09-23,Ecom Express,Express,129.72,Returned,Bengaluru
+SHP1998,2026-10-05,,Delhivery,Economy,37.7,In Transit,Delhi
+SHP1853,2026-01-18,2026-01-22,BlueDart,Standard,70.64,Delivered,Chennai
+SHP1425,2026-01-25,2026-02-03,XpressBees,Economy,33.35,Delivered,Kolkata
+SHP2327,2026-04-14,2026-04-20,Ecom Express,Express,125.03,Delivered,Kolkata
+SHP1226,2026-10-22,2026-10-27,DTDC,Express,112.19,Delivered,Pune
+SHP2231,2026-05-27,2026-05-29,BlueDart,Two-Day,63.43,Returned,Kolkata
+SHP1000,2026-05-12,2026-05-24,Ecom Express,Economy,25.88,Delivered,Hyderabad
+SHP1401,2026-04-24,2026-05-05,Delhivery,Economy,38.22,Delivered,Mumbai
+SHP2103,2026-10-13,2026-10-22,DTDC,Economy,41.55,Delivered,Kolkata
+SHP1084,2026-05-28,2026-06-05,BlueDart,Standard,39.76,Delivered,Pune
+SHP1162,2026-06-11,2026-06-15,Ecom Express,Express,139.34,Delivered,Chennai
+SHP1114,2026-03-10,2026-03-17,Delhivery,Standard,46.57,Delivered,Pune
+SHP1670,2026-08-12,2026-08-22,Ecom Express,Economy,29.94,Delivered,Kolkata
+SHP2152,2026-09-26,2026-10-03,Delhivery,Economy,25.57,Delivered,Delhi
+SHP1889,2026-04-24,2026-04-26,Delhivery,Express,130.34,Delivered,Delhi
+SHP1625,2026-08-02,2026-08-07,XpressBees,Express,156.21,Delivered,Kolkata
+SHP2478,2026-05-15,2026-05-17,BlueDart,Express,95.08,Delivered,Bengaluru
+SHP1952,2026-05-20,,XpressBees,Express,113.71,Cancelled,Chennai
+SHP1807,2026-01-04,2026-01-09,BlueDart,Standard,47.07,Delivered,Jaipur
+SHP1258,2026-06-06,2026-06-09,Delhivery,Standard,69.02,Returned,Pune
+SHP1624,2026-05-12,2026-05-16,Ecom Express,Two-Day,96.51,Delivered,Bengaluru
+SHP1826,2026-10-06,2026-10-19,Ecom Express,Economy,35.94,Delivered,Bengaluru
+SHP1234,2026-09-02,2026-09-08,BlueDart,Economy,44.28,Delivered,Mumbai
+SHP1135,2026-03-01,2026-03-04,XpressBees,Express,139.94,Delivered,Delhi
+SHP1616,2026-04-11,2026-04-13,Delhivery,Standard,52.45,Delivered,Bengaluru
+SHP1836,2026-05-19,2026-05-25,Delhivery,Standard,63.69,Delivered,Pune
+SHP1842,2026-04-23,2026-05-03,Delhivery,Economy,35.22,Delivered,Pune
+SHP1959,2026-08-18,2026-08-21,XpressBees,Standard,56.41,Delivered,Bengaluru
+SHP1592,2026-09-10,,Delhivery,Express,57.0,Cancelled,Hyderabad
+SHP1343,2026-06-26,,Delhivery,Standard,65.25,Cancelled,Bengaluru
+SHP2247,2026-04-28,2026-05-04,Delhivery,Standard,55.59,Delivered,Kolkata
+SHP1293,2026-03-09,2026-03-18,Ecom Express,Standard,61.22,Delivered,Bengaluru
+SHP1364,2026-04-13,2026-04-27,BlueDart,Standard,48.36,Delivered,Jaipur
+SHP1178,2026-04-09,2026-04-16,Ecom Express,Standard,32.16,Delivered,Pune
+SHP1659,2026-10-10,2026-10-13,XpressBees,Two-Day,112.13,Delivered,Delhi
+SHP1996,2026-03-23,2026-03-28,DTDC,Economy,34.6,Delivered,Jaipur
+SHP1014,2026-07-09,2026-07-13,Ecom Express,Standard,48.03,Delivered,Bengaluru
+SHP2110,2026-10-02,2026-10-04,BlueDart,Two-Day,107.82,Delivered,Mumbai
+SHP1165,2026-05-25,2026-05-30,BlueDart,Economy,37.88,Delivered,Bengaluru
+SHP2419,2026-05-10,,Delhivery,Standard,43.6,Cancelled,Delhi
+SHP1059,2026-01-10,2026-01-16,BlueDart,Standard,44.98,Delivered,Hyderabad
+SHP1709,2026-02-02,2026-02-13,BlueDart,Economy,37.51,Delivered,Chennai
+SHP1676,2026-02-16,2026-02-21,BlueDart,Standard,59.03,Delivered,Jaipur
+SHP1780,2026-02-07,2026-02-13,BlueDart,Standard,69.37,Delivered,Mumbai
+SHP1424,2026-10-08,2026-10-14,DTDC,Standard,45.96,Delivered,Mumbai
+SHP1292,2026-02-28,2026-03-08,Ecom Express,Economy,47.66,Delivered,Kolkata
+SHP2065,2026-08-17,2026-08-22,BlueDart,Standard,72.71,Delivered,Jaipur
+SHP2350,2026-08-08,,BlueDart,Express,155.27,In Transit,Kolkata
+SHP1329,2026-05-15,2026-05-20,Ecom Express,Express,121.5,Delivered,Mumbai
+SHP1429,2026-07-22,2026-07-30,XpressBees,Standard,53.6,Returned,Hyderabad
+SHP2012,2026-01-29,,Delhivery,Standard,52.06,Cancelled,Hyderabad
+SHP1079,2026-06-02,2026-06-06,Ecom Express,Express,106.57,Delivered,Bengaluru
+SHP2052,2026-08-31,2026-09-08,XpressBees,Economy,45.31,Delivered,Kolkata
+SHP1937,2026-09-11,2026-09-14,Delhivery,Standard,60.56,Delivered,Chennai
+SHP1834,2026-01-27,,XpressBees,Express,109.7,In Transit,Delhi
+SHP1749,2026-07-18,2026-07-26,Delhivery,Economy,30.77,Delivered,Chennai
+SHP1890,2026-09-20,2026-09-21,XpressBees,Two-Day,62.85,Returned,Mumbai
+SHP1254,2026-01-16,2026-01-21,DTDC,Express,123.5,Delivered,Kolkata
+SHP2306,2026-04-21,2026-04-27,DTDC,Standard,62.85,Delivered,Bengaluru
+SHP2477,2026-06-30,,XpressBees,Standard,82.06,In Transit,Mumbai
+SHP2108,2026-01-07,2026-01-10,Delhivery,Two-Day,86.93,Delivered,Bengaluru
+SHP1136,2026-06-06,2026-06-09,DTDC,Express,95.81,Delivered,Delhi
+SHP2135,2026-04-13,2026-04-22,Delhivery,Standard,68.07,Delivered,Chennai
+SHP1852,2026-10-22,,DTDC,Standard,65.68,Cancelled,Kolkata
+SHP1723,2026-04-20,2026-04-21,BlueDart,Standard,52.73,Delivered,Hyderabad
+SHP1859,2026-03-10,2026-03-14,XpressBees,Standard,55.16,Delivered,Jaipur
+SHP1969,2026-05-10,2026-05-15,Ecom Express,Standard,72.31,Delivered,Mumbai
+SHP1496,2026-07-28,2026-07-30,BlueDart,Express,85.87,Delivered,Chennai
+SHP1950,2026-05-29,2026-06-09,Ecom Express,Economy,31.37,Delivered,Kolkata
+SHP1805,2026-05-15,2026-05-27,Ecom Express,Standard,54.82,Delivered,Bengaluru
+SHP1129,2026-03-15,,XpressBees,Two-Day,90.56,In Transit,Mumbai
+SHP1337,2026-10-04,,Ecom Express,Standard,51.14,Cancelled,Bengaluru
+SHP2038,2026-05-31,2026-06-04,Ecom Express,Express,80.14,Delivered,Delhi
+SHP1608,2026-07-20,2026-07-25,Delhivery,Express,,Delivered,Delhi
+SHP2148,2026-01-14,2026-01-23,Ecom Express,Standard,34.52,Delivered,Delhi
+SHP1195,2026-04-24,2026-04-28,DTDC,Standard,71.61,Delivered,Jaipur
+SHP2492,2026-07-18,2026-07-19,Delhivery,Standard,75.25,Delivered,Kolkata
+SHP1909,2026-08-10,2026-08-11,Delhivery,Express,119.17,Delivered,Kolkata
+SHP1584,2026-07-25,2026-08-01,Ecom Express,Standard,69.09,Delivered,Pune
+SHP1103,2026-04-01,2026-04-04,Delhivery,Express,79.39,Delivered,Chennai
+SHP2397,2026-01-14,2026-01-22,Delhivery,Standard,70.35,Delivered,Bengaluru
+SHP2411,2026-06-24,2026-07-01,Delhivery,Standard,53.85,Delivered,Hyderabad
+SHP1719,2026-08-30,2026-09-07,Ecom Express,Standard,52.01,Delivered,Chennai
+SHP1884,2026-04-21,2026-05-02,Ecom Express,Economy,31.44,Delivered,Delhi
+SHP1776,2026-06-18,2026-07-11,Delhivery,Economy,24.93,Delivered,Kolkata
+SHP1849,2026-07-29,2026-08-08,DTDC,Economy,47.3,Delivered,Chennai
+SHP1894,2026-05-22,2026-05-26,Delhivery,Express,138.38,Delivered,Mumbai
+SHP1227,2026-08-13,,XpressBees,Standard,61.09,In Transit,Pune
+SHP2421,2026-08-31,2026-09-10,XpressBees,Economy,36.23,Delivered,Bengaluru
+SHP1126,2026-08-06,2026-08-15,DTDC,Standard,56.17,Returned,Jaipur
+SHP1405,2026-06-18,2026-06-24,Delhivery,Standard,39.98,Delivered,Pune
+SHP1775,2026-02-05,2026-02-10,Delhivery,Standard,66.74,Delivered,Jaipur
+SHP1821,2026-05-04,2026-05-13,Ecom Express,Standard,67.08,Delivered,Kolkata
+SHP1711,2026-01-11,2026-01-17,XpressBees,Standard,23.12,Delivered,Chennai
+SHP2425,2026-04-16,2026-04-25,BlueDart,Economy,39.46,Delivered,Mumbai
+SHP2060,2026-09-30,2026-10-03,Delhivery,Standard,55.5,Delivered,Hyderabad
+SHP2163,2026-09-24,2026-10-06,XpressBees,Economy,20.0,Delivered,Pune
+SHP1303,2026-02-15,2026-02-16,DTDC,Two-Day,74.32,Delivered,Chennai
+SHP1267,2026-10-19,,XpressBees,Standard,53.0,Cancelled,Kolkata
+SHP1545,2026-08-26,,Ecom Express,Economy,26.67,Cancelled,Jaipur
+SHP1212,2026-02-16,2026-02-24,XpressBees,Economy,33.22,Delivered,Pune
+SHP1896,2026-04-27,2026-05-01,DTDC,Express,147.56,Delivered,Bengaluru
+SHP2222,2026-02-23,2026-03-01,Delhivery,Economy,33.67,Delivered,Hyderabad
+SHP1916,2026-09-04,2026-09-09,DTDC,Express,111.31,Returned,Hyderabad
+SHP1675,2026-06-20,2026-06-28,BlueDart,Standard,49.74,Delivered,Chennai
+SHP1814,2026-05-23,2026-05-28,Ecom Express,Express,112.52,Delivered,Jaipur
+SHP1342,2026-04-03,2026-04-08,BlueDart,Standard,57.88,Delivered,Hyderabad
+SHP1549,2026-03-15,2026-03-17,Delhivery,Express,88.23,Delivered,Kolkata
+SHP2214,2026-02-18,,DTDC,Economy,52.86,In Transit,Chennai
+SHP1966,2026-05-16,2026-05-24,Delhivery,Economy,25.72,Returned,Kolkata
+SHP2230,2026-03-20,2026-03-23,DTDC,Express,138.22,Delivered,Jaipur
+SHP1295,2026-07-01,2026-07-05,Ecom Express,Standard,41.39,Delivered,Mumbai
+SHP1695,2026-08-15,2026-08-23,XpressBees,Standard,66.46,Delivered,Delhi
+SHP1073,2026-05-24,2026-05-31,BlueDart,Standard,55.12,Delivered,Chennai
+SHP1605,2026-01-17,2026-01-20,XpressBees,Express,113.71,Delivered,Kolkata
+SHP1104,2026-06-12,2026-06-21,DTDC,Economy,23.69,Delivered,Jaipur
+SHP1645,2026-04-26,2026-05-03,DTDC,Express,154.08,Delivered,Mumbai
+SHP2481,2026-06-23,2026-07-01,Ecom Express,Standard,59.83,Delivered,Pune
+SHP2040,2026-08-06,2026-08-19,BlueDart,Economy,34.32,Delivered,Kolkata
+SHP1439,2026-05-03,2026-05-07,DTDC,Express,117.21,Delivered,Delhi
+SHP2019,2026-08-20,2026-08-27,DTDC,Standard,64.51,Delivered,Delhi
+SHP1091,2026-06-04,,Ecom Express,Two-Day,102.86,In Transit,Hyderabad
+SHP2112,2026-09-30,,Ecom Express,Express,118.64,Delivered,Jaipur
+SHP2323,2026-03-10,2026-03-21,Ecom Express,Economy,23.57,Delivered,Hyderabad
+SHP1908,2026-03-14,2026-03-19,Delhivery,Standard,62.5,Delivered,Bengaluru
+SHP1102,2026-10-02,2026-10-12,DTDC,Standard,46.76,Delivered,Bengaluru
+SHP1238,2026-08-26,2026-08-30,DTDC,Two-Day,51.58,Delivered,Chennai
+SHP2286,2026-07-15,,Ecom Express,Economy,37.88,Cancelled,Pune
+SHP1942,2026-08-04,2026-08-12,BlueDart,Economy,40.44,Delivered,Mumbai
+SHP1938,2026-07-26,2026-07-28,BlueDart,Two-Day,87.03,Delivered,Pune
+SHP2181,2026-09-01,,DTDC,Standard,42.5,Cancelled,Jaipur
+SHP1005,2026-01-23,2026-01-31,Delhivery,Standard,50.11,Delivered,Chennai
+SHP2371,2026-02-17,2026-02-23,BlueDart,Standard,56.12,Delivered,Jaipur
+SHP1965,2026-06-18,,Delhivery,Standard,62.75,In Transit,Bengaluru
+SHP1018,2026-07-14,2026-07-18,BlueDart,Standard,76.31,Delivered,Mumbai
+SHP1121,2026-04-06,2026-04-16,XpressBees,Economy,36.42,Delivered,Hyderabad
+SHP1661,2026-01-26,2026-01-30,BlueDart,Standard,59.68,Delivered,Mumbai
+SHP2274,2026-07-22,2026-07-26,BlueDart,Economy,33.61,Delivered,Hyderabad
+SHP1274,2026-07-03,2026-07-08,DTDC,Standard,50.67,Delivered,Kolkata
+SHP1433,2026-06-26,2026-06-30,DTDC,Express,106.16,Delivered,Delhi
+SHP1811,2026-08-18,2026-08-22,DTDC,Standard,43.97,Delivered,Bengaluru
+SHP2412,2026-04-28,2026-05-01,Delhivery,Two-Day,76.77,Delivered,Mumbai
+SHP2426,2026-01-07,2026-01-14,Ecom Express,Standard,37.78,Delivered,Mumbai
+SHP1181,2026-09-20,2026-09-28,BlueDart,Standard,45.76,Delivered,Chennai
+SHP1184,2026-04-15,2026-04-26,Ecom Express,Economy,25.76,Delivered,Kolkata
+SHP1406,2026-05-15,2026-05-21,DTDC,Standard,59.91,Delivered,Delhi
+SHP1865,2026-05-07,2026-05-13,XpressBees,Standard,57.92,Delivered,Delhi
+SHP1520,2026-08-03,2026-08-18,Ecom Express,Economy,33.37,Delivered,Delhi
+SHP2003,2026-03-19,,Ecom Express,Standard,62.46,In Transit,Hyderabad
+SHP1380,2026-05-30,2026-06-09,Ecom Express,Economy,40.73,Returned,Hyderabad
+SHP1427,2026-08-28,,Delhivery,Economy,27.64,In Transit,Mumbai
+SHP1078,2026-01-05,2026-01-09,XpressBees,Economy,41.27,Delivered,Mumbai
+SHP2009,2026-03-02,2026-03-05,DTDC,Express,143.28,Delivered,Jaipur
+SHP2488,2026-05-12,2026-05-16,Ecom Express,Standard,58.6,Delivered,Chennai
+SHP1607,2026-10-26,2026-10-28,DTDC,Two-Day,101.93,Delivered,Delhi
+SHP2344,2026-06-27,2026-06-29,DTDC,Two-Day,80.98,Delivered,Jaipur
+SHP1330,2026-10-03,2026-10-13,Delhivery,Economy,35.47,Delivered,Chennai
+SHP2377,2026-07-09,2026-07-13,XpressBees,Express,117.59,Delivered,Delhi
+SHP2057,2026-03-20,2026-03-23,BlueDart,Standard,60.36,Delivered,Hyderabad
+SHP2091,2026-04-16,,BlueDart,Standard,52.04,Cancelled,Chennai
+SHP2101,2026-03-13,2026-03-16,BlueDart,Express,167.15,Delivered,Bengaluru
+SHP2129,2026-09-01,2026-09-06,DTDC,Express,129.14,Delivered,Pune
+SHP2235,2026-02-23,2026-02-26,Ecom Express,Express,113.72,Delivered,Pune
+SHP2330,2026-03-29,2026-04-08,DTDC,Economy,28.57,Returned,Pune
+SHP1958,2026-10-06,2026-10-16,XpressBees,Economy,41.67,Delivered,Bengaluru
+SHP1559,2026-04-14,2026-04-19,BlueDart,Standard,81.61,Delivered,Bengaluru
+SHP1846,2026-03-19,,BlueDart,Two-Day,108.34,Cancelled,Bengaluru
+SHP1690,2026-09-15,2026-09-21,Delhivery,Standard,64.54,Delivered,Chennai
+SHP2463,2026-08-14,2026-08-19,Ecom Express,Express,167.55,Delivered,Hyderabad
+SHP2410,2026-06-28,,BlueDart,Standard,42.76,Delivered,Mumbai
+SHP1436,2026-05-04,2026-05-06,XpressBees,Express,161.43,Delivered,Jaipur
+SHP1490,2026-08-16,2026-08-29,BlueDart,Economy,28.64,Delivered,Chennai
+SHP2165,2026-03-18,2026-03-24,BlueDart,Standard,50.41,Delivered,Hyderabad
+SHP2388,2026-06-06,2026-06-14,XpressBees,Standard,67.0,Delivered,Bengaluru
+SHP1069,2026-09-19,2026-09-27,Ecom Express,Standard,42.28,Delivered,Kolkata
+SHP1808,2026-10-26,2026-11-02,Delhivery,Standard,61.28,Delivered,Bengaluru
+SHP2184,2026-10-10,2026-10-13,Delhivery,Two-Day,81.76,Delivered,Hyderabad
+SHP1011,2026-03-26,2026-03-29,XpressBees,Express,123.8,Delivered,Jaipur
+SHP1144,2026-03-16,,Ecom Express,Standard,61.43,Cancelled,Delhi
+SHP1917,2026-02-08,2026-02-20,BlueDart,Economy,41.28,Delivered,Pune
+SHP1639,2026-09-23,2026-09-25,BlueDart,Express,138.62,Delivered,Pune
+SHP1176,2026-01-30,2026-02-08,DTDC,Economy,33.29,Delivered,Delhi
+SHP1994,2026-03-23,2026-03-29,XpressBees,Standard,80.54,Delivered,Delhi
+SHP1440,2026-07-05,2026-07-06,DTDC,Two-Day,107.65,Delivered,Chennai
+SHP1521,2026-02-16,,Delhivery,Standard,65.04,In Transit,Chennai
+SHP2494,2026-07-02,2026-07-05,Delhivery,Express,136.15,Delivered,Bengaluru
+SHP2004,2026-05-03,2026-05-07,Delhivery,Standard,74.91,Delivered,Chennai
+SHP2255,2026-10-05,2026-10-08,Ecom Express,Express,108.62,Delivered,Bengaluru
+SHP2234,2026-01-04,2026-01-08,XpressBees,Express,137.79,Delivered,Pune
+SHP1143,2026-02-25,,DTDC,Standard,48.44,In Transit,Mumbai
+SHP1753,2026-06-24,2026-06-29,Ecom Express,Standard,50.26,Returned,Mumbai
+SHP1519,2026-02-10,2026-02-16,XpressBees,Standard,47.05,Delivered,Chennai
+SHP2322,2026-01-21,2026-01-31,BlueDart,Economy,35.11,Delivered,Chennai
+SHP1822,2026-07-07,2026-07-11,Ecom Express,Express,83.38,Delivered,Chennai
+SHP1428,2026-01-09,2026-01-11,DTDC,Express,91.26,Delivered,Delhi
+SHP1612,2026-05-05,,Delhivery,Express,129.52,Cancelled,Bengaluru
+SHP2032,2026-04-26,2026-05-04,DTDC,Standard,47.02,Delivered,Bengaluru
+SHP1156,2026-05-01,2026-05-11,Delhivery,Economy,35.92,Delivered,Bengaluru
+SHP1539,2026-09-23,2026-09-27,DTDC,Standard,65.9,Delivered,Jaipur
+SHP2290,2026-05-23,2026-05-26,DTDC,Two-Day,89.18,Delivered,Hyderabad
+SHP1461,2026-04-22,2026-04-25,Ecom Express,Express,168.75,Delivered,Bengaluru
+SHP1576,2026-04-17,2026-04-19,XpressBees,Express,98.6,Delivered,Kolkata
+SHP1255,2026-02-17,,BlueDart,Economy,33.57,In Transit,Jaipur
+SHP1979,2026-05-21,2026-05-26,BlueDart,Standard,35.66,Delivered,Kolkata
+SHP2185,2026-05-09,2026-05-13,XpressBees,Standard,73.75,Delivered,Delhi
+SHP2006,2026-02-01,2026-02-11,BlueDart,Economy,36.17,Delivered,Chennai
+SHP1560,2026-01-19,2026-01-22,Delhivery,Express,153.51,Delivered,Hyderabad
+SHP1208,2026-02-26,,DTDC,Express,126.48,Cancelled,Mumbai
+SHP1910,2026-02-18,2026-02-24,XpressBees,Standard,77.27,Delivered,Kolkata
+SHP2311,2026-07-17,2026-07-25,Ecom Express,Standard,65.98,Delivered,Chennai
+SHP1001,2026-06-03,,Ecom Express,Economy,35.46,Cancelled,Mumbai
+SHP1269,2026-01-10,2026-01-12,XpressBees,Express,120.9,Delivered,Mumbai
+SHP1265,2026-05-03,2026-05-05,Delhivery,Express,64.19,Delivered,Delhi
+SHP1914,2026-01-19,,DTDC,Express,131.06,In Transit,Delhi
+SHP1230,2026-07-08,2026-07-09,Delhivery,Express,170.3,Delivered,Delhi
+SHP2491,2026-05-04,2026-05-08,Ecom Express,Express,103.63,Delivered,Delhi
+SHP2119,2026-04-18,2026-04-21,XpressBees,Express,116.59,Delivered,Bengaluru
+SHP2486,2026-06-22,2026-06-26,BlueDart,Standard,67.67,Delivered,Jaipur
+SHP1864,2026-03-28,2026-04-06,BlueDart,Standard,64.05,Delivered,Pune
+SHP2066,2026-09-17,,XpressBees,Standard,43.46,Cancelled,Mumbai
+SHP1873,2026-07-03,2026-07-06,XpressBees,Two-Day,67.3,Delivered,Delhi
+SHP2354,2026-05-28,2026-06-02,Delhivery,Express,115.25,Delivered,Mumbai
+SHP1398,2026-09-28,2026-10-07,XpressBees,Economy,42.93,Delivered,Jaipur
+SHP2380,2026-10-25,2026-11-02,DTDC,Standard,53.1,Delivered,Kolkata
+SHP1045,2026-09-05,2026-09-10,Ecom Express,Express,114.32,Delivered,Kolkata
+SHP1161,2026-03-18,2026-03-25,Ecom Express,Standard,62.43,Returned,Chennai
+SHP1991,2026-01-14,2026-01-15,Delhivery,Two-Day,85.77,Delivered,Pune
+SHP1727,2026-08-20,,BlueDart,Standard,75.65,Cancelled,Hyderabad
+SHP1629,2026-05-09,2026-05-14,BlueDart,Standard,59.62,Delivered,Delhi
+SHP1288,2026-08-16,2026-08-30,BlueDart,Express,125.55,Delivered,Bengaluru
+SHP2059,2026-09-23,2026-09-25,XpressBees,Express,93.48,Delivered,Hyderabad
+SHP2475,2026-03-10,2026-03-15,XpressBees,Standard,84.97,Delivered,Jaipur
+SHP1575,2026-01-24,2026-02-03,Ecom Express,Economy,43.98,Delivered,Bengaluru
+SHP1850,2026-01-21,2026-01-24,XpressBees,Standard,70.79,Delivered,Bengaluru
+SHP2339,2026-02-17,2026-02-21,DTDC,Standard,80.08,Delivered,Mumbai
+SHP1911,2026-07-23,2026-07-30,Delhivery,Standard,72.88,Returned,Bengaluru
+SHP2254,2026-08-30,2026-09-02,Delhivery,Express,140.23,Delivered,Hyderabad
+SHP2394,2026-05-11,2026-05-16,Ecom Express,Express,112.11,Delivered,Jaipur
+SHP1932,2026-04-20,2026-04-23,DTDC,Express,155.96,Delivered,Kolkata
+SHP2100,2026-03-06,2026-03-11,Delhivery,Express,133.71,Delivered,Hyderabad
+SHP2207,2026-04-04,2026-04-05,BlueDart,Two-Day,72.54,Delivered,Chennai
+SHP1247,2026-08-19,2026-08-29,DTDC,Economy,41.6,Delivered,Delhi
+SHP1476,2026-05-09,2026-05-10,BlueDart,Two-Day,111.21,Delivered,Kolkata
+SHP1085,2026-06-16,2026-06-22,XpressBees,Standard,47.9,Delivered,Hyderabad
+SHP1469,2026-06-11,2026-06-20,Ecom Express,Economy,37.65,Delivered,Bengaluru
+SHP1225,2026-10-04,2026-10-11,DTDC,Standard,58.27,Delivered,Chennai
+SHP1774,2026-05-05,2026-05-12,XpressBees,Economy,33.75,Delivered,Pune
+SHP1331,2026-02-15,2026-02-24,BlueDart,Standard,72.82,Delivered,Jaipur
+SHP1233,2026-08-01,2026-08-03,Delhivery,Express,127.75,Delivered,Kolkata
+SHP1588,2026-04-14,2026-04-18,BlueDart,Standard,59.15,Delivered,Mumbai
+SHP1475,2026-01-19,2026-01-23,Delhivery,Standard,54.59,Delivered,Mumbai
+SHP2284,2026-09-10,,BlueDart,Standard,70.87,Delivered,Kolkata
+SHP1599,2026-04-13,2026-04-20,DTDC,Standard,50.27,Delivered,Jaipur
+SHP1421,2026-09-02,,Ecom Express,Economy,39.95,In Transit,Jaipur
+SHP1182,2026-03-17,2026-03-23,Ecom Express,Standard,81.62,Delivered,Hyderabad
+SHP1988,2026-05-18,2026-05-29,Delhivery,Standard,72.18,Delivered,Delhi
+SHP2000,2026-08-04,,DTDC,Standard,70.04,In Transit,Kolkata
+SHP2356,2026-08-14,2026-08-30,Ecom Express,Economy,31.07,Delivered,Kolkata
+SHP1049,2026-08-18,2026-08-23,XpressBees,Standard,69.39,Delivered,Hyderabad
+SHP2417,2026-02-01,2026-02-05,BlueDart,Standard,56.6,Delivered,Pune
+SHP2029,2026-04-19,2026-04-23,DTDC,Express,138.87,Delivered,Pune
+SHP1529,2026-05-09,2026-05-20,DTDC,Economy,42.36,Delivered,Jaipur
+SHP2258,2026-08-30,2026-09-03,Delhivery,Express,110.21,Delivered,Hyderabad
+SHP1486,2026-06-16,,Delhivery,Standard,59.49,Cancelled,Bengaluru
+SHP2473,2026-05-18,2026-05-23,XpressBees,Standard,62.58,Delivered,Delhi
+SHP1497,2026-04-14,2026-04-22,BlueDart,Economy,33.55,Delivered,Jaipur
+SHP1106,2026-02-16,2026-02-26,BlueDart,Standard,58.0,Delivered,Hyderabad
+SHP1443,2026-06-05,2026-06-10,Ecom Express,Express,154.34,Delivered,Kolkata
+SHP1646,2026-06-08,2026-06-15,DTDC,Standard,77.45,Delivered,Hyderabad
+SHP2036,2026-07-19,,Delhivery,Standard,56.14,In Transit,Pune
+SHP1726,2026-07-14,2026-07-26,Ecom Express,Standard,48.66,Delivered,Chennai
+SHP1190,2026-02-02,2026-02-05,Ecom Express,Express,151.8,Delivered,Jaipur
+SHP1282,2026-05-31,2026-06-02,XpressBees,Two-Day,54.47,Returned,Hyderabad
+SHP1029,2026-09-25,,BlueDart,Economy,44.84,In Transit,Mumbai
+SHP1169,2026-10-22,2026-10-24,Delhivery,Two-Day,91.11,Delivered,Chennai
+SHP2001,2026-07-13,2026-07-17,XpressBees,Standard,70.83,Delivered,Jaipur
+SHP2204,2026-04-02,,XpressBees,Two-Day,77.39,Cancelled,Kolkata
+SHP1100,2026-09-23,2026-09-28,DTDC,Standard,42.07,Delivered,Chennai
+SHP1197,2026-04-02,2026-04-06,Delhivery,Express,109.27,Delivered,Mumbai
+SHP1495,2026-03-24,2026-03-26,DTDC,Express,136.56,Delivered,Pune
+SHP1647,2026-04-13,2026-04-20,Delhivery,Economy,44.37,Delivered,Hyderabad
+SHP1987,2026-05-20,2026-05-26,BlueDart,Economy,33.23,Returned,Jaipur
+SHP1044,2026-09-28,2026-10-05,XpressBees,Economy,35.37,Delivered,Kolkata
+SHP1710,2026-05-12,2026-05-16,DTDC,Express,135.46,Delivered,Kolkata
+SHP1373,2026-04-14,2026-04-23,DTDC,Standard,49.61,Delivered,Hyderabad
+SHP1678,2026-03-12,2026-03-20,Ecom Express,Standard,50.99,Delivered,Bengaluru
+SHP1566,2026-06-26,,XpressBees,Two-Day,85.26,In Transit,Chennai
+SHP1847,2026-02-16,2026-02-21,XpressBees,Standard,65.8,Delivered,Hyderabad
+SHP1460,2026-02-12,2026-02-19,DTDC,Standard,59.67,Delivered,Chennai
+SHP2155,2026-04-21,2026-04-24,XpressBees,Express,101.66,Delivered,Jaipur
+SHP1039,2026-10-05,2026-10-13,XpressBees,Standard,58.39,Delivered,Mumbai
+SHP1434,2026-04-07,2026-04-17,DTDC,Economy,42.7,Delivered,Mumbai
+SHP1973,2026-04-29,2026-04-30,BlueDart,Two-Day,88.2,Delivered,Mumbai
+SHP2239,2026-07-29,2026-08-07,Ecom Express,Standard,64.14,Delivered,Delhi
+SHP2007,2026-05-08,2026-05-19,Ecom Express,Standard,54.56,Delivered,Kolkata
+SHP1456,2026-10-21,2026-10-25,XpressBees,Express,54.25,Delivered,Bengaluru
+SHP1260,2026-09-20,2026-09-28,Ecom Express,Standard,40.82,Delivered,Chennai
+SHP1035,2026-08-10,2026-08-12,DTDC,Two-Day,,Delivered,Pune
+SHP1827,2026-03-21,,DTDC,Economy,33.76,Cancelled,Delhi
+SHP1309,2026-03-03,2026-03-08,Delhivery,Standard,50.32,Delivered,Kolkata
+SHP1276,2026-03-13,2026-03-23,Ecom Express,Economy,25.93,Delivered,Kolkata
+SHP1636,2026-10-08,2026-10-11,Ecom Express,Two-Day,75.27,Delivered,Hyderabad
+SHP1654,2026-03-04,2026-03-07,XpressBees,Standard,36.13,Delivered,Chennai
+SHP1622,2026-01-07,2026-01-14,XpressBees,Standard,57.05,Delivered,Kolkata
+SHP1844,2026-08-19,2026-08-27,XpressBees,Standard,71.32,Delivered,Hyderabad
+SHP1393,2026-09-18,2026-09-23,BlueDart,Standard,62.94,Delivered,Bengaluru
+SHP1107,2026-10-12,,DTDC,Standard,54.78,Cancelled,Jaipur
+SHP1349,2026-03-06,2026-03-22,Ecom Express,Standard,51.06,Delivered,Jaipur
+SHP1524,2026-01-31,2026-02-05,BlueDart,Standard,56.94,Delivered,Jaipur
+SHP1784,2026-01-31,2026-02-04,DTDC,Express,137.11,Delivered,Delhi
+SHP1047,2026-08-10,2026-08-16,Delhivery,Standard,75.6,Delivered,Bengaluru
+SHP1203,2026-09-13,2026-09-20,XpressBees,Economy,20.0,Delivered,Mumbai
+SHP1021,2026-07-21,2026-07-27,BlueDart,Standard,63.21,Delivered,Chennai
+SHP1402,2026-09-22,2026-10-01,XpressBees,Standard,50.0,Delivered,Delhi
+SHP2107,2026-10-18,2026-10-22,DTDC,Express,139.96,Delivered,Bengaluru
+SHP2154,2026-01-23,,Ecom Express,Two-Day,76.59,Cancelled,Jaipur
+SHP2439,2026-10-08,2026-10-14,DTDC,Standard,62.5,Delivered,Pune
+SHP1989,2026-09-12,2026-09-15,Delhivery,Express,81.13,Delivered,Mumbai
+SHP1741,2026-04-15,2026-04-19,DTDC,Standard,62.02,Delivered,Chennai
+SHP2310,2026-01-14,2026-01-24,DTDC,Standard,55.68,Delivered,Jaipur
+SHP2147,2026-07-27,2026-08-05,Delhivery,Economy,44.01,Delivered,Pune
+SHP1033,2026-06-02,,Delhivery,Standard,57.31,Cancelled,Hyderabad
+SHP1787,2026-02-22,2026-02-28,Ecom Express,Express,119.57,Delivered,Jaipur
+SHP1923,2026-10-05,2026-10-11,DTDC,Express,89.77,Delivered,Chennai
+SHP2043,2026-03-02,2026-03-12,DTDC,Standard,43.39,Delivered,Chennai
+SHP2458,2026-07-11,2026-07-17,Delhivery,Standard,58.15,Delivered,Kolkata
+SHP2243,2026-09-23,,DTDC,Standard,46.89,In Transit,Pune
+SHP1579,2026-03-23,2026-03-26,Delhivery,Express,136.71,Delivered,Delhi
+SHP1481,2026-01-17,2026-01-22,XpressBees,Express,101.18,Delivered,Hyderabad
+SHP1931,2026-01-23,,XpressBees,Standard,60.04,In Transit,Pune
+SHP1356,2026-07-16,2026-07-23,Delhivery,Standard,54.88,Delivered,Delhi
+SHP2248,2026-10-19,2026-10-21,Delhivery,Two-Day,80.9,Delivered,Bengaluru
+SHP1759,2026-01-31,2026-02-02,Delhivery,Two-Day,65.67,Delivered,Hyderabad
+SHP1092,2026-05-13,2026-05-20,XpressBees,Economy,26.44,Returned,Mumbai
+SHP2175,2026-05-11,2026-05-17,BlueDart,Standard,54.48,Delivered,Pune
+SHP2415,2026-05-02,2026-05-06,XpressBees,Express,98.23,Returned,Bengaluru
+SHP2341,2026-06-17,2026-06-21,DTDC,Economy,35.55,Delivered,Bengaluru
+SHP1803,2026-02-23,2026-03-04,Ecom Express,Economy,20.18,Delivered,Mumbai
+SHP1745,2026-01-18,2026-01-25,Ecom Express,Standard,74.73,Delivered,Mumbai
+SHP1279,2026-06-26,2026-07-04,XpressBees,Standard,63.29,Delivered,Mumbai
+SHP1764,2026-06-10,2026-06-19,XpressBees,Economy,43.68,Delivered,Jaipur
+SHP1604,2026-07-08,2026-07-12,DTDC,Express,127.77,Delivered,Jaipur
+SHP1091,2026-06-04,,Ecom Express,Two-Day,102.86,In Transit,Hyderabad
+SHP2373,2026-05-29,2026-06-04,Delhivery,Standard,73.9,Delivered,Delhi
+SHP2398,2026-07-03,2026-07-06,XpressBees,Standard,44.58,Delivered,Chennai
+SHP1400,2026-09-24,2026-09-30,XpressBees,Standard,48.43,Delivered,Kolkata
+SHP1257,2026-09-15,2026-09-21,DTDC,Standard,66.44,Delivered,Chennai
+SHP1944,2026-10-24,2026-10-30,XpressBees,Standard,67.73,Delivered,Bengaluru
+SHP2096,2026-04-27,,DTDC,Standard,74.58,In Transit,Pune
+SHP2219,2026-05-24,2026-05-26,DTDC,Express,129.41,Delivered,Jaipur
+SHP2161,2026-09-11,2026-09-18,XpressBees,Economy,35.78,Delivered,Jaipur
+SHP1494,2026-09-21,2026-10-03,Ecom Express,Economy,36.24,Delivered,Jaipur
+SHP1772,2026-10-23,2026-11-01,DTDC,Standard,34.5,Delivered,Jaipur
+SHP1550,2026-10-02,2026-10-12,Ecom Express,Economy,38.3,Delivered,Kolkata
+SHP1201,2026-06-20,2026-06-22,DTDC,Express,139.78,Delivered,Pune
+SHP1312,2026-08-27,2026-09-09,DTDC,Express,,Delivered,Kolkata
+SHP1290,2026-03-10,2026-03-14,BlueDart,Standard,63.48,Delivered,Chennai
+SHP2213,2026-05-06,2026-05-09,Delhivery,Standard,74.75,Delivered,Delhi
+SHP1763,2026-03-29,2026-03-31,BlueDart,Express,127.4,Delivered,Kolkata
+SHP2136,2026-06-11,2026-06-12,Delhivery,Two-Day,85.44,Delivered,Kolkata
+SHP1949,2026-09-03,2026-09-07,XpressBees,Standard,69.33,Delivered,Pune
+SHP1183,2026-01-15,2026-01-18,DTDC,Express,96.05,Delivered,Bengaluru
+SHP2176,2026-03-09,2026-03-14,BlueDart,Standard,78.63,Delivered,Pune
+SHP2349,2026-08-31,2026-09-11,Ecom Express,Standard,65.99,Returned,Mumbai
+SHP2068,2026-10-20,2026-10-23,XpressBees,Express,137.83,Delivered,Kolkata
+SHP2468,2026-10-12,2026-10-16,Delhivery,Economy,45.63,Delivered,Delhi
+SHP2030,2026-09-30,2026-10-06,DTDC,Standard,47.9,Delivered,Bengaluru
+SHP1250,2026-05-21,2026-05-23,DTDC,Express,132.19,Delivered,Mumbai
+SHP1823,2026-03-09,2026-03-14,Ecom Express,Express,97.32,Delivered,Kolkata
+SHP2099,2026-06-12,2026-06-18,Ecom Express,Standard,61.53,Delivered,Pune
+SHP1940,2026-05-09,2026-05-18,Ecom Express,Standard,79.43,Delivered,Jaipur
+SHP1391,2026-07-17,2026-07-20,XpressBees,Express,78.92,Delivered,Kolkata
+SHP2456,2026-06-29,2026-07-05,BlueDart,Standard,,Delivered,Kolkata
+SHP2092,2026-03-01,2026-03-19,Ecom Express,Economy,42.58,Delivered,Kolkata
+SHP2191,2026-06-16,2026-06-19,XpressBees,Standard,72.34,Delivered,Hyderabad
+SHP1904,2026-09-08,2026-09-16,XpressBees,Standard,55.47,Delivered,Jaipur
+SHP1730,2026-09-10,2026-09-18,Ecom Express,Standard,52.21,Delivered,Bengaluru
+SHP1554,2026-07-13,2026-07-20,XpressBees,Standard,68.61,Delivered,Bengaluru
+SHP1366,2026-08-30,2026-09-03,Delhivery,Economy,43.46,Delivered,Kolkata
+SHP1345,2026-08-14,,Ecom Express,Express,122.22,In Transit,Jaipur
+SHP1535,2026-10-02,2026-10-13,XpressBees,Economy,33.01,Delivered,Kolkata
+SHP2422,2026-07-23,2026-07-27,Delhivery,Express,142.4,Delivered,Kolkata
+SHP2209,2026-08-23,2026-08-30,Delhivery,Standard,70.25,Delivered,Delhi
+SHP2372,2026-09-08,2026-09-11,BlueDart,Two-Day,61.81,Delivered,Mumbai
+SHP1919,2026-02-21,2026-02-25,XpressBees,Two-Day,90.93,Delivered,Bengaluru
+SHP1211,2026-06-06,2026-06-13,Ecom Express,Standard,64.23,Delivered,Jaipur
+SHP1502,2026-10-10,2026-10-12,BlueDart,Express,88.85,Returned,Bengaluru
+SHP1537,2026-10-18,2026-11-03,BlueDart,Economy,39.93,Delivered,Hyderabad
+SHP2220,2026-08-29,2026-08-31,Delhivery,Express,104.9,Delivered,Pune
+SHP1175,2026-02-16,2026-02-19,Delhivery,Express,120.07,Delivered,Delhi

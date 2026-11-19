@@ -1,0 +1,686 @@
+Shipment_ID,Delivery_Partner,Shipping_Method,Order_Date,Delivery_Date,Delivery_Days,Delay_Label
+SHP2167,BlueDart,Economy,2026-02-12,2026-02-19,7.0,Slightly Delayed
+SHP1881,Ecom Express,Economy,2026-09-01,2026-09-13,12.0,Highly Delayed
+SHP2386,DTDC,Standard,2026-09-03,2026-09-09,6.0,Slightly Delayed
+SHP1694,BlueDart,Economy,2026-07-14,2026-07-21,7.0,Slightly Delayed
+SHP1370,BlueDart,Economy,2026-09-06,2026-09-16,10.0,Highly Delayed
+SHP1263,Delhivery,Economy,2026-08-14,2026-08-23,9.0,Highly Delayed
+SHP1095,BlueDart,Standard,2026-06-12,2026-06-18,6.0,Slightly Delayed
+SHP1611,Delhivery,Standard,2026-06-14,2026-06-20,6.0,Slightly Delayed
+SHP1677,Delhivery,Standard,2026-06-16,2026-06-23,7.0,Slightly Delayed
+SHP1344,BlueDart,Standard,2026-10-25,2026-11-01,7.0,Slightly Delayed
+SHP1206,BlueDart,Economy,2026-01-08,2026-01-17,9.0,Highly Delayed
+SHP1835,XpressBees,Economy,2026-02-12,2026-02-22,10.0,Highly Delayed
+SHP1602,BlueDart,Standard,2026-03-02,2026-03-08,6.0,Slightly Delayed
+SHP1286,Ecom Express,Standard,2026-06-14,2026-06-23,9.0,Highly Delayed
+SHP2089,Delhivery,Economy,2026-04-16,2026-04-22,6.0,Slightly Delayed
+SHP1863,DTDC,Standard,2026-09-18,2026-09-26,8.0,Slightly Delayed
+SHP2202,Ecom Express,Standard,2026-03-31,2026-04-10,10.0,Highly Delayed
+SHP1397,XpressBees,Standard,2026-04-04,2026-04-10,6.0,Slightly Delayed
+SHP1060,Delhivery,Standard,2026-05-13,2026-05-20,7.0,Slightly Delayed
+SHP2244,Delhivery,Standard,2026-07-24,2026-07-31,7.0,Slightly Delayed
+SHP2011,BlueDart,Economy,2026-04-08,2026-04-29,21.0,Highly Delayed
+SHP1172,BlueDart,Economy,2026-02-05,2026-02-17,12.0,Highly Delayed
+SHP2194,BlueDart,Standard,2026-04-11,2026-04-19,8.0,Slightly Delayed
+SHP2077,DTDC,Economy,2026-01-28,2026-02-05,8.0,Slightly Delayed
+SHP2053,Ecom Express,Economy,2026-01-22,2026-02-01,10.0,Highly Delayed
+SHP2246,Ecom Express,Standard,2026-02-25,2026-03-03,6.0,Slightly Delayed
+SHP2293,BlueDart,Economy,2026-01-06,2026-01-16,10.0,Highly Delayed
+SHP1111,BlueDart,Standard,2026-05-15,2026-05-22,7.0,Slightly Delayed
+SHP1501,DTDC,Standard,2026-03-13,2026-03-22,9.0,Highly Delayed
+SHP2020,DTDC,Standard,2026-02-06,2026-02-12,6.0,Slightly Delayed
+SHP2433,Delhivery,Economy,2026-03-02,2026-03-14,12.0,Highly Delayed
+SHP1740,XpressBees,Standard,2026-08-21,2026-08-29,8.0,Slightly Delayed
+SHP1907,BlueDart,Standard,2026-04-05,2026-04-11,6.0,Slightly Delayed
+SHP1063,BlueDart,Express,2026-10-01,2026-10-10,9.0,Highly Delayed
+SHP1981,Ecom Express,Standard,2026-10-01,2026-10-13,12.0,Highly Delayed
+SHP1658,Ecom Express,Standard,2026-01-18,2026-01-24,6.0,Slightly Delayed
+SHP1284,Ecom Express,Standard,2026-09-15,2026-09-24,9.0,Highly Delayed
+SHP2127,DTDC,Economy,2026-04-27,2026-05-05,8.0,Slightly Delayed
+SHP1416,Ecom Express,Standard,2026-02-24,2026-03-04,8.0,Slightly Delayed
+SHP2378,BlueDart,Standard,2026-03-28,2026-04-03,6.0,Slightly Delayed
+SHP2408,Ecom Express,Economy,2026-06-29,2026-07-10,11.0,Highly Delayed
+SHP2074,XpressBees,Standard,2026-10-21,2026-10-29,8.0,Slightly Delayed
+SHP1027,Ecom Express,Economy,2026-03-09,2026-03-20,11.0,Highly Delayed
+SHP1708,DTDC,Economy,2026-06-15,2026-06-25,10.0,Highly Delayed
+SHP1009,XpressBees,Standard,2026-06-19,2026-06-25,6.0,Slightly Delayed
+SHP1410,DTDC,Economy,2026-01-10,2026-01-19,9.0,Highly Delayed
+SHP1997,XpressBees,Economy,2026-01-11,2026-01-22,11.0,Highly Delayed
+SHP1204,DTDC,Economy,2026-05-25,2026-06-03,9.0,Highly Delayed
+SHP1691,XpressBees,Standard,2026-01-15,2026-01-21,6.0,Slightly Delayed
+SHP1878,Ecom Express,Standard,2026-09-07,2026-09-16,9.0,Highly Delayed
+SHP1901,Delhivery,Economy,2026-03-29,2026-04-13,15.0,Highly Delayed
+SHP1358,BlueDart,Economy,2026-08-09,2026-08-16,7.0,Slightly Delayed
+SHP2232,Delhivery,Standard,2026-04-04,2026-04-11,7.0,Slightly Delayed
+SHP2005,DTDC,Standard,2026-01-29,2026-02-17,19.0,Highly Delayed
+SHP2226,DTDC,Economy,2026-09-23,2026-10-04,11.0,Highly Delayed
+SHP1903,Delhivery,Standard,2026-06-29,2026-07-05,6.0,Slightly Delayed
+SHP1717,DTDC,Standard,2026-09-28,2026-10-05,7.0,Slightly Delayed
+SHP1484,Delhivery,Standard,2026-09-05,2026-09-11,6.0,Slightly Delayed
+SHP2429,XpressBees,Economy,2026-01-12,2026-01-22,10.0,Highly Delayed
+SHP1141,Delhivery,Standard,2026-09-08,2026-09-14,6.0,Slightly Delayed
+SHP2084,DTDC,Economy,2026-09-26,2026-10-06,10.0,Highly Delayed
+SHP2197,XpressBees,Standard,2026-05-26,2026-06-01,6.0,Slightly Delayed
+SHP1800,DTDC,Standard,2026-06-05,2026-06-13,8.0,Slightly Delayed
+SHP1228,DTDC,Standard,2026-07-18,2026-07-27,9.0,Highly Delayed
+SHP1530,XpressBees,Economy,2026-06-18,2026-06-29,11.0,Highly Delayed
+SHP2105,DTDC,Economy,2026-04-17,2026-04-28,11.0,Highly Delayed
+SHP2390,BlueDart,Standard,2026-05-11,2026-05-19,8.0,Slightly Delayed
+SHP2346,XpressBees,Economy,2026-06-06,2026-06-15,9.0,Highly Delayed
+SHP1732,Delhivery,Standard,2026-07-24,2026-07-30,6.0,Slightly Delayed
+SHP1414,Ecom Express,Standard,2026-05-04,2026-05-11,7.0,Slightly Delayed
+SHP1034,BlueDart,Standard,2026-07-10,2026-07-16,6.0,Slightly Delayed
+SHP1392,XpressBees,Standard,2026-09-15,2026-09-21,6.0,Slightly Delayed
+SHP1241,DTDC,Standard,2026-09-04,2026-09-10,6.0,Slightly Delayed
+SHP1518,XpressBees,Economy,2026-09-02,2026-09-11,9.0,Highly Delayed
+SHP2081,Ecom Express,Standard,2026-07-05,2026-07-15,10.0,Highly Delayed
+SHP1870,BlueDart,Economy,2026-03-09,2026-03-15,6.0,Slightly Delayed
+SHP1829,XpressBees,Standard,2026-08-09,2026-08-24,15.0,Highly Delayed
+SHP1731,DTDC,Economy,2026-10-18,2026-10-27,9.0,Highly Delayed
+SHP1024,Ecom Express,Express,2026-07-04,2026-07-20,16.0,Highly Delayed
+SHP1110,Delhivery,Standard,2026-06-04,2026-06-12,8.0,Slightly Delayed
+SHP1015,XpressBees,Standard,2026-05-18,2026-05-24,6.0,Slightly Delayed
+SHP2193,DTDC,Economy,2026-02-13,2026-02-22,9.0,Highly Delayed
+SHP1147,Delhivery,Standard,2026-09-20,2026-09-28,8.0,Slightly Delayed
+SHP1967,DTDC,Standard,2026-10-01,2026-10-07,6.0,Slightly Delayed
+SHP1861,BlueDart,Economy,2026-02-09,2026-02-18,9.0,Highly Delayed
+SHP1699,XpressBees,Standard,2026-08-07,2026-08-14,7.0,Slightly Delayed
+SHP2476,Delhivery,Standard,2026-07-30,2026-08-06,7.0,Slightly Delayed
+SHP2431,DTDC,Standard,2026-10-19,2026-10-27,8.0,Slightly Delayed
+SHP1099,Delhivery,Economy,2026-06-07,2026-06-22,15.0,Highly Delayed
+SHP1004,DTDC,Standard,2026-01-14,2026-01-22,8.0,Slightly Delayed
+SHP2102,Ecom Express,Express,2026-04-23,2026-04-30,7.0,Slightly Delayed
+SHP1328,Ecom Express,Economy,2026-08-29,2026-09-06,8.0,Slightly Delayed
+SHP1249,XpressBees,Standard,2026-07-15,2026-07-22,7.0,Slightly Delayed
+SHP1883,Ecom Express,Standard,2026-07-01,2026-07-08,7.0,Slightly Delayed
+SHP1982,Ecom Express,Standard,2026-01-03,2026-01-11,8.0,Slightly Delayed
+SHP1294,DTDC,Standard,2026-03-16,2026-03-23,7.0,Slightly Delayed
+SHP1783,Ecom Express,Economy,2026-05-26,2026-06-05,10.0,Highly Delayed
+SHP2262,DTDC,Economy,2026-08-20,2026-08-27,7.0,Slightly Delayed
+SHP1113,DTDC,Economy,2026-05-21,2026-05-31,10.0,Highly Delayed
+SHP1464,DTDC,Economy,2026-01-30,2026-02-08,9.0,Highly Delayed
+SHP2016,Delhivery,Standard,2026-04-07,2026-04-13,6.0,Slightly Delayed
+SHP1683,BlueDart,Economy,2026-02-03,2026-02-13,10.0,Highly Delayed
+SHP1350,BlueDart,Economy,2026-10-24,2026-11-01,8.0,Slightly Delayed
+SHP1734,XpressBees,Economy,2026-05-04,2026-05-12,8.0,Slightly Delayed
+SHP1313,Delhivery,Standard,2026-02-15,2026-02-22,7.0,Slightly Delayed
+SHP1955,BlueDart,Standard,2026-03-08,2026-03-21,13.0,Highly Delayed
+SHP1367,XpressBees,Standard,2026-09-30,2026-10-06,6.0,Slightly Delayed
+SHP1389,BlueDart,Standard,2026-03-18,2026-03-24,6.0,Slightly Delayed
+SHP1207,Ecom Express,Standard,2026-08-26,2026-09-03,8.0,Slightly Delayed
+SHP2201,DTDC,Two-Day,2026-10-12,2026-10-21,9.0,Highly Delayed
+SHP1525,BlueDart,Economy,2026-07-27,2026-08-09,13.0,Highly Delayed
+SHP1346,Ecom Express,Economy,2026-06-27,2026-07-17,20.0,Highly Delayed
+SHP1020,Ecom Express,Standard,2026-06-27,2026-07-04,7.0,Slightly Delayed
+SHP1452,Delhivery,Standard,2026-02-08,2026-02-16,8.0,Slightly Delayed
+SHP2137,DTDC,Standard,2026-08-11,2026-08-17,6.0,Slightly Delayed
+SHP1876,BlueDart,Standard,2026-03-09,2026-03-16,7.0,Slightly Delayed
+SHP1643,DTDC,Standard,2026-02-15,2026-02-21,6.0,Slightly Delayed
+SHP1755,BlueDart,Standard,2026-06-21,2026-06-27,6.0,Slightly Delayed
+SHP2245,Ecom Express,Standard,2026-07-26,2026-08-04,9.0,Highly Delayed
+SHP1715,Delhivery,Standard,2026-06-07,2026-06-14,7.0,Slightly Delayed
+SHP2039,XpressBees,Standard,2026-10-22,2026-11-08,17.0,Highly Delayed
+SHP1128,BlueDart,Standard,2026-07-24,2026-07-30,6.0,Slightly Delayed
+SHP1546,Delhivery,Standard,2026-08-12,2026-08-19,7.0,Slightly Delayed
+SHP1874,Ecom Express,Economy,2026-04-03,2026-04-15,12.0,Highly Delayed
+SHP1637,DTDC,Standard,2026-10-03,2026-10-11,8.0,Slightly Delayed
+SHP2368,DTDC,Standard,2026-09-17,2026-09-24,7.0,Slightly Delayed
+SHP1415,Delhivery,Economy,2026-09-27,2026-10-04,7.0,Slightly Delayed
+SHP2278,Delhivery,Standard,2026-02-02,2026-02-09,7.0,Slightly Delayed
+SHP1797,Ecom Express,Standard,2026-06-19,2026-06-26,7.0,Slightly Delayed
+SHP1378,BlueDart,Standard,2026-09-02,2026-09-08,6.0,Slightly Delayed
+SHP1324,Delhivery,Standard,2026-04-09,2026-04-23,14.0,Highly Delayed
+SHP1585,Ecom Express,Standard,2026-01-22,2026-01-29,7.0,Slightly Delayed
+SHP1055,DTDC,Economy,2026-03-04,2026-03-16,12.0,Highly Delayed
+SHP1976,DTDC,Express,2026-07-14,2026-07-29,15.0,Highly Delayed
+SHP2428,BlueDart,Standard,2026-07-09,2026-07-15,6.0,Slightly Delayed
+SHP1887,Ecom Express,Standard,2026-03-16,2026-03-23,7.0,Slightly Delayed
+SHP1586,DTDC,Standard,2026-05-08,2026-05-15,7.0,Slightly Delayed
+SHP2467,BlueDart,Standard,2026-02-12,2026-02-20,8.0,Slightly Delayed
+SHP1264,Delhivery,Economy,2026-08-12,2026-08-21,9.0,Highly Delayed
+SHP1739,XpressBees,Standard,2026-07-26,2026-08-01,6.0,Slightly Delayed
+SHP2279,DTDC,Standard,2026-06-25,2026-07-02,7.0,Slightly Delayed
+SHP1489,BlueDart,Economy,2026-03-18,2026-03-26,8.0,Slightly Delayed
+SHP2352,BlueDart,Standard,2026-04-30,2026-05-06,6.0,Slightly Delayed
+SHP1825,XpressBees,Standard,2026-05-27,2026-06-14,18.0,Highly Delayed
+SHP2484,Ecom Express,Standard,2026-10-09,2026-10-16,7.0,Slightly Delayed
+SHP1330,Delhivery,Economy,2026-10-03,2026-10-13,10.0,Highly Delayed
+SHP1506,XpressBees,Economy,2026-05-02,2026-05-14,12.0,Highly Delayed
+SHP1630,XpressBees,Economy,2026-02-21,2026-03-02,9.0,Highly Delayed
+SHP1361,DTDC,Standard,2026-04-09,2026-04-18,9.0,Highly Delayed
+SHP1326,XpressBees,Economy,2026-02-20,2026-03-02,10.0,Highly Delayed
+SHP1216,Ecom Express,Economy,2026-05-25,2026-06-04,10.0,Highly Delayed
+SHP2051,XpressBees,Standard,2026-08-22,2026-08-28,6.0,Slightly Delayed
+SHP1882,BlueDart,Economy,2026-01-31,2026-02-09,9.0,Highly Delayed
+SHP1068,DTDC,Economy,2026-02-21,2026-03-01,8.0,Slightly Delayed
+SHP2479,Delhivery,Standard,2026-03-15,2026-03-21,6.0,Slightly Delayed
+SHP1300,DTDC,Standard,2026-06-13,2026-06-19,6.0,Slightly Delayed
+SHP1995,Ecom Express,Economy,2026-01-16,2026-01-31,15.0,Highly Delayed
+SHP2264,Delhivery,Economy,2026-10-11,2026-11-04,24.0,Highly Delayed
+SHP1921,Delhivery,Standard,2026-08-03,2026-08-10,7.0,Slightly Delayed
+SHP2117,DTDC,Express,2026-01-25,2026-01-31,6.0,Slightly Delayed
+SHP2190,Ecom Express,Standard,2026-03-30,2026-04-06,7.0,Slightly Delayed
+SHP2381,Ecom Express,Economy,2026-04-21,2026-05-01,10.0,Highly Delayed
+SHP2211,DTDC,Standard,2026-02-10,2026-02-17,7.0,Slightly Delayed
+SHP1302,Delhivery,Economy,2026-08-24,2026-08-31,7.0,Slightly Delayed
+SHP1906,DTDC,Standard,2026-05-18,2026-05-24,6.0,Slightly Delayed
+SHP1619,Ecom Express,Standard,2026-07-28,2026-08-03,6.0,Slightly Delayed
+SHP2054,Ecom Express,Standard,2026-08-14,2026-08-21,7.0,Slightly Delayed
+SHP2319,Ecom Express,Standard,2026-06-30,2026-07-10,10.0,Highly Delayed
+SHP1122,Ecom Express,Express,2026-08-27,2026-09-09,13.0,Highly Delayed
+SHP1280,DTDC,Economy,2026-08-09,2026-08-18,9.0,Highly Delayed
+SHP1673,DTDC,Express,2026-07-04,2026-07-11,7.0,Slightly Delayed
+SHP1744,Ecom Express,Standard,2026-10-27,2026-11-07,11.0,Highly Delayed
+SHP1498,DTDC,Economy,2026-07-31,2026-08-08,8.0,Slightly Delayed
+SHP2047,BlueDart,Standard,2026-03-09,2026-03-27,18.0,Highly Delayed
+SHP1838,DTDC,Economy,2026-02-17,2026-02-25,8.0,Slightly Delayed
+SHP1640,BlueDart,Standard,2026-01-09,2026-01-15,6.0,Slightly Delayed
+SHP1915,XpressBees,Economy,2026-10-19,2026-10-29,10.0,Highly Delayed
+SHP1895,XpressBees,Economy,2026-03-26,2026-04-06,11.0,Highly Delayed
+SHP1595,BlueDart,Economy,2026-06-03,2026-06-14,11.0,Highly Delayed
+SHP1742,Ecom Express,Standard,2026-03-08,2026-03-15,7.0,Slightly Delayed
+SHP1671,XpressBees,Standard,2026-04-22,2026-04-29,7.0,Slightly Delayed
+SHP1946,Ecom Express,Standard,2026-07-09,2026-07-19,10.0,Highly Delayed
+SHP2362,XpressBees,Standard,2026-03-26,2026-04-01,6.0,Slightly Delayed
+SHP2090,XpressBees,Standard,2026-08-31,2026-09-10,10.0,Highly Delayed
+SHP2370,XpressBees,Standard,2026-09-05,2026-09-11,6.0,Slightly Delayed
+SHP1918,DTDC,Express,2026-04-21,2026-04-27,6.0,Slightly Delayed
+SHP1748,BlueDart,Standard,2026-09-02,2026-09-09,7.0,Slightly Delayed
+SHP2028,BlueDart,Standard,2026-07-27,2026-08-02,6.0,Slightly Delayed
+SHP1511,DTDC,Standard,2026-02-22,2026-03-03,9.0,Highly Delayed
+SHP1386,Delhivery,Standard,2026-01-04,2026-01-10,6.0,Slightly Delayed
+SHP1289,Ecom Express,Standard,2026-01-20,2026-01-28,8.0,Slightly Delayed
+SHP1898,XpressBees,Standard,2026-01-19,2026-02-09,21.0,Highly Delayed
+SHP1053,DTDC,Standard,2026-05-23,2026-05-30,7.0,Slightly Delayed
+SHP2225,Ecom Express,Economy,2026-05-09,2026-05-18,9.0,Highly Delayed
+SHP1609,XpressBees,Standard,2026-09-13,2026-09-24,11.0,Highly Delayed
+SHP1817,BlueDart,Economy,2026-04-05,2026-04-14,9.0,Highly Delayed
+SHP1339,Ecom Express,Economy,2026-01-21,2026-02-02,12.0,Highly Delayed
+SHP2180,DTDC,Economy,2026-07-17,2026-07-26,9.0,Highly Delayed
+SHP2087,DTDC,Standard,2026-05-19,2026-05-25,6.0,Slightly Delayed
+SHP1270,Delhivery,Economy,2026-07-11,2026-07-20,9.0,Highly Delayed
+SHP2267,XpressBees,Economy,2026-03-31,2026-04-08,8.0,Slightly Delayed
+SHP1587,Delhivery,Economy,2026-02-13,2026-02-24,11.0,Highly Delayed
+SHP2237,XpressBees,Economy,2026-02-08,2026-02-20,12.0,Highly Delayed
+SHP1572,Delhivery,Standard,2026-01-04,2026-01-11,7.0,Slightly Delayed
+SHP1791,XpressBees,Standard,2026-03-19,2026-03-27,8.0,Slightly Delayed
+SHP2291,BlueDart,Standard,2026-05-31,2026-06-06,6.0,Slightly Delayed
+SHP2067,DTDC,Economy,2026-08-13,2026-08-20,7.0,Slightly Delayed
+SHP1054,BlueDart,Standard,2026-10-07,2026-10-14,7.0,Slightly Delayed
+SHP1394,Ecom Express,Economy,2026-07-15,2026-07-28,13.0,Highly Delayed
+SHP1355,Delhivery,Standard,2026-09-06,2026-09-12,6.0,Slightly Delayed
+SHP1431,DTDC,Economy,2026-08-16,2026-08-25,9.0,Highly Delayed
+SHP1134,Delhivery,Standard,2026-04-29,2026-05-05,6.0,Slightly Delayed
+SHP1385,Ecom Express,Standard,2026-06-04,2026-06-11,7.0,Slightly Delayed
+SHP1531,Delhivery,Standard,2026-03-30,2026-04-05,6.0,Slightly Delayed
+SHP2487,XpressBees,Economy,2026-07-05,2026-07-13,8.0,Slightly Delayed
+SHP2389,Delhivery,Standard,2026-04-04,2026-04-10,6.0,Slightly Delayed
+SHP1553,Ecom Express,Standard,2026-05-05,2026-05-11,6.0,Slightly Delayed
+SHP1012,Ecom Express,Standard,2026-05-06,2026-05-24,18.0,Highly Delayed
+SHP2208,BlueDart,Economy,2026-02-28,2026-03-11,11.0,Highly Delayed
+SHP1617,Ecom Express,Standard,2026-09-06,2026-09-16,10.0,Highly Delayed
+SHP1621,BlueDart,Standard,2026-04-21,2026-04-27,6.0,Slightly Delayed
+SHP1798,DTDC,Standard,2026-01-14,2026-01-20,6.0,Slightly Delayed
+SHP1669,Ecom Express,Standard,2026-06-14,2026-06-24,10.0,Highly Delayed
+SHP2423,BlueDart,Standard,2026-01-15,2026-01-21,6.0,Slightly Delayed
+SHP1899,DTDC,Economy,2026-07-10,2026-07-23,13.0,Highly Delayed
+SHP2345,BlueDart,Economy,2026-04-26,2026-05-04,8.0,Slightly Delayed
+SHP1181,BlueDart,Standard,2026-09-20,2026-09-28,8.0,Slightly Delayed
+SHP1232,XpressBees,Economy,2026-02-22,2026-03-05,11.0,Highly Delayed
+SHP1565,XpressBees,Economy,2026-10-25,2026-11-03,9.0,Highly Delayed
+SHP1856,BlueDart,Standard,2026-04-13,2026-04-19,6.0,Slightly Delayed
+SHP2023,XpressBees,Economy,2026-05-02,2026-05-11,9.0,Highly Delayed
+SHP1205,Delhivery,Standard,2026-02-08,2026-02-15,7.0,Slightly Delayed
+SHP1003,Ecom Express,Economy,2026-07-30,2026-08-13,14.0,Highly Delayed
+SHP1837,XpressBees,Standard,2026-02-21,2026-02-27,6.0,Slightly Delayed
+SHP2348,BlueDart,Standard,2026-01-06,2026-01-12,6.0,Slightly Delayed
+SHP1746,XpressBees,Standard,2026-02-23,2026-03-01,6.0,Slightly Delayed
+SHP1758,Delhivery,Standard,2026-08-28,2026-09-04,7.0,Slightly Delayed
+SHP1986,XpressBees,Standard,2026-06-22,2026-06-28,6.0,Slightly Delayed
+SHP1504,Ecom Express,Standard,2026-07-04,2026-07-13,9.0,Highly Delayed
+SHP1581,Delhivery,Standard,2026-01-24,2026-01-31,7.0,Slightly Delayed
+SHP1672,Ecom Express,Express,2026-03-19,2026-04-01,13.0,Highly Delayed
+SHP1701,Ecom Express,Standard,2026-04-07,2026-04-16,9.0,Highly Delayed
+SHP2010,Ecom Express,Standard,2026-01-19,2026-01-27,8.0,Slightly Delayed
+SHP1157,DTDC,Standard,2026-05-01,2026-05-07,6.0,Slightly Delayed
+SHP1160,Delhivery,Standard,2026-10-02,2026-10-09,7.0,Slightly Delayed
+SHP2461,DTDC,Express,2026-02-17,2026-02-24,7.0,Slightly Delayed
+SHP1769,BlueDart,Economy,2026-06-14,2026-06-21,7.0,Slightly Delayed
+SHP2130,DTDC,Economy,2026-03-03,2026-03-13,10.0,Highly Delayed
+SHP1556,Delhivery,Standard,2026-06-12,2026-06-19,7.0,Slightly Delayed
+SHP1802,XpressBees,Economy,2026-06-28,2026-07-11,13.0,Highly Delayed
+SHP2122,Delhivery,Economy,2026-09-05,2026-09-12,7.0,Slightly Delayed
+SHP2145,BlueDart,Standard,2026-05-24,2026-05-30,6.0,Slightly Delayed
+SHP2075,Delhivery,Economy,2026-09-25,2026-10-06,11.0,Highly Delayed
+SHP2240,XpressBees,Economy,2026-08-31,2026-09-11,11.0,Highly Delayed
+SHP1446,DTDC,Standard,2026-03-04,2026-03-14,10.0,Highly Delayed
+SHP2364,XpressBees,Economy,2026-08-24,2026-08-31,7.0,Slightly Delayed
+SHP1687,XpressBees,Economy,2026-02-06,2026-02-19,13.0,Highly Delayed
+SHP1070,Delhivery,Standard,2026-07-14,2026-07-22,8.0,Slightly Delayed
+SHP1171,Delhivery,Standard,2026-07-25,2026-07-31,6.0,Slightly Delayed
+SHP1680,BlueDart,Standard,2026-10-27,2026-11-03,7.0,Slightly Delayed
+SHP1094,XpressBees,Standard,2026-10-23,2026-10-30,7.0,Slightly Delayed
+SHP2126,DTDC,Express,2026-03-09,2026-03-20,11.0,Highly Delayed
+SHP2242,DTDC,Standard,2026-10-22,2026-10-28,6.0,Slightly Delayed
+SHP1038,XpressBees,Economy,2026-09-02,2026-09-19,17.0,Highly Delayed
+SHP1408,Ecom Express,Standard,2026-03-27,2026-04-06,10.0,Highly Delayed
+SHP1534,DTDC,Standard,2026-03-25,2026-04-04,10.0,Highly Delayed
+SHP1885,DTDC,Economy,2026-06-07,2026-06-17,10.0,Highly Delayed
+SHP2079,XpressBees,Economy,2026-09-22,2026-10-01,9.0,Highly Delayed
+SHP2430,XpressBees,Standard,2026-03-07,2026-03-16,9.0,Highly Delayed
+SHP2171,Ecom Express,Economy,2026-01-08,2026-01-17,9.0,Highly Delayed
+SHP1316,Delhivery,Standard,2026-06-09,2026-06-17,8.0,Slightly Delayed
+SHP2302,XpressBees,Express,2026-02-13,2026-02-25,12.0,Highly Delayed
+SHP2093,XpressBees,Standard,2026-04-18,2026-04-24,6.0,Slightly Delayed
+SHP2270,Delhivery,Standard,2026-02-27,2026-03-05,6.0,Slightly Delayed
+SHP2236,Delhivery,Economy,2026-02-27,2026-03-07,8.0,Slightly Delayed
+SHP1664,XpressBees,Standard,2026-07-17,2026-07-25,8.0,Slightly Delayed
+SHP1061,XpressBees,Economy,2026-07-25,2026-08-04,10.0,Highly Delayed
+SHP1536,XpressBees,Economy,2026-02-02,2026-02-11,9.0,Highly Delayed
+SHP2034,Ecom Express,Economy,2026-08-16,2026-08-24,8.0,Slightly Delayed
+SHP1025,XpressBees,Economy,2026-10-16,2026-10-28,12.0,Highly Delayed
+SHP1222,Delhivery,Standard,2026-08-20,2026-08-26,6.0,Slightly Delayed
+SHP1105,XpressBees,Standard,2026-10-23,2026-10-31,8.0,Slightly Delayed
+SHP1509,DTDC,Standard,2026-09-06,2026-09-15,9.0,Highly Delayed
+SHP1131,XpressBees,Economy,2026-09-16,2026-09-24,8.0,Slightly Delayed
+SHP1444,XpressBees,Economy,2026-01-11,2026-01-18,7.0,Slightly Delayed
+SHP1508,XpressBees,Standard,2026-06-06,2026-06-15,9.0,Highly Delayed
+SHP1057,Delhivery,Economy,2026-02-22,2026-03-01,7.0,Slightly Delayed
+SHP1196,Delhivery,Standard,2026-05-19,2026-05-26,7.0,Slightly Delayed
+SHP2317,Ecom Express,Standard,2026-04-28,2026-05-11,13.0,Highly Delayed
+SHP1477,Ecom Express,Economy,2026-06-18,2026-06-28,10.0,Highly Delayed
+SHP1086,XpressBees,Standard,2026-04-12,2026-04-19,7.0,Slightly Delayed
+SHP1334,DTDC,Economy,2026-03-20,2026-03-27,7.0,Slightly Delayed
+SHP2094,Delhivery,Standard,2026-09-10,2026-09-17,7.0,Slightly Delayed
+SHP2174,DTDC,Standard,2026-01-10,2026-01-16,6.0,Slightly Delayed
+SHP2179,DTDC,Standard,2026-08-10,2026-08-18,8.0,Slightly Delayed
+SHP1538,Ecom Express,Economy,2026-07-02,2026-07-10,8.0,Slightly Delayed
+SHP2173,Ecom Express,Standard,2026-09-07,2026-09-16,9.0,Highly Delayed
+SHP1418,XpressBees,Standard,2026-01-10,2026-01-19,9.0,Highly Delayed
+SHP2285,Ecom Express,Express,2026-06-19,2026-07-06,17.0,Highly Delayed
+SHP1913,DTDC,Economy,2026-01-19,2026-02-01,13.0,Highly Delayed
+SHP2300,BlueDart,Economy,2026-01-12,2026-01-19,7.0,Slightly Delayed
+SHP2109,Ecom Express,Standard,2026-05-23,2026-06-01,9.0,Highly Delayed
+SHP2382,DTDC,Economy,2026-10-03,2026-10-10,7.0,Slightly Delayed
+SHP2224,XpressBees,Standard,2026-01-05,2026-01-14,9.0,Highly Delayed
+SHP1957,BlueDart,Economy,2026-02-28,2026-03-08,8.0,Slightly Delayed
+SHP2187,Ecom Express,Economy,2026-06-12,2026-06-19,7.0,Slightly Delayed
+SHP1008,Ecom Express,Economy,2026-06-16,2026-06-25,9.0,Highly Delayed
+SHP1813,Ecom Express,Economy,2026-06-24,2026-07-06,12.0,Highly Delayed
+SHP1771,Ecom Express,Standard,2026-04-27,2026-05-03,6.0,Slightly Delayed
+SHP1074,DTDC,Standard,2026-07-15,2026-07-23,8.0,Slightly Delayed
+SHP1522,XpressBees,Standard,2026-02-23,2026-03-01,6.0,Slightly Delayed
+SHP1569,XpressBees,Economy,2026-08-27,2026-09-07,11.0,Highly Delayed
+SHP1590,Delhivery,Standard,2026-01-01,2026-01-22,21.0,Highly Delayed
+SHP1173,Ecom Express,Standard,2026-04-17,2026-04-26,9.0,Highly Delayed
+SHP2396,BlueDart,Standard,2026-10-19,2026-10-27,8.0,Slightly Delayed
+SHP2292,DTDC,Express,2026-02-16,2026-02-23,7.0,Slightly Delayed
+SHP1006,XpressBees,Standard,2026-05-12,2026-05-19,7.0,Slightly Delayed
+SHP1138,Ecom Express,Economy,2026-09-28,2026-10-11,13.0,Highly Delayed
+SHP1163,Delhivery,Economy,2026-04-07,2026-04-18,11.0,Highly Delayed
+SHP2249,BlueDart,Economy,2026-02-04,2026-02-14,10.0,Highly Delayed
+SHP2442,DTDC,Economy,2026-07-20,2026-07-29,9.0,Highly Delayed
+SHP1523,DTDC,Standard,2026-04-07,2026-04-14,7.0,Slightly Delayed
+SHP1868,BlueDart,Economy,2026-07-19,2026-07-30,11.0,Highly Delayed
+SHP1578,DTDC,Standard,2026-08-22,2026-08-30,8.0,Slightly Delayed
+SHP1779,Ecom Express,Standard,2026-07-06,2026-07-13,7.0,Slightly Delayed
+SHP1788,DTDC,Standard,2026-06-15,2026-06-22,7.0,Slightly Delayed
+SHP1655,BlueDart,Economy,2026-10-27,2026-11-15,19.0,Highly Delayed
+SHP2427,Ecom Express,Standard,2026-08-23,2026-08-31,8.0,Slightly Delayed
+SHP2452,Delhivery,Standard,2026-04-02,2026-04-08,6.0,Slightly Delayed
+SHP2153,Delhivery,Economy,2026-10-09,2026-10-18,9.0,Highly Delayed
+SHP2118,XpressBees,Standard,2026-05-27,2026-06-02,6.0,Slightly Delayed
+SHP1768,XpressBees,Economy,2026-02-17,2026-03-02,13.0,Highly Delayed
+SHP1148,XpressBees,Standard,2026-05-01,2026-05-07,6.0,Slightly Delayed
+SHP2401,XpressBees,Economy,2026-08-22,2026-08-31,9.0,Highly Delayed
+SHP1246,Ecom Express,Express,2026-01-02,2026-01-08,6.0,Slightly Delayed
+SHP1198,DTDC,Economy,2026-03-19,2026-03-27,8.0,Slightly Delayed
+SHP2128,Delhivery,Standard,2026-08-12,2026-08-27,15.0,Highly Delayed
+SHP1404,DTDC,Standard,2026-02-01,2026-02-07,6.0,Slightly Delayed
+SHP1483,Ecom Express,Express,2026-02-08,2026-02-26,18.0,Highly Delayed
+SHP1158,BlueDart,Standard,2026-07-16,2026-08-05,20.0,Highly Delayed
+SHP1007,Delhivery,Standard,2026-07-11,2026-07-25,14.0,Highly Delayed
+SHP1177,Delhivery,Economy,2026-09-04,2026-09-12,8.0,Slightly Delayed
+SHP1765,Ecom Express,Standard,2026-06-27,2026-07-16,19.0,Highly Delayed
+SHP1357,BlueDart,Economy,2026-01-20,2026-02-04,15.0,Highly Delayed
+SHP1455,Ecom Express,Economy,2026-02-12,2026-02-25,13.0,Highly Delayed
+SHP1543,DTDC,Standard,2026-09-09,2026-09-16,7.0,Slightly Delayed
+SHP1662,DTDC,Standard,2026-09-07,2026-09-13,6.0,Slightly Delayed
+SHP1596,Delhivery,Standard,2026-10-04,2026-10-10,6.0,Slightly Delayed
+SHP1920,XpressBees,Economy,2026-10-27,2026-11-04,8.0,Slightly Delayed
+SHP1159,Ecom Express,Economy,2026-03-16,2026-03-24,8.0,Slightly Delayed
+SHP2198,XpressBees,Economy,2026-08-14,2026-08-22,8.0,Slightly Delayed
+SHP1360,XpressBees,Standard,2026-10-03,2026-10-09,6.0,Slightly Delayed
+SHP1202,Ecom Express,Standard,2026-02-18,2026-02-25,7.0,Slightly Delayed
+SHP2366,Ecom Express,Standard,2026-07-15,2026-07-22,7.0,Slightly Delayed
+SHP1307,DTDC,Standard,2026-06-06,2026-06-23,17.0,Highly Delayed
+SHP2195,XpressBees,Standard,2026-09-20,2026-09-26,6.0,Slightly Delayed
+SHP1422,Ecom Express,Economy,2026-04-17,2026-04-27,10.0,Highly Delayed
+SHP2121,Delhivery,Economy,2026-03-22,2026-03-31,9.0,Highly Delayed
+SHP1999,Ecom Express,Economy,2026-03-10,2026-03-20,10.0,Highly Delayed
+SHP1762,Ecom Express,Economy,2026-09-02,2026-09-15,13.0,Highly Delayed
+SHP2334,XpressBees,Economy,2026-08-26,2026-09-08,13.0,Highly Delayed
+SHP1679,Ecom Express,Standard,2026-05-05,2026-05-12,7.0,Slightly Delayed
+SHP2165,BlueDart,Standard,2026-03-18,2026-03-24,6.0,Slightly Delayed
+SHP2325,BlueDart,Economy,2026-08-24,2026-09-15,22.0,Highly Delayed
+SHP2424,DTDC,Economy,2026-05-07,2026-05-18,11.0,Highly Delayed
+SHP1030,XpressBees,Standard,2026-08-22,2026-08-28,6.0,Slightly Delayed
+SHP2316,Delhivery,Economy,2026-06-02,2026-06-25,23.0,Highly Delayed
+SHP1848,DTDC,Economy,2026-09-12,2026-09-22,10.0,Highly Delayed
+SHP1752,Ecom Express,Standard,2026-10-23,2026-10-29,6.0,Slightly Delayed
+SHP1435,Ecom Express,Standard,2026-10-21,2026-10-28,7.0,Slightly Delayed
+SHP2328,BlueDart,Standard,2026-07-04,2026-07-10,6.0,Slightly Delayed
+SHP2420,Ecom Express,Standard,2026-03-10,2026-03-17,7.0,Slightly Delayed
+SHP2106,Delhivery,Economy,2026-01-16,2026-01-25,9.0,Highly Delayed
+SHP1544,DTDC,Standard,2026-06-29,2026-07-08,9.0,Highly Delayed
+SHP2063,BlueDart,Economy,2026-01-01,2026-01-08,7.0,Slightly Delayed
+SHP2095,Ecom Express,Standard,2026-04-08,2026-04-14,6.0,Slightly Delayed
+SHP2497,BlueDart,Two-Day,2026-04-13,2026-04-22,9.0,Highly Delayed
+SHP1362,XpressBees,Standard,2026-06-22,2026-06-28,6.0,Slightly Delayed
+SHP1956,BlueDart,Standard,2026-08-13,2026-08-19,6.0,Slightly Delayed
+SHP2015,XpressBees,Standard,2026-08-04,2026-08-11,7.0,Slightly Delayed
+SHP1441,Delhivery,Standard,2026-06-18,2026-06-24,6.0,Slightly Delayed
+SHP2008,XpressBees,Economy,2026-03-15,2026-03-25,10.0,Highly Delayed
+SHP1786,Ecom Express,Standard,2026-03-31,2026-04-09,9.0,Highly Delayed
+SHP2164,XpressBees,Standard,2026-05-27,2026-06-02,6.0,Slightly Delayed
+SHP2097,BlueDart,Standard,2026-04-23,2026-05-06,13.0,Highly Delayed
+SHP1472,Delhivery,Economy,2026-07-12,2026-07-22,10.0,Highly Delayed
+SHP2375,XpressBees,Economy,2026-03-08,2026-03-17,9.0,Highly Delayed
+SHP1750,DTDC,Standard,2026-08-16,2026-08-23,7.0,Slightly Delayed
+SHP1388,Delhivery,Standard,2026-05-30,2026-06-05,6.0,Slightly Delayed
+SHP2361,Delhivery,Standard,2026-07-05,2026-07-14,9.0,Highly Delayed
+SHP1050,XpressBees,Economy,2026-02-09,2026-02-21,12.0,Highly Delayed
+SHP1623,DTDC,Economy,2026-02-25,2026-03-07,10.0,Highly Delayed
+SHP2499,XpressBees,Standard,2026-05-17,2026-05-23,6.0,Slightly Delayed
+SHP2265,Ecom Express,Standard,2026-10-09,2026-10-20,11.0,Highly Delayed
+SHP1505,BlueDart,Standard,2026-04-09,2026-04-15,6.0,Slightly Delayed
+SHP1936,Ecom Express,Economy,2026-04-08,2026-04-20,12.0,Highly Delayed
+SHP1869,DTDC,Standard,2026-08-20,2026-08-28,8.0,Slightly Delayed
+SHP1795,XpressBees,Standard,2026-02-11,2026-02-17,6.0,Slightly Delayed
+SHP1632,Delhivery,Standard,2026-04-09,2026-04-16,7.0,Slightly Delayed
+SHP2177,DTDC,Express,2026-04-30,2026-05-07,7.0,Slightly Delayed
+SHP2086,XpressBees,Standard,2026-09-13,2026-09-21,8.0,Slightly Delayed
+SHP2295,BlueDart,Standard,2026-09-24,2026-10-02,8.0,Slightly Delayed
+SHP1077,BlueDart,Economy,2026-09-04,2026-09-12,8.0,Slightly Delayed
+SHP2149,BlueDart,Standard,2026-05-19,2026-05-25,6.0,Slightly Delayed
+SHP1065,Ecom Express,Standard,2026-09-03,2026-09-10,7.0,Slightly Delayed
+SHP2277,Ecom Express,Standard,2026-03-08,2026-03-14,6.0,Slightly Delayed
+SHP1419,XpressBees,Economy,2026-09-29,2026-10-11,12.0,Highly Delayed
+SHP1892,DTDC,Standard,2026-05-22,2026-05-29,7.0,Slightly Delayed
+SHP1438,DTDC,Standard,2026-01-01,2026-01-07,6.0,Slightly Delayed
+SHP1993,BlueDart,Standard,2026-10-18,2026-10-25,7.0,Slightly Delayed
+SHP2404,XpressBees,Economy,2026-07-07,2026-07-19,12.0,Highly Delayed
+SHP1626,XpressBees,Economy,2026-07-02,2026-07-12,10.0,Highly Delayed
+SHP2033,Delhivery,Standard,2026-06-24,2026-07-01,7.0,Slightly Delayed
+SHP1188,DTDC,Standard,2026-02-22,2026-02-28,6.0,Slightly Delayed
+SHP2218,XpressBees,Standard,2026-09-02,2026-09-11,9.0,Highly Delayed
+SHP1583,XpressBees,Standard,2026-07-04,2026-07-15,11.0,Highly Delayed
+SHP2434,Ecom Express,Standard,2026-07-18,2026-07-25,7.0,Slightly Delayed
+SHP1706,Delhivery,Standard,2026-02-21,2026-03-02,9.0,Highly Delayed
+SHP1663,XpressBees,Standard,2026-09-15,2026-09-23,8.0,Slightly Delayed
+SHP1685,DTDC,Economy,2026-01-06,2026-01-15,9.0,Highly Delayed
+SHP2192,DTDC,Standard,2026-07-06,2026-07-15,9.0,Highly Delayed
+SHP2261,Delhivery,Standard,2026-02-17,2026-02-27,10.0,Highly Delayed
+SHP2062,Ecom Express,Standard,2026-03-16,2026-03-23,7.0,Slightly Delayed
+SHP2367,Ecom Express,Standard,2026-07-14,2026-07-21,7.0,Slightly Delayed
+SHP1411,Delhivery,Economy,2026-06-17,2026-06-30,13.0,Highly Delayed
+SHP1458,Delhivery,Standard,2026-09-24,2026-09-30,6.0,Slightly Delayed
+SHP2324,Delhivery,Economy,2026-09-17,2026-09-23,6.0,Slightly Delayed
+SHP2256,DTDC,Standard,2026-08-14,2026-08-20,6.0,Slightly Delayed
+SHP1149,Ecom Express,Standard,2026-09-09,2026-09-17,8.0,Slightly Delayed
+SHP2212,Ecom Express,Standard,2026-07-04,2026-07-12,8.0,Slightly Delayed
+SHP1239,DTDC,Standard,2026-05-16,2026-05-25,9.0,Highly Delayed
+SHP1725,Ecom Express,Standard,2026-03-23,2026-03-30,7.0,Slightly Delayed
+SHP1191,Ecom Express,Economy,2026-07-27,2026-08-08,12.0,Highly Delayed
+SHP2333,Ecom Express,Standard,2026-02-21,2026-03-04,11.0,Highly Delayed
+SHP1644,DTDC,Standard,2026-08-12,2026-08-18,6.0,Slightly Delayed
+SHP1359,XpressBees,Standard,2026-10-24,2026-10-31,7.0,Slightly Delayed
+SHP1992,BlueDart,Economy,2026-03-03,2026-03-09,6.0,Slightly Delayed
+SHP2470,Delhivery,Standard,2026-01-08,2026-01-15,7.0,Slightly Delayed
+SHP1582,DTDC,Standard,2026-01-10,2026-01-20,10.0,Highly Delayed
+SHP2446,XpressBees,Standard,2026-08-04,2026-08-15,11.0,Highly Delayed
+SHP2083,DTDC,Standard,2026-05-12,2026-05-19,7.0,Slightly Delayed
+SHP2409,Ecom Express,Economy,2026-07-17,2026-07-28,11.0,Highly Delayed
+SHP1824,BlueDart,Economy,2026-03-31,2026-04-10,10.0,Highly Delayed
+SHP2241,BlueDart,Standard,2026-03-26,2026-04-01,6.0,Slightly Delayed
+SHP1631,DTDC,Standard,2026-03-18,2026-03-26,8.0,Slightly Delayed
+SHP2049,DTDC,Standard,2026-08-27,2026-09-03,7.0,Slightly Delayed
+SHP2349,Ecom Express,Standard,2026-08-31,2026-09-11,11.0,Highly Delayed
+SHP1119,XpressBees,Standard,2026-06-14,2026-06-21,7.0,Slightly Delayed
+SHP2070,DTDC,Standard,2026-01-31,2026-02-06,6.0,Slightly Delayed
+SHP1790,BlueDart,Standard,2026-02-05,2026-02-14,9.0,Highly Delayed
+SHP1002,DTDC,Economy,2026-05-14,2026-05-22,8.0,Slightly Delayed
+SHP2489,BlueDart,Economy,2026-10-07,2026-10-14,7.0,Slightly Delayed
+SHP2460,Ecom Express,Standard,2026-02-06,2026-02-13,7.0,Slightly Delayed
+SHP1076,Delhivery,Standard,2026-08-28,2026-09-04,7.0,Slightly Delayed
+SHP1900,BlueDart,Standard,2026-06-15,2026-06-21,6.0,Slightly Delayed
+SHP1371,XpressBees,Standard,2026-02-27,2026-03-07,8.0,Slightly Delayed
+SHP1180,BlueDart,Economy,2026-01-19,2026-01-30,11.0,Highly Delayed
+SHP2490,DTDC,Standard,2026-01-26,2026-02-04,9.0,Highly Delayed
+SHP1577,BlueDart,Standard,2026-03-08,2026-03-26,18.0,Highly Delayed
+SHP1062,Ecom Express,Standard,2026-01-28,2026-02-03,6.0,Slightly Delayed
+SHP1589,Ecom Express,Standard,2026-02-12,2026-02-18,6.0,Slightly Delayed
+SHP1886,DTDC,Standard,2026-04-01,2026-04-07,6.0,Slightly Delayed
+SHP2134,XpressBees,Economy,2026-08-03,2026-08-11,8.0,Slightly Delayed
+SHP2160,Ecom Express,Standard,2026-04-25,2026-05-02,7.0,Slightly Delayed
+SHP1311,DTDC,Economy,2026-07-09,2026-07-17,8.0,Slightly Delayed
+SHP2215,BlueDart,Standard,2026-03-04,2026-03-17,13.0,Highly Delayed
+SHP1812,Ecom Express,Standard,2026-08-05,2026-08-12,7.0,Slightly Delayed
+SHP1353,Ecom Express,Standard,2026-10-03,2026-10-11,8.0,Slightly Delayed
+SHP2395,Ecom Express,Express,2026-03-23,2026-03-29,6.0,Slightly Delayed
+SHP1962,Delhivery,Standard,2026-07-31,2026-08-07,7.0,Slightly Delayed
+SHP2025,Ecom Express,Standard,2026-07-19,2026-07-26,7.0,Slightly Delayed
+SHP1499,BlueDart,Standard,2026-05-23,2026-05-29,6.0,Slightly Delayed
+SHP2253,Ecom Express,Standard,2026-09-01,2026-09-07,6.0,Slightly Delayed
+SHP1387,Delhivery,Standard,2026-09-24,2026-10-01,7.0,Slightly Delayed
+SHP1390,Ecom Express,Standard,2026-07-01,2026-07-08,7.0,Slightly Delayed
+SHP1352,BlueDart,Standard,2026-01-01,2026-01-07,6.0,Slightly Delayed
+SHP1567,Ecom Express,Economy,2026-08-28,2026-09-04,7.0,Slightly Delayed
+SHP2271,Ecom Express,Economy,2026-04-21,2026-05-03,12.0,Highly Delayed
+SHP2407,BlueDart,Economy,2026-09-29,2026-10-07,8.0,Slightly Delayed
+SHP2260,XpressBees,Standard,2026-06-24,2026-07-01,7.0,Slightly Delayed
+SHP1120,XpressBees,Express,2026-01-09,2026-01-22,13.0,Highly Delayed
+SHP2024,BlueDart,Standard,2026-02-08,2026-02-15,7.0,Slightly Delayed
+SHP2114,DTDC,Standard,2026-03-26,2026-04-01,6.0,Slightly Delayed
+SHP1613,Ecom Express,Standard,2026-05-25,2026-06-02,8.0,Slightly Delayed
+SHP1485,DTDC,Express,2026-03-28,2026-04-07,10.0,Highly Delayed
+SHP1818,Ecom Express,Standard,2026-03-31,2026-04-10,10.0,Highly Delayed
+SHP1542,Ecom Express,Standard,2026-01-23,2026-02-01,9.0,Highly Delayed
+SHP1150,Ecom Express,Economy,2026-07-06,2026-07-16,10.0,Highly Delayed
+SHP1686,Delhivery,Standard,2026-09-16,2026-09-22,6.0,Slightly Delayed
+SHP1897,Delhivery,Standard,2026-06-05,2026-06-20,15.0,Highly Delayed
+SHP1854,Ecom Express,Standard,2026-10-05,2026-10-13,8.0,Slightly Delayed
+SHP2151,Ecom Express,Standard,2026-07-09,2026-07-18,9.0,Highly Delayed
+SHP1615,DTDC,Standard,2026-08-15,2026-08-22,7.0,Slightly Delayed
+SHP1774,XpressBees,Economy,2026-05-05,2026-05-12,7.0,Slightly Delayed
+SHP1322,Delhivery,Standard,2026-01-05,2026-01-12,7.0,Slightly Delayed
+SHP1512,Ecom Express,Standard,2026-04-10,2026-04-16,6.0,Slightly Delayed
+SHP2150,DTDC,Standard,2026-06-09,2026-06-15,6.0,Slightly Delayed
+SHP2318,Delhivery,Standard,2026-04-07,2026-04-13,6.0,Slightly Delayed
+SHP1831,Ecom Express,Standard,2026-02-03,2026-02-12,9.0,Highly Delayed
+SHP1413,Delhivery,Standard,2026-06-07,2026-06-13,6.0,Slightly Delayed
+SHP1580,XpressBees,Economy,2026-06-20,2026-06-29,9.0,Highly Delayed
+SHP2282,XpressBees,Economy,2026-09-22,2026-09-29,7.0,Slightly Delayed
+SHP1133,Ecom Express,Standard,2026-04-26,2026-05-05,9.0,Highly Delayed
+SHP2031,DTDC,Economy,2026-03-22,2026-04-02,11.0,Highly Delayed
+SHP1320,Delhivery,Economy,2026-02-09,2026-02-19,10.0,Highly Delayed
+SHP2332,Ecom Express,Standard,2026-08-15,2026-08-24,9.0,Highly Delayed
+SHP2309,BlueDart,Economy,2026-06-25,2026-07-03,8.0,Slightly Delayed
+SHP1634,Delhivery,Standard,2026-01-10,2026-01-16,6.0,Slightly Delayed
+SHP1552,DTDC,Economy,2026-03-04,2026-03-13,9.0,Highly Delayed
+SHP2464,Delhivery,Standard,2026-02-24,2026-03-04,8.0,Slightly Delayed
+SHP1796,XpressBees,Standard,2026-04-09,2026-04-15,6.0,Slightly Delayed
+SHP2392,Delhivery,Standard,2026-07-03,2026-07-10,7.0,Slightly Delayed
+SHP1174,Delhivery,Economy,2026-08-03,2026-08-09,6.0,Slightly Delayed
+SHP1245,DTDC,Standard,2026-07-29,2026-08-04,6.0,Slightly Delayed
+SHP2308,Delhivery,Standard,2026-07-06,2026-07-12,6.0,Slightly Delayed
+SHP1145,Ecom Express,Standard,2026-03-26,2026-04-02,7.0,Slightly Delayed
+SHP1090,BlueDart,Standard,2026-07-30,2026-08-05,6.0,Slightly Delayed
+SHP1310,BlueDart,Express,2026-08-23,2026-09-08,16.0,Highly Delayed
+SHP1093,Delhivery,Economy,2026-10-19,2026-10-27,8.0,Slightly Delayed
+SHP2188,DTDC,Standard,2026-02-17,2026-02-27,10.0,Highly Delayed
+SHP1924,DTDC,Standard,2026-02-10,2026-02-18,8.0,Slightly Delayed
+SHP2275,XpressBees,Standard,2026-05-09,2026-05-17,8.0,Slightly Delayed
+SHP2035,DTDC,Standard,2026-03-01,2026-03-07,6.0,Slightly Delayed
+SHP2111,Delhivery,Standard,2026-02-08,2026-02-14,6.0,Slightly Delayed
+SHP1425,XpressBees,Economy,2026-01-25,2026-02-03,9.0,Highly Delayed
+SHP2327,Ecom Express,Express,2026-04-14,2026-04-20,6.0,Slightly Delayed
+SHP1000,Ecom Express,Economy,2026-05-12,2026-05-24,12.0,Highly Delayed
+SHP1401,Delhivery,Economy,2026-04-24,2026-05-05,11.0,Highly Delayed
+SHP2103,DTDC,Economy,2026-10-13,2026-10-22,9.0,Highly Delayed
+SHP1084,BlueDart,Standard,2026-05-28,2026-06-05,8.0,Slightly Delayed
+SHP1114,Delhivery,Standard,2026-03-10,2026-03-17,7.0,Slightly Delayed
+SHP1670,Ecom Express,Economy,2026-08-12,2026-08-22,10.0,Highly Delayed
+SHP2152,Delhivery,Economy,2026-09-26,2026-10-03,7.0,Slightly Delayed
+SHP1826,Ecom Express,Economy,2026-10-06,2026-10-19,13.0,Highly Delayed
+SHP1234,BlueDart,Economy,2026-09-02,2026-09-08,6.0,Slightly Delayed
+SHP1836,Delhivery,Standard,2026-05-19,2026-05-25,6.0,Slightly Delayed
+SHP1842,Delhivery,Economy,2026-04-23,2026-05-03,10.0,Highly Delayed
+SHP2247,Delhivery,Standard,2026-04-28,2026-05-04,6.0,Slightly Delayed
+SHP1293,Ecom Express,Standard,2026-03-09,2026-03-18,9.0,Highly Delayed
+SHP1364,BlueDart,Standard,2026-04-13,2026-04-27,14.0,Highly Delayed
+SHP1178,Ecom Express,Standard,2026-04-09,2026-04-16,7.0,Slightly Delayed
+SHP1059,BlueDart,Standard,2026-01-10,2026-01-16,6.0,Slightly Delayed
+SHP1709,BlueDart,Economy,2026-02-02,2026-02-13,11.0,Highly Delayed
+SHP1780,BlueDart,Standard,2026-02-07,2026-02-13,6.0,Slightly Delayed
+SHP1424,DTDC,Standard,2026-10-08,2026-10-14,6.0,Slightly Delayed
+SHP1292,Ecom Express,Economy,2026-02-28,2026-03-08,8.0,Slightly Delayed
+SHP1429,XpressBees,Standard,2026-07-22,2026-07-30,8.0,Slightly Delayed
+SHP2052,XpressBees,Economy,2026-08-31,2026-09-08,8.0,Slightly Delayed
+SHP1749,Delhivery,Economy,2026-07-18,2026-07-26,8.0,Slightly Delayed
+SHP2306,DTDC,Standard,2026-04-21,2026-04-27,6.0,Slightly Delayed
+SHP2135,Delhivery,Standard,2026-04-13,2026-04-22,9.0,Highly Delayed
+SHP1950,Ecom Express,Economy,2026-05-29,2026-06-09,11.0,Highly Delayed
+SHP1805,Ecom Express,Standard,2026-05-15,2026-05-27,12.0,Highly Delayed
+SHP2148,Ecom Express,Standard,2026-01-14,2026-01-23,9.0,Highly Delayed
+SHP1584,Ecom Express,Standard,2026-07-25,2026-08-01,7.0,Slightly Delayed
+SHP2397,Delhivery,Standard,2026-01-14,2026-01-22,8.0,Slightly Delayed
+SHP2411,Delhivery,Standard,2026-06-24,2026-07-01,7.0,Slightly Delayed
+SHP1719,Ecom Express,Standard,2026-08-30,2026-09-07,8.0,Slightly Delayed
+SHP1884,Ecom Express,Economy,2026-04-21,2026-05-02,11.0,Highly Delayed
+SHP1776,Delhivery,Economy,2026-06-18,2026-07-11,23.0,Highly Delayed
+SHP1849,DTDC,Economy,2026-07-29,2026-08-08,10.0,Highly Delayed
+SHP2421,XpressBees,Economy,2026-08-31,2026-09-10,10.0,Highly Delayed
+SHP1126,DTDC,Standard,2026-08-06,2026-08-15,9.0,Highly Delayed
+SHP1405,Delhivery,Standard,2026-06-18,2026-06-24,6.0,Slightly Delayed
+SHP1821,Ecom Express,Standard,2026-05-04,2026-05-13,9.0,Highly Delayed
+SHP1711,XpressBees,Standard,2026-01-11,2026-01-17,6.0,Slightly Delayed
+SHP2425,BlueDart,Economy,2026-04-16,2026-04-25,9.0,Highly Delayed
+SHP2163,XpressBees,Economy,2026-09-24,2026-10-06,12.0,Highly Delayed
+SHP1212,XpressBees,Economy,2026-02-16,2026-02-24,8.0,Slightly Delayed
+SHP2222,Delhivery,Economy,2026-02-23,2026-03-01,6.0,Slightly Delayed
+SHP1675,BlueDart,Standard,2026-06-20,2026-06-28,8.0,Slightly Delayed
+SHP1966,Delhivery,Economy,2026-05-16,2026-05-24,8.0,Slightly Delayed
+SHP1695,XpressBees,Standard,2026-08-15,2026-08-23,8.0,Slightly Delayed
+SHP1073,BlueDart,Standard,2026-05-24,2026-05-31,7.0,Slightly Delayed
+SHP1104,DTDC,Economy,2026-06-12,2026-06-21,9.0,Highly Delayed
+SHP1645,DTDC,Express,2026-04-26,2026-05-03,7.0,Slightly Delayed
+SHP2481,Ecom Express,Standard,2026-06-23,2026-07-01,8.0,Slightly Delayed
+SHP2040,BlueDart,Economy,2026-08-06,2026-08-19,13.0,Highly Delayed
+SHP2019,DTDC,Standard,2026-08-20,2026-08-27,7.0,Slightly Delayed
+SHP2323,Ecom Express,Economy,2026-03-10,2026-03-21,11.0,Highly Delayed
+SHP1102,DTDC,Standard,2026-10-02,2026-10-12,10.0,Highly Delayed
+SHP1942,BlueDart,Economy,2026-08-04,2026-08-12,8.0,Slightly Delayed
+SHP1005,Delhivery,Standard,2026-01-23,2026-01-31,8.0,Slightly Delayed
+SHP2371,BlueDart,Standard,2026-02-17,2026-02-23,6.0,Slightly Delayed
+SHP1121,XpressBees,Economy,2026-04-06,2026-04-16,10.0,Highly Delayed
+SHP2426,Ecom Express,Standard,2026-01-07,2026-01-14,7.0,Slightly Delayed
+SHP1184,Ecom Express,Economy,2026-04-15,2026-04-26,11.0,Highly Delayed
+SHP1406,DTDC,Standard,2026-05-15,2026-05-21,6.0,Slightly Delayed
+SHP1865,XpressBees,Standard,2026-05-07,2026-05-13,6.0,Slightly Delayed
+SHP1520,Ecom Express,Economy,2026-08-03,2026-08-18,15.0,Highly Delayed
+SHP1380,Ecom Express,Economy,2026-05-30,2026-06-09,10.0,Highly Delayed
+SHP2330,DTDC,Economy,2026-03-29,2026-04-08,10.0,Highly Delayed
+SHP1958,XpressBees,Economy,2026-10-06,2026-10-16,10.0,Highly Delayed
+SHP1690,Delhivery,Standard,2026-09-15,2026-09-21,6.0,Slightly Delayed
+SHP2410,BlueDart,Standard,2026-06-28,2026-07-04,6.0,Slightly Delayed
+SHP1490,BlueDart,Economy,2026-08-16,2026-08-29,13.0,Highly Delayed
+SHP2388,XpressBees,Standard,2026-06-06,2026-06-14,8.0,Slightly Delayed
+SHP1069,Ecom Express,Standard,2026-09-19,2026-09-27,8.0,Slightly Delayed
+SHP1808,Delhivery,Standard,2026-10-26,2026-11-02,7.0,Slightly Delayed
+SHP1917,BlueDart,Economy,2026-02-08,2026-02-20,12.0,Highly Delayed
+SHP1176,DTDC,Economy,2026-01-30,2026-02-08,9.0,Highly Delayed
+SHP1994,XpressBees,Standard,2026-03-23,2026-03-29,6.0,Slightly Delayed
+SHP1519,XpressBees,Standard,2026-02-10,2026-02-16,6.0,Slightly Delayed
+SHP2322,BlueDart,Economy,2026-01-21,2026-01-31,10.0,Highly Delayed
+SHP2032,DTDC,Standard,2026-04-26,2026-05-04,8.0,Slightly Delayed
+SHP1156,Delhivery,Economy,2026-05-01,2026-05-11,10.0,Highly Delayed
+SHP2006,BlueDart,Economy,2026-02-01,2026-02-11,10.0,Highly Delayed
+SHP1910,XpressBees,Standard,2026-02-18,2026-02-24,6.0,Slightly Delayed
+SHP2311,Ecom Express,Standard,2026-07-17,2026-07-25,8.0,Slightly Delayed
+SHP1864,BlueDart,Standard,2026-03-28,2026-04-06,9.0,Highly Delayed
+SHP1398,XpressBees,Economy,2026-09-28,2026-10-07,9.0,Highly Delayed
+SHP2380,DTDC,Standard,2026-10-25,2026-11-02,8.0,Slightly Delayed
+SHP1161,Ecom Express,Standard,2026-03-18,2026-03-25,7.0,Slightly Delayed
+SHP1288,BlueDart,Express,2026-08-16,2026-08-30,14.0,Highly Delayed
+SHP1575,Ecom Express,Economy,2026-01-24,2026-02-03,10.0,Highly Delayed
+SHP1911,Delhivery,Standard,2026-07-23,2026-07-30,7.0,Slightly Delayed
+SHP1247,DTDC,Economy,2026-08-19,2026-08-29,10.0,Highly Delayed
+SHP1085,XpressBees,Standard,2026-06-16,2026-06-22,6.0,Slightly Delayed
+SHP1469,Ecom Express,Economy,2026-06-11,2026-06-20,9.0,Highly Delayed
+SHP1225,DTDC,Standard,2026-10-04,2026-10-11,7.0,Slightly Delayed
+SHP1331,BlueDart,Standard,2026-02-15,2026-02-24,9.0,Highly Delayed
+SHP2284,BlueDart,Standard,2026-09-10,2026-09-16,6.0,Slightly Delayed
+SHP1599,DTDC,Standard,2026-04-13,2026-04-20,7.0,Slightly Delayed
+SHP1182,Ecom Express,Standard,2026-03-17,2026-03-23,6.0,Slightly Delayed
+SHP1988,Delhivery,Standard,2026-05-18,2026-05-29,11.0,Highly Delayed
+SHP2356,Ecom Express,Economy,2026-08-14,2026-08-30,16.0,Highly Delayed
+SHP1529,DTDC,Economy,2026-05-09,2026-05-20,11.0,Highly Delayed
+SHP1497,BlueDart,Economy,2026-04-14,2026-04-22,8.0,Slightly Delayed
+SHP1106,BlueDart,Standard,2026-02-16,2026-02-26,10.0,Highly Delayed
+SHP1646,DTDC,Standard,2026-06-08,2026-06-15,7.0,Slightly Delayed
+SHP1726,Ecom Express,Standard,2026-07-14,2026-07-26,12.0,Highly Delayed
+SHP1647,Delhivery,Economy,2026-04-13,2026-04-20,7.0,Slightly Delayed
+SHP1987,BlueDart,Economy,2026-05-20,2026-05-26,6.0,Slightly Delayed
+SHP1044,XpressBees,Economy,2026-09-28,2026-10-05,7.0,Slightly Delayed
+SHP1373,DTDC,Standard,2026-04-14,2026-04-23,9.0,Highly Delayed
+SHP1678,Ecom Express,Standard,2026-03-12,2026-03-20,8.0,Slightly Delayed
+SHP1460,DTDC,Standard,2026-02-12,2026-02-19,7.0,Slightly Delayed
+SHP1039,XpressBees,Standard,2026-10-05,2026-10-13,8.0,Slightly Delayed
+SHP1434,DTDC,Economy,2026-04-07,2026-04-17,10.0,Highly Delayed
+SHP2239,Ecom Express,Standard,2026-07-29,2026-08-07,9.0,Highly Delayed
+SHP2007,Ecom Express,Standard,2026-05-08,2026-05-19,11.0,Highly Delayed
+SHP1260,Ecom Express,Standard,2026-09-20,2026-09-28,8.0,Slightly Delayed
+SHP1276,Ecom Express,Economy,2026-03-13,2026-03-23,10.0,Highly Delayed
+SHP1622,XpressBees,Standard,2026-01-07,2026-01-14,7.0,Slightly Delayed
+SHP1844,XpressBees,Standard,2026-08-19,2026-08-27,8.0,Slightly Delayed
+SHP1349,Ecom Express,Standard,2026-03-06,2026-03-22,16.0,Highly Delayed
+SHP1047,Delhivery,Standard,2026-08-10,2026-08-16,6.0,Slightly Delayed
+SHP1203,XpressBees,Economy,2026-09-13,2026-09-20,7.0,Slightly Delayed
+SHP1021,BlueDart,Standard,2026-07-21,2026-07-27,6.0,Slightly Delayed
+SHP1402,XpressBees,Standard,2026-09-22,2026-10-01,9.0,Highly Delayed
+SHP2439,DTDC,Standard,2026-10-08,2026-10-14,6.0,Slightly Delayed
+SHP2310,DTDC,Standard,2026-01-14,2026-01-24,10.0,Highly Delayed
+SHP2147,Delhivery,Economy,2026-07-27,2026-08-05,9.0,Highly Delayed
+SHP1787,Ecom Express,Express,2026-02-22,2026-02-28,6.0,Slightly Delayed
+SHP1923,DTDC,Express,2026-10-05,2026-10-11,6.0,Slightly Delayed
+SHP2043,DTDC,Standard,2026-03-02,2026-03-12,10.0,Highly Delayed
+SHP2458,Delhivery,Standard,2026-07-11,2026-07-17,6.0,Slightly Delayed
+SHP1356,Delhivery,Standard,2026-07-16,2026-07-23,7.0,Slightly Delayed
+SHP1092,XpressBees,Economy,2026-05-13,2026-05-20,7.0,Slightly Delayed
+SHP2175,BlueDart,Standard,2026-05-11,2026-05-17,6.0,Slightly Delayed
+SHP1803,Ecom Express,Economy,2026-02-23,2026-03-04,9.0,Highly Delayed
+SHP1745,Ecom Express,Standard,2026-01-18,2026-01-25,7.0,Slightly Delayed
+SHP1279,XpressBees,Standard,2026-06-26,2026-07-04,8.0,Slightly Delayed
+SHP1764,XpressBees,Economy,2026-06-10,2026-06-19,9.0,Highly Delayed
+SHP2373,Delhivery,Standard,2026-05-29,2026-06-04,6.0,Slightly Delayed
+SHP1400,XpressBees,Standard,2026-09-24,2026-09-30,6.0,Slightly Delayed
+SHP1257,DTDC,Standard,2026-09-15,2026-09-21,6.0,Slightly Delayed
+SHP1944,XpressBees,Standard,2026-10-24,2026-10-30,6.0,Slightly Delayed
+SHP2161,XpressBees,Economy,2026-09-11,2026-09-18,7.0,Slightly Delayed
+SHP1494,Ecom Express,Economy,2026-09-21,2026-10-03,12.0,Highly Delayed
+SHP1772,DTDC,Standard,2026-10-23,2026-11-01,9.0,Highly Delayed
+SHP1550,Ecom Express,Economy,2026-10-02,2026-10-12,10.0,Highly Delayed
+SHP1312,DTDC,Express,2026-08-27,2026-09-09,13.0,Highly Delayed
+SHP2030,DTDC,Standard,2026-09-30,2026-10-06,6.0,Slightly Delayed
+SHP2099,Ecom Express,Standard,2026-06-12,2026-06-18,6.0,Slightly Delayed
+SHP1940,Ecom Express,Standard,2026-05-09,2026-05-18,9.0,Highly Delayed
+SHP2456,BlueDart,Standard,2026-06-29,2026-07-05,6.0,Slightly Delayed
+SHP2092,Ecom Express,Economy,2026-03-01,2026-03-19,18.0,Highly Delayed
+SHP1904,XpressBees,Standard,2026-09-08,2026-09-16,8.0,Slightly Delayed
+SHP1730,Ecom Express,Standard,2026-09-10,2026-09-18,8.0,Slightly Delayed
+SHP1554,XpressBees,Standard,2026-07-13,2026-07-20,7.0,Slightly Delayed
+SHP1535,XpressBees,Economy,2026-10-02,2026-10-13,11.0,Highly Delayed
+SHP2209,Delhivery,Standard,2026-08-23,2026-08-30,7.0,Slightly Delayed
+SHP1211,Ecom Express,Standard,2026-06-06,2026-06-13,7.0,Slightly Delayed
+SHP1537,BlueDart,Economy,2026-10-18,2026-11-03,16.0,Highly Delayed
