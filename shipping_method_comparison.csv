@@ -1,0 +1,5 @@
+Shipping_Method,Total_Orders,Delivered_Orders,Cancelled_Orders,In_Transit_Orders,Returned_Orders,Success_Rate_Pct
+Economy,285,246,6,21,12,86.32
+Express,383,329,22,15,17,85.9
+Standard,695,566,41,49,39,81.44
+Two-Day,137,109,7,12,9,79.56
