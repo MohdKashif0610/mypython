@@ -1,5 +1,5 @@
 """
-Project 23: Online Shopping Delivery & Logistics Analysis
+Online Shopping Delivery & Logistics Analysis
 Course: Data Analytics with Python (pandas, NumPy)
 Author: Senior Data Analyst & Python Tutor
 File: analysis.py
