@@ -15,3 +15,6 @@ print(Array)
 List=[10,20,30,40,50]
 Array=kk.array(List)
 print(Array)
+
+sd=kk.std(Array)
+print(sd)
